@@ -1,0 +1,1888 @@
+	Desc	Paliwo	Stan	Rok	Przebieg	Cena
+8	Fiat 500 rabat: 16% (8 650 zł)	benzyna	nowy	2018.0	1.0	44900.0
+12	Fiat Talento rabat: 3% (3 239 zł)	diesel	nowy	2019.0	5.0	104742.0
+24	Fiat Tipo rabat: 21% (15 110 zł)	benzyna	nowy	2018.0	1.0	57990.0
+26	Fiat Doblo rabat: 5% (2 553 zł)	benzyna	nowy	2019.0	5.0	51045.0
+29	Fiat 500 rabat: 15% (8 475 zł)	benzyna	nowy	2018.0	1.0	48025.0
+33	Fiat 500 rabat: 16% (8 120 zł)	benzyna	nowy	2018.0	1.0	42630.0
+35	Fiat 500L rabat: 17% (12 060 zł)	benzyna	nowy	2018.0	1700.0	59990.0
+41	Fiat 500X I rabat: 10% (7 850 zł)	benzyna	nowy	2018.0	2.0	67900.0
+43	Fiat Ducato III rabat: 10% (13 641 zł)	diesel	nowy	2019.0	5.0	122766.0
+45	Fiat Fiorino III rabat: 12% (6 242 zł)	benzyna	nowy	2019.0	5.0	45774.0
+46	Fiat 500X I rabat: 14% (10 450 zł)	benzyna	nowy	2018.0	1.0	64900.0
+51	Fiat Ducato III rabat: 11% (12 915 zł) Wyprzedaż rocznika	diesel	nowy	2018.0	5.0	110085.0
+52	Fiat Panda III rabat: 13% (6 593 zł)	benzyna	nowy	2018.0	1.0	44895.0
+53	Fiat Talento rabat: 22% (31 393 zł) Wyprzedaż rocznika ASO!	diesel	nowy	2018.0	5.0	111302.0
+54	Fiat Ducato III rabat: 10% (12 103 zł)	diesel	nowy	2019.0	5.0	107871.0
+55	Fiat Ducato III rabat: 12% (13 514 zł)	diesel	nowy	2018.0	5.0	99093.0
+56	Fiat Ducato III rabat: 12% (14 428 zł)	diesel	nowy	2018.0	5.0	109224.0
+58	Fiat Ducato III rabat: 19% (22 374 zł)	diesel	nowy	2018.0	5.0	92865.0
+59	Fiat Ducato III rabat: 8% (10 652 zł)	diesel	nowy	2019.0	5.0	119728.0
+61	Fiat Talento rabat: 23% (28 259 zł) Wyprzedaż rocznika 2018 ASO	diesel	nowy	2018.0	5.0	93480.0
+64	Fiat 500X I rabat: 11% (8 660 zł)	benzyna	nowy	2018.0	1.0	70990.0
+71	Fiat Doblo II rabat: 17% (13 272 zł) Wyprzedaż rocznika ASO	diesel	nowy	2018.0	5.0	65067.0
+73	Fiat Doblo II rabat: 12% (8 659 zł) Wyprzedaż rocznika ASO	diesel	nowy	2018.0	5.0	62730.0
+76	Fiat Fiorino III rabat: 17% (14 120 zł) Wyprzedaż rocznika ASO	diesel	nowy	2018.0	5.0	67650.0
+77	Fiat Ducato III rabat: 22% (36 654 zł) Międzynarodówka 10 Palet	diesel	nowy	2018.0	5.0	129396.0
+78	Fiat Ducato III rabat: 11% (18 979 zł) Międzynarodówka 10 Palet	diesel	nowy	2018.0	5.0	152151.0
+84	Fiat Ducato III rabat: 15% (18 690 zł) Wyprzedaż rocznika 2018 ASO!	diesel	nowy	2018.0	5.0	102090.0
+86	Fiat Doblo II rabat: 17% (14 403 zł) Wyprzedaż rocznika ASO!	diesel	nowy	2018.0	5.0	71955.0
+91	Fiat Doblo II rabat: 15% (15 411 zł) Wyprzedaż rocznika 2018!	diesel	nowy	2018.0	5.0	84256.0
+92	Fiat Bravo II	benzyna	sprawny	2012.0	193000.0	22900.0
+93	Fiat Ducato	diesel	sprawny	2007.0	305871.0	19837.0
+97	Camper Fiat Ducato gotowy do sezonu wakacyjnego 	diesel	sprawny	1988.0	230000.0	11200.0
+103	seicento benzyna 1,1, 2003 sprzedam lub zamiana na przyczepkę	benzyna	sprawny	2003.0	132225.0	2900.0
+104	Fiat Doblo II	diesel	bezwypadkowy	2015.0	33058.0	47000.0
+105	Fiat Grande Punto , GAZ	benzyna	bezwypadkowy	2007.0	143180.0	10000.0
+107	Fiat Grande Punto , Salon Polska, Klima	benzyna	bezwypadkowy	2009.0	92534.0	18000.0
+108	Fiat Grande Punto , Salon Polska, Klima	benzyna	bezwypadkowy	2010.0	134130.0	16200.0
+109	Fiat Grande Punto , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2009.0	105704.0	12500.0
+110	Fiat 500 , Salon Polska, GAZ, Klima	benzyna	bezwypadkowy	2010.0	98169.0	22000.0
+111	Fiat 500 , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2013.0	76226.0	28000.0
+112	Fiat 500 , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2013.0	35255.0	28000.0
+113	Fiat Grande Punto , 1. Właściciel, GAZ, Klima	benzyna	bezwypadkowy	2009.0	109467.0	16000.0
+114	Fiat Grande Punto , Salon Polska, GAZ, Klima	benzyna	bezwypadkowy	2008.0	130279.0	14500.0
+115	Fiat Punto Punto Evo , Salon Polska, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2013.0	109541.0	23000.0
+116	Fiat Grande Punto , Salon Polska, Serwis ASO, GAZ, Klima	benzyna	bezwypadkowy	2006.0	184655.0	12000.0
+117	Fiat Bravo II , Salon Polska, Serwis ASO, Klima	diesel	bezwypadkowy	2007.0	257719.0	12000.0
+118	Fiat Croma II , Salon Polska, Klimatronic, Tempomat, Parktronic	diesel	bezwypadkowy	2007.0	116640.0	12000.0
+119	Fiat Sedici , Salon Polska, 1. Właściciel, Serwis ASO, Klimatronic,	benzyna	bezwypadkowy	2011.0	102622.0	26500.0
+120	Fiat Punto Punto Evo , Salon Polska, Serwis ASO, GAZ, Klima	benzyna	bezwypadkowy	2011.0	129566.0	22000.0
+121	Fiat Panda II , Salon Polska, Serwis ASO, Klima, wspomaganie Kierownicy	diesel	bezwypadkowy	2009.0	142823.0	8000.0
+122	Fiat Bravo II , Salon Polska, Serwis ASO, GAZ, Klimatronic	benzyna	bezwypadkowy	2008.0	152732.0	21200.0
+123	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO	benzyna	bezwypadkowy	2004.0	97503.0	10000.0
+124	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2008.0	125968.0	16700.0
+125	Fiat 500 , Salon Polska, Serwis ASO, GAZ, Klima, Dach panoramiczny,ALU	benzyna	bezwypadkowy	2010.0	78172.0	25000.0
+126	Fiat Tipo , Salon Polska, 1. Właściciel, Serwis ASO, GAZ, VAT 23%,	benzyna	bezwypadkowy	2017.0	5.0	55000.0
+127	Fiat Panda II , Salon Polska, 1. Właściciel, Przejechał tylko 44029 KM,	benzyna	bezwypadkowy	2012.0	44029.0	19500.0
+128	Fiat 500X Salon Polska, Serwis ASO, GAZ, Navi, Xenon, Bi-Xenon, Klima,	benzyna	bezwypadkowy	2014.0	104328.0	52000.0
+129	Fiat Tipo , Salon Polska, 1. Właściciel, Serwis ASO, GAZ, VAT 23%,	benzyna	bezwypadkowy	2017.0	3.0	54000.0
+130	Fiat Panda II Fiat Panda Van 1.2/VAT 1/Wsp.CITY/F VAT 23%/Poleca	benzyna	bezwypadkowy	2006.0	257000.0	2900.0
+131	Fiat Fiorino III 1.4i + LPG 5-osobowy, Klima, Gwarancja!	benzyna	bezwypadkowy	2010.0	128000.0	21500.0
+132	Fiat Bravo II 1.4i 90PS SALON! 60 tys.km! Gwarancja!	benzyna	bezwypadkowy	2012.0	60000.0	30500.0
+133	Fiat Sedici 1.6i SALON Model 2011, Stan Jak Nowy! Gwarancja!	benzyna	bezwypadkowy	2010.0	105000.0	28900.0
+134	Fiat Panda II VAN/VAT-1A/2010/WSP. CITY/PEŁNA F-RA VAT 23%	diesel	bezwypadkowy	2011.0	151000.0	7500.0
+135	Fiat Ducato 2.2 MultiJet Tylko 112 tys.km !!!!!!!	diesel	bezwypadkowy	2011.0	112000.0	27900.0
+136	Fiat Doblo MAXI/Vat-1/KLIMA/ELEKTRYKA/F-vat 23%	diesel	bezwypadkowy	2008.0	297000.0	9533.0
+137	Fiat Doblo Kangoo/Partner/Combo/Berlingo/2 sztuki/F-vat23%	diesel	bezwypadkowy	2007.0	187000.0	7299.0
+138	Fiat Ducato MAXI 2.3 MultiJet 130 PS 12 m-cy Gwarancji !!!	diesel	bezwypadkowy	2014.0	102000.0	42900.0
+139	Fiat Panda II ABS - serwisowany - wspomaganie - stan bardzo dobry !!!	benzyna	sprawny	2010.0	59420.0	14500.0
+140	Fiat Tipo 16V - salon Polska - ASO - 1 rej 2018 !!!	benzyna	sprawny	2017.0	31300.0	47355.0
+141	Fiat Tipo 16V - salon Polska - ASO - 1 rej 2018 !!!	benzyna	sprawny	2017.0	26500.0	47355.0
+142	Fiat Punto Evo Punto Evo 8V - klimatyzacja - mp3 - radio cd !!!	benzyna	sprawny	2010.0	133393.0	18900.0
+143	Fiat Punto Evo Punto Evo 8V - klimatyzacja - mp3 - radio cd !!!	benzyna	sprawny	2010.0	96315.0	19900.0
+144	Fiat Tipo 16V -polski salon - 1 właściciel - aso- 1 rej 2018	benzyna	sprawny	2017.0	13650.0	48499.0
+145	Fiat Tipo 16V - polski salon - 1 właściciel -aso - 1 rej 2018	benzyna	sprawny	2017.0	13478.0	48499.0
+146	Fiat Ducato MULTIJET - polski salon - aso - plandeka !!!	diesel	bezwypadkowy	2012.0	239327.0	52275.0
+147	Fiat Ducato Multijet - polski salon - 1 właściciel -aso- VAT 3 !!!	diesel	bezwypadkowy	2013.0	189881.0	56580.0
+148	Fiat Fiorino LPG - polski salon - 1 właściciel - aso - 1 rej 2016 !!!	benzyna	sprawny	2015.0	90497.0	26937.0
+149	Fiat Doblo CARGO 2012 1.6JTD-105KM KLIMA SERWIS 160000km	diesel	sprawny	2012.0	160000.0	16900.0
+150	Fiat 126	benzyna	sprawny	1999.0	97000.0	24000.0
+160	Burstner IXEO Time IT 745 Bezwypadkowy Kempingowy Fiat Ducato 2.3JTD	diesel	bezwypadkowy	2014.0	21200.0	169900.0
+161	Fiat Doblo Brygadówka- 5 miejsc, gwarancja, tempomat, klima, 2012 IX	diesel	bezwypadkowy	2012.0	144412.0	25500.0
+162	Fiat Doblo Maxi - gwarancja, zarejestrowany, klima, 4 nowe opony, XI2014	diesel	bezwypadkowy	2014.0	130306.0	26900.0
+163	Fiat Ducato KONTENER 4.20m Winda DHOLLANDIA Klima 2015r *Gwara	diesel	bezwypadkowy	2015.0	157700.0	64900.0
+164	Fiat Ducato L2H2 KLIMA LEDY NAVI GPS Kamera Cofania EURO 6 *Gw	diesel	bezwypadkowy	2018.0	20400.0	59900.0
+167	Fiat Stilo Fiat Stilo1.9Diesel	diesel	uszkodzony	2002.0	315596.0	5500.0
+171	Fiat Palio FIAT PALIO WEEKEND	benzyna	sprawny	1998.0	154985.0	9200.0
+182	Fiat Punto I sprzedam Fiata Punto	benzyna	bezwypadkowy	1998.0	85000.0	15800.0
+192	Fiat Linea fiat linea pierwszy właściciel	benzyna	bezwypadkowy	2010.0	138678.0	2600.0
+194	Fiat Idea Fiat Idea 1,2 12v opłacony	benzyna	sprawny	2004.0	165000.0	1300.0
+201	Fiat Siena Na sprzedaz Fiat Siena 1999	benzyna	bezwypadkowy	1999.0	107001.0	20900.0
+202	Fiat 126 Polski Fiat 126p 1997	benzyna	sprawny	1997.0	90000.0	1350.0
+203	Fiat Stilo	diesel	sprawny	2001.0	325290.0	1490.0
+204	Fiat Seicento	benzyna	sprawny	2007.0	200000.0	28600.0
+205	Fiat Qubo	diesel	bezwypadkowy	2011.0	143000.0	3990.0
+207	Fiat Tempra	benzyna	sprawny	1995.0	210519.0	1800.0
+208	Fiat 500	benzyna	bezwypadkowy	2014.0	73000.0	7300.0
+209	Fiat Stilo	diesel	sprawny	2004.0	234262.0	37392.0
+210	Fiat Panda	benzyna	sprawny	2005.0	165000.0	13000.0
+213	Fiat 124 2017 Fiat 124-Spider - kabriolet	benzyna	uszkodzony	2017.0	29500.0	38007.0
+214	Fiat Panda II Fiat Panda 1,1 Pb+Lpg 1 właściciel	benzyna	sprawny	2008.0	317686.0	5781.0
+216	Fiat Stilo	benzyna	sprawny	2004.0	145275.0	4900.0
+217	Fiat Qubo	diesel	sprawny	2009.0	110000.0	18900.0
+227	Fiat Marea	diesel	sprawny	1997.0	286057.0	1800.0
+228	Fiat Brava	diesel	sprawny	2001.0	244000.0	3999.0
+230	Fiat Brava	benzyna	sprawny	1999.0	209200.0	6500.0
+231	Fiat 126	benzyna	sprawny	1998.0	75000.0	3450.0
+232	Fiat Stilo	benzyna	sprawny	2002.0	203491.0	2950.0
+233	Fiat Panda II sprzedam zadbanego fiata pandę	benzyna	bezwypadkowy	2004.0	146000.0	18900.0
+236	Fiat Sedici	benzyna	sprawny	2008.0	121465.0	10400.0
+238	FIAT DOBLO 	diesel	uszkodzony	2013.0	166000.0	3700.0
+239	Fiat Idea	benzyna	sprawny	2007.0	146000.0	10000.0
+240	Fiat 500	benzyna	bezwypadkowy	2018.0	31500.0	12000.0
+241	Fiat Seicento	benzyna	bezwypadkowy	2002.0	136500.0	1550.0
+243	Fiat Doblo I	benzyna	bezwypadkowy	2007.0	200000.0	15000.0
+244	Fiat 500 , Salon Polska	benzyna	bezwypadkowy	2008.0	87833.0	16000.0
+245	Fiat Panda II van	benzyna	sprawny	2005.0	330000.0	4500.0
+246	Fiat Punto II	benzyna	sprawny	2002.0	347000.0	2200.0
+247	Fiat Doblo II	diesel	bezwypadkowy	2013.0	152852.0	26922.0
+248	Fiat Grande Punto	benzyna	bezwypadkowy	2006.0	83170.0	14500.0
+249	Fiat Punto II	benzyna	sprawny	2004.0	235000.0	4500.0
+250	Fiat Punto II	benzyna	sprawny	2000.0	295000.0	1999.0
+252	Fiat Brava SPORT @@@@@@@@@@@@@@@@@@@@@@@@@@@	benzyna	sprawny	1999.0	89000.0	3100.0
+254	Fiat Sedici	diesel	sprawny	2007.0	213000.0	19900.0
+255	Fiat Bravo II Fiat Bravo II	benzyna	sprawny	2013.0	163000.0	22900.0
+274	Fiat Marea	benzyna	bezwypadkowy	1988.0	186000.0	2499.0
+275	Fiat Qubo	diesel	bezwypadkowy	2014.0	121000.0	19900.0
+276	Fiat Freemont	diesel	bezwypadkowy	2012.0	106000.0	51900.0
+277	Fiat Scudo II Fiat Scudo 2.0 Diesel 2010r. 120KM	diesel	sprawny	2010.0	75105.0	29999.0
+278	Fiat Punto III Fiat Punto Classic 5d 1.2L 60KM benzyna	benzyna	bezwypadkowy	2009.0	96452.0	9696.0
+279	Fiat Seicento Fiat Seicento rocznik 2001, mały przebieg	benzyna	bezwypadkowy	2001.0	87665.0	1800.0
+280	Fiat Siena Fiat Siena 1.6, benzyna+gaz, pierwszy właściciel	benzyna	bezwypadkowy	1998.0	98000.0	3500.0
+281	Fiat Stilo Fiat Stilo 1.9 JTD DYNAMIC 115KM 2002r.	diesel	sprawny	2002.0	306000.0	2300.0
+282	Fiat 500 Fiat 500 1.2 Pop FV 23%, Gwarancja!!	benzyna	sprawny	2017.0	22471.0	39483.0
+284	Fiat Ducato II Kempingowy	diesel	bezwypadkowy	2002.0	146100.0	65900.0
+285	Fiat Punto II	benzyna	bezwypadkowy	2003.0	191000.0	6500.0
+286	Fiat Punto II FL	benzyna	sprawny	2005.0	144305.0	4900.0
+287	Fiat Bravo II	diesel	bezwypadkowy	2007.0	173938.0	12000.0
+288	Fiat Grande Punto	benzyna	bezwypadkowy	2006.0	104000.0	13900.0
+289	Fiat Doblo II	diesel	bezwypadkowy	2013.0	152852.0	26922.0
+290	Fiat Scudo II	diesel	bezwypadkowy	2007.0	300000.0	17000.0
+291	Fiat Panda II	benzyna	bezwypadkowy	2005.0	130000.0	6700.0
+292	Fiat Idea Automat, Klimatyzacja	diesel	sprawny	2006.0	137000.0	11900.0
+293	Fiat Punto III	benzyna	sprawny	2004.0	132000.0	5900.0
+294	Fiat Punto II	benzyna	sprawny	2002.0	133000.0	2700.0
+295	Fiat Grande Punto	benzyna	bezwypadkowy	2007.0	164812.0	11500.0
+296	Fiat Punto III	benzyna	bezwypadkowy	2006.0	191085.0	6000.0
+297	Fiat Panda III	benzyna	bezwypadkowy	2012.0	74000.0	23900.0
+298	Fiat Grande Punto	benzyna	uszkodzony	2006.0	145571.0	4500.0
+299	Fiat Punto Evo	benzyna	sprawny	2010.0	126000.0	16700.0
+300	Fiat Grande Punto	benzyna	bezwypadkowy	2006.0	167000.0	12900.0
+302	Fiat Sedici 4X4/ 2009	diesel	sprawny	2008.0	140000.0	15900.0
+303	Fiat Punto IV	benzyna	sprawny	2015.0	14000.0	21800.0
+305	Fiat Grande Punto	benzyna	bezwypadkowy	2006.0	148134.0	11900.0
+306	Fiat 500L Fiat 500L 1.4 16V Pop Star	benzyna	sprawny	2017.0	11383.0	45510.0
+307	Fiat Grande Punto Fiat Grande Punto 1.4 benzyna + LPG	benzyna	sprawny	2007.0	166615.0	10000.0
+308	Fiat Croma II	diesel	sprawny	2007.0	150000.0	12400.0
+309	Fiat Scudo II *Gwarancja*	diesel	sprawny	2008.0	198000.0	20787.0
+310	Fiat 126 126P	benzyna	sprawny	1999.0	136000.0	4800.0
+312	Fiat Fiorino III	benzyna	sprawny	2013.0	70000.0	16800.0
+313	Fiat Punto III van	diesel	sprawny	2008.0	187000.0	8500.0
+314	Fiat Punto II	benzyna	sprawny	2000.0	148707.0	2900.0
+315	Fiat Doblo I 223	benzyna	sprawny	2002.0	230000.0	7900.0
+316	Fiat 500 Fiat 500 mały przebieg, alu , solar, climatronic	diesel	bezwypadkowy	2007.0	91100.0	17900.0
+317	Fiat Sedici 4x4 bardzo ładny	diesel	bezwypadkowy	2008.0	125000.0	19800.0
+318	Fiat Punto II Wspomaganie, Zarejestrowany	benzyna	sprawny	2001.0	193000.0	3800.0
+319	Fiat Panda II  rocznik 2004	benzyna	bezwypadkowy	2004.0	211000.0	3700.0
+320	Fiat Cinquecento Unikat dla kolekcjonera	benzyna	bezwypadkowy	1993.0	54000.0	9900.0
+321	Fiat Panda III Klimatyzacja	benzyna	sprawny	2012.0	82000.0	20500.0
+322	Fiat Bravo II ZarejestrowanyLiftKlimatyzacjaKomputerWspomaganieC	diesel	sprawny	2009.0	176000.0	13900.0
+323	Fiat Grande Punto	diesel	sprawny	2008.0	230000.0	9900.0
+324	Fiat Stilo - VIP GWARANCJA!	diesel	sprawny	2004.0	190000.0	5000.0
+325	Fiat Tipo LOUNGE	benzyna	bezwypadkowy	2016.0	37000.0	44000.0
+326	Fiat Sedici 16V Dynamic	benzyna	bezwypadkowy	2007.0	170953.0	15900.0
+327	Fiat Bravo II	diesel	sprawny	2008.0	172000.0	16400.0
+328	Fiat 500 2012 Gucci	benzyna	sprawny	2012.0	103501.0	32595.0
+329	Fiat 125p KUPIĘ fiata 125 p z 70-tych lat	benzyna	sprawny	1900.0	200000.0	10000.0
+330	Fiat Grande Punto Fiat Punto 1.2 Active 60KM_Klima_Super_Okazja!	benzyna	bezwypadkowy	2007.0	115628.0	13500.0
+331	Fiat Croma II multijet	diesel	sprawny	2005.0	218000.0	8700.0
+333	Fiat 500 Automat	benzyna	sprawny	2014.0	45000.0	27600.0
+334	Fiat Tipo LOUNGE	benzyna	bezwypadkowy	2017.0	7200.0	59000.0
+335	Fiat Fiorino III QUBO	benzyna	bezwypadkowy	2011.0	59400.0	22900.0
+336	Fiat Grande Punto	benzyna	bezwypadkowy	2008.0	74727.0	16000.0
+337	Fiat Grande Punto	benzyna	sprawny	2009.0	140000.0	12900.0
+338	Fiat Stilo JTD	diesel	bezwypadkowy	2005.0	98000.0	7200.0
+339	Fiat 500 Krajowy, WX97147	benzyna	sprawny	2017.0	9271.0	34999.0
+340	Fiat Grande Punto	diesel	sprawny	2012.0	111000.0	16900.0
+341	Fiat Panda II Wspomaganie31tys.kmKLIMATYZACJAkrajowyABS	benzyna	bezwypadkowy	2010.0	31000.0	14800.0
+343	Fiat Qubo Fiat Qubo 1.4 benz/LPG, 40000 km przebiegu.	benzyna	sprawny	2013.0	40400.0	25900.0
+344	Fiat Siena Sprzedam Fiat Siena 1.6, 103 KM	benzyna	bezwypadkowy	1997.0	220000.0	1600.0
+345	Fiat Punto II Fiat Punto 1.2 Active * Klimatyzacja *	benzyna	sprawny	2003.0	138000.0	6900.0
+347	Fiat Ducato III	diesel	sprawny	2017.0	46618.0	70600.0
+348	Fiat Croma II	diesel	sprawny	2006.0	149265.0	4770.0
+349	Fiat Punto Grande	benzyna	sprawny	2008.0	118400.0	22300.0
+350	Fiat 500 , Salon Polska	benzyna	bezwypadkowy	2008.0	87833.0	16000.0
+352	Fiat Seicento S	benzyna	sprawny	2001.0	171000.0	1500.0
+353	Fiat Grande Punto	benzyna	sprawny	2010.0	86000.0	16900.0
+354	Fiat Seicento Zarejestrowany - ubezpieczony	benzyna	sprawny	2001.0	217000.0	2490.0
+355	Fiat Grande Punto	benzyna	sprawny	2006.0	172000.0	9999.0
+357	Fiat 500 Electric	nap	bezwypadkowy	2014.0	36800.0	56000.0
+358	Fiat Seicento Brush	benzyna	sprawny	2001.0	154000.0	2700.0
+359	Fiat Punto Evo	benzyna	bezwypadkowy	2010.0	139000.0	16900.0
+360	Fiat Tipo Fiat Tipo jak nowy , gwarancja fabryczna	benzyna	bezwypadkowy	2017.0	36121.0	42800.0
+361	Fiat 500 Fiat 500 1.2 Pop, Benzyna, FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2016.0	18358.0	37023.0
+363	Fiat Punto IV , GAZ, Klima	benzyna	bezwypadkowy	2013.0	127209.0	20000.0
+364	Fiat Punto IV , GAZ, Klima	benzyna	bezwypadkowy	2013.0	127209.0	20000.0
+365	Fiat Sedici , Klima, Podgrzewane siedzienia	diesel	bezwypadkowy	2008.0	225432.0	10000.0
+366	Fiat Bravo II - VIP GWARANCJA!	diesel	sprawny	2007.0	177000.0	14500.0
+367	Fiat Stilo Zadbany	diesel	sprawny	2002.0	290000.0	8777.0
+368	Fiat Panda II 4x4	benzyna	sprawny	2004.0	128047.0	11900.0
+369	Fiat Bravo II	diesel	bezwypadkowy	2010.0	165000.0	19900.0
+370	Fiat Sedici , Klima, Podgrzewane siedzienia	diesel	bezwypadkowy	2008.0	225432.0	10000.0
+371	Fiat Bravo II - VIP GWARANCJA!	diesel	sprawny	2007.0	177000.0	14500.0
+373	Fiat 126 Zarejestrowany nowy lakier	benzyna	sprawny	1995.0	143000.0	6500.0
+374	Fiat Grande Punto Multi Jet	diesel	sprawny	2009.0	340000.0	8500.0
+375	Fiat Qubo , Salon Polska, GAZ	benzyna	bezwypadkowy	2009.0	153410.0	16500.0
+376	Fiat Stilo ZAREJESTROWANY!, Bezwypadkowy, Sprowadzony.	diesel	bezwypadkowy	2003.0	226000.0	5300.0
+377	Fiat Ducato III MAXI 130ps	diesel	bezwypadkowy	2007.0	250000.0	23247.0
+378	Fiat Punto Punto Evo , Klima	benzyna	bezwypadkowy	2011.0	74340.0	20000.0
+379	Fiat 125p Super Zarejestrowany Jeżdżący	benzyna	sprawny	1985.0	61000.0	9999.0
+381	Fiat Seicento 900 SPRAWNE! Oszczędne!	benzyna	sprawny	2001.0	194414.0	1799.0
+382	Fiat Panda II Van 1.2	benzyna	sprawny	2011.0	232000.0	9840.0
+384	Fiat Punto I 55 S	benzyna	sprawny	1998.0	205800.0	1750.0
+385	Fiat Punto III zarejestrowany KLIMA	diesel	sprawny	2005.0	180100.0	5300.0
+386	Fiat Punto IV salon polska	benzyna	sprawny	2014.0	32000.0	25800.0
+388	Fiat Bravo II 1.4 Turbo	benzyna	bezwypadkowy	2008.0	161000.0	18900.0
+389	Fiat 500X I Salon Polska	benzyna	sprawny	2015.0	41870.0	51800.0
+390	Fiat Panda III KrajowyJAK NOWY11tys.km.KLIMATYZACJA	benzyna	bezwypadkowy	2016.0	11500.0	29500.0
+391	Fiat Stilo MultiJet 120 KM	diesel	sprawny	2006.0	305000.0	9500.0
+392	Fiat Sedici Zarejestrowany - benzyna - 4x4	benzyna	bezwypadkowy	2008.0	116000.0	22900.0
+393	Fiat Croma II Multi jet	diesel	sprawny	2008.0	114000.0	16900.0
+394	Fiat Sedici z Gwarancją_2.0D_135KM_4x4WD_Mod=2011r	diesel	bezwypadkowy	2010.0	200000.0	19980.0
+395	Fiat 500 0.9 Twinair Pop	benzyna	sprawny	2011.0	29182.0	17900.0
+396	Fiat Punto Evo salon polska	benzyna	bezwypadkowy	2011.0	77000.0	20900.0
+397	Fiat Tipo Fiat Tipo 1.4 Benzyna + LPG, FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2017.0	84176.0	32349.0
+398	Fiat 500 1,2i	benzyna	sprawny	2011.0	66000.0	21900.0
+399	Fiat 500 Pop	benzyna	sprawny	2015.0	16864.0	33900.0
+400	Fiat 500 1.4 16V	benzyna	bezwypadkowy	2008.0	120772.0	16900.0
+401	Fiat Sedici Dynamic	diesel	bezwypadkowy	2009.0	117211.0	20900.0
+402	Fiat Scudo II CIĘZAROWY	diesel	bezwypadkowy	2011.0	155000.0	19300.0
+404	Fiat Seicento Brush / Led dzienne	benzyna	bezwypadkowy	2002.0	205000.0	4900.0
+405	Fiat Bravo II Benzyna 90KM	benzyna	bezwypadkowy	2008.0	220000.0	17900.0
+406	Fiat Sedici _Lift_Jeden Właściciel_Po Opłatach_	benzyna	bezwypadkowy	2009.0	86000.0	21700.0
+407	Fiat 126 Zarejestrowany nowy lakier	benzyna	sprawny	1995.0	143000.0	6500.0
+408	Fiat Grande Punto Multi Jet	diesel	sprawny	2009.0	340000.0	8500.0
+409	Fiat Qubo , Salon Polska, GAZ	benzyna	bezwypadkowy	2009.0	153410.0	16500.0
+410	Fiat Stilo ZAREJESTROWANY!, Bezwypadkowy, Sprowadzony.	diesel	bezwypadkowy	2003.0	226000.0	5300.0
+411	Fiat Ducato III MAXI 130ps	diesel	bezwypadkowy	2007.0	250000.0	23247.0
+412	Fiat Seicento Fiat Seicento benzyna 899 cm	benzyna	bezwypadkowy	2002.0	125000.0	1700.0
+413	 2002 r. Niski przebieg!	benzyna	sprawny	2017.0	49469.0	30135.0
+414	Fiat Fiorino III FIAT Fiorino 1.4 Euro 6 1368ccm - 77KM 1.4 8V SX	diesel	uszkodzony	2005.0	227000.0	5900.0
+415	Fiat Doblo I Fiat Doblo Diesel 1,9JTD klima ABS 105KM 5-osób	benzyna	bezwypadkowy	2006.0	148125.0	13400.0
+416	Fiat Doblo I 1,4 klima !	diesel	sprawny	2010.0	181000.0	17900.0
+417	Fiat Bravo II salon Polska	benzyna	sprawny	2012.0	137847.0	34900.0
+418	Fiat Sedici ASO.pl,gwarancja, opony	diesel	bezwypadkowy	2013.0	105000.0	56900.0
+419	Fiat Freemont skóra, nawigacja, 4x4	benzyna	sprawny	2004.0	181000.0	4399.0
+420	Fiat Stilo 1.4 16V Actual	benzyna	bezwypadkowy	2011.0	74340.0	20000.0
+421	Fiat Punto Punto Evo , Klima	benzyna	uszkodzony	2014.0	141428.0	13500.0
+423	Fiat 126 gotowy do odrestaurowania	benzyna	sprawny	2007.0	167300.0	3990.0
+424	Fiat Punto Grande Benzyna+CNG	benzyna	bezwypadkowy	2016.0	158000.0	25000.0
+426	Fiat 500 Pop 1.2 8v 69KM Pomorskie	benzyna	sprawny	2004.0	124000.0	5100.0
+427	Fiat Panda II IWL.SALON POLSKA,UTRZYMANY,SERWISOWANY	benzyna	sprawny	2001.0	170000.0	2500.0
+428	Fiat Seicento saet arosa benzyna sprawne	benzyna	sprawny	1984.0	66000.0	9900.0
+430	Fiat Panda II 1.1 Active Olympic	benzyna	sprawny	1975.0	86216.0	6900.0
+431	Fiat 127 Ikona motoryzacji*Sprawny*Jeżdżący*	benzyna	bezwypadkowy	2008.0	138327.0	10000.0
+432	Fiat Grande Punto , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2010.0	68423.0	12700.0
+433	Fiat Panda II , Salon Polska, 1. Właściciel	benzyna	bezwypadkowy	2006.0	173000.0	10900.0
+435	Fiat Punto II wspomaganie CITY salon Polska	diesel	bezwypadkowy	2002.0	165000.0	3900.0
+436	Fiat Bravo II , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2009.0	121945.0	23500.0
+437	Fiat Grande Punto , Salon Polska, GAZ, Klima	benzyna	bezwypadkowy	2008.0	148951.0	15900.0
+438	Fiat Sedici 1.9 4x4,klima,podgrzewane fotele	diesel	sprawny	2006.0	198000.0	14900.0
+439	Fiat Stilo , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2004.0	141505.0	7000.0
+440	Fiat Sedici 4x4 Klimatyzacja Esp Alufelgi	benzyna	sprawny	2007.0	220000.0	21900.0
+441	Fiat Linea , Salon Polska, GAZ, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2011.0	90826.0	18000.0
+442	Fiat Grande Punto , 1. Właściciel, GAZ, Klima	benzyna	bezwypadkowy	2008.0	139677.0	14000.0
+444	Fiat Bravo II 1.4 16V Fresh	benzyna	sprawny	2009.0	90000.0	17900.0
+445	Fiat Punto II 1.9 JTD SX	diesel	bezwypadkowy	2001.0	161000.0	4900.0
+446	Fiat Punto IV salon polska	benzyna	sprawny	2012.0	132000.0	19600.0
+447	Fiat Bravo II salon polska	benzyna	sprawny	2011.0	189000.0	17900.0
+449	Fiat Scudo II JTD klima	diesel	bezwypadkowy	2010.0	61000.0	34317.0
+450	Fiat Grande Punto Van 1.4	benzyna	bezwypadkowy	2007.0	189000.0	11900.0
+451	Fiat Qubo Fiat Qubo 1,4 78KM # BENZYNA + GAZ # tylko 15 tyś.km. # JAK NOWY	benzyna	bezwypadkowy	2018.0	15000.0	39700.0
+452	Fiat 125p Fiat 125p 1988 r. garażowany 15 713 km sprzedam	benzyna	bezwypadkowy	1988.0	15713.0	22000.0
+453	Fiat 500 Fiat 500 1.2 8V Pop Euro5 FV 23%, Gwarancja!!	benzyna	sprawny	2013.0	60563.0	27552.0
+454	Fiat 500L Salon PL + 1 Właściciel + 100% Serwis FIAT a + Panorama Dach !!!	benzyna	bezwypadkowy	2015.0	30300.0	44990.0
+455	Fiat Grande Punto FIAT GRANDE PUNTO Pierwszy WŁ SALON PL 1.2 Benzyn	benzyna	bezwypadkowy	2013.0	130000.0	18450.0
+456	Fiat 500 Fiat 500 1.2 POP SK218KT Krajowy, FV23%, z roczną rękojmią	benzyna	sprawny	2016.0	35071.0	33700.0
+457	Fiat Panda II 1 rej. 2006	benzyna	sprawny	2005.0	129000.0	6700.0
+458	Fiat Panda II , Salon Polska, 1. Właściciel	benzyna	bezwypadkowy	2007.0	56873.0	13000.0
+459	Fiat Grande Punto 1.2 Benzyna Saalon Polska	benzyna	bezwypadkowy	2012.0	67647.0	18900.0
+460	Fiat Panda II 1.1i Wspomaganie+opłacona+serwis	benzyna	sprawny	2007.0	137000.0	9900.0
+461	Fiat Panda II Salon Polska , Van	diesel	sprawny	2006.0	345000.0	5900.0
+463	Fiat Seicento 1.1 54KM -FILM VIDEO -Zobacz	benzyna	sprawny	2001.0	169000.0	3500.0
+464	Fiat Palio sprzedam palio weekend 1,9d.	diesel	sprawny	2001.0	164000.0	2000.0
+465	Fiat 500 , Salon Polska, Klima, Parktronic,ALU	benzyna	bezwypadkowy	2010.0	120512.0	23000.0
+466	Fiat Stilo , Salon Polska, Klimatronic, El. szyby,	benzyna	bezwypadkowy	2004.0	131402.0	5500.0
+467	Fiat Grande Punto , 1. Właściciel, Klima,ALU	benzyna	bezwypadkowy	2006.0	152255.0	14000.0
+468	Fiat Panda II , Salon Polska, VAT 23%	benzyna	bezwypadkowy	2007.0	92873.0	11000.0
+470	Fiat Punto II 1.2 16V sporting, klima	benzyna	sprawny	2003.0	213000.0	4900.0
+471	Fiat Panda II Van 1.4 CNG	cng	sprawny	2011.0	62000.0	14700.0
+472	Fiat Sedici , Salon Polska, 1. Właściciel, GAZ	benzyna	bezwypadkowy	2011.0	133143.0	27000.0
+473	Fiat Brava 80 16V SX	benzyna	bezwypadkowy	2001.0	138000.0	3300.0
+474	Fiat Siena Salon POLSKA + Wspomaganie !!!	benzyna	bezwypadkowy	1998.0	207500.0	1444.0
+475	Fiat Bravo II Salon Polska	diesel	sprawny	2011.0	93588.0	21500.0
+476	Fiat Sedici 4WD, klima, opłacony!	diesel	sprawny	2007.0	205200.0	13900.0
+477	Fiat 500 PO5CY55 Gwarantowany przebieg !	benzyna	sprawny	2017.0	21303.0	34599.0
+478	Fiat Punto II Salon polska,	benzyna	sprawny	2009.0	65000.0	9900.0
+479	Fiat Bravo II Salon PL	diesel	sprawny	2009.0	155000.0	15700.0
+480	Fiat Siena 1.2 Salon Polska	benzyna	sprawny	1999.0	147000.0	2300.0
+481	Fiat Punto IV , Salon Polska, Klima	benzyna	bezwypadkowy	2013.0	68200.0	23000.0
+482	Fiat Panda II , Salon Polska, 1. Właściciel	benzyna	bezwypadkowy	2004.0	80289.0	6300.0
+483	Fiat 500L LU297GH ! Niski przebieg ! Bluetooth !	benzyna	sprawny	2017.0	20196.0	51899.0
+484	Fiat Grande Punto , Salon Polska, 1. Właściciel	benzyna	bezwypadkowy	2007.0	94720.0	11000.0
+486	Fiat Tipo , Salon Polska, Automat, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	32407.0	45000.0
+487	Fiat Stilo 1.9 JTD 115 Active	diesel	sprawny	2002.0	260000.0	3500.0
+488	Fiat Punto III JTD Active JTD	diesel	sprawny	2006.0	92878.0	12900.0
+490	Fiat Croma II 2.4JTD 200KM, Panorama	diesel	sprawny	2005.0	188682.0	14900.0
+491	Fiat Punto Evo Punto Evo 105 KM	benzyna	sprawny	2010.0	167000.0	18900.0
+492	Fiat Grande Punto 1.3-MJT-EVO	diesel	uszkodzony	2014.0	171000.0	13999.0
+494	Fiat 500 FV VAT, Bogate Wyposażenie	benzyna	sprawny	2015.0	71000.0	29999.0
+495	Fiat Punto IV Punto Evo Klimatyzacja	benzyna	sprawny	2015.0	32000.0	25900.0
+496	Fiat Bravo II 1.4 150KM Sport subwoofer	benzyna	bezwypadkowy	2007.0	210000.0	17800.0
+497	Fiat 500L WD4169J # Jak nowy # Bluetooth # Tempomat #	benzyna	sprawny	2017.0	12174.0	49299.0
+498	Fiat Stilo 1.9 JTD 115 Active	diesel	sprawny	2002.0	260000.0	3500.0
+499	Fiat Sedici 4WD, klima, opłacony!	diesel	sprawny	2007.0	205200.0	13900.0
+500	Fiat Brava 80 16V SX	benzyna	bezwypadkowy	2001.0	138000.0	3300.0
+501	Fiat Siena Salon POLSKA + Wspomaganie !!!	benzyna	bezwypadkowy	1998.0	207500.0	1444.0
+502	Fiat Bravo II Salon Polska	diesel	sprawny	2011.0	93588.0	21500.0
+503	Fiat 500 PO5CY55 Gwarantowany przebieg !	benzyna	sprawny	2017.0	21303.0	34599.0
+504	Fiat Punto II Salon polska,	benzyna	sprawny	2009.0	65000.0	9900.0
+505	Fiat Bravo II Salon PL	diesel	sprawny	2009.0	155000.0	15700.0
+506	Fiat Siena 1.2 Salon Polska	benzyna	sprawny	1999.0	147000.0	2300.0
+507	Fiat Croma II 2.4JTD 200KM, Panorama	diesel	sprawny	2005.0	188682.0	14900.0
+508	Fiat Punto Evo Punto Evo 105 KM	benzyna	sprawny	2010.0	167000.0	18900.0
+509	Fiat Grande Punto 1.3-MJT-EVO	diesel	uszkodzony	2014.0	171000.0	13999.0
+511	Fiat 500 FV VAT, Bogate Wyposażenie	benzyna	sprawny	2015.0	71000.0	29999.0
+512	Fiat Bravo II 1.4 150KM Sport subwoofer	benzyna	bezwypadkowy	2007.0	210000.0	17800.0
+513	Fiat Punto IV Punto Evo Klimatyzacja	benzyna	sprawny	2015.0	32000.0	25900.0
+514	Fiat 500L WD4169J # Jak nowy # Bluetooth # Tempomat #	benzyna	sprawny	2017.0	12174.0	49299.0
+515	Fiat Doblo II 1.6 Multijet 16V Active	diesel	bezwypadkowy	2011.0	136000.0	24900.0
+516	Fiat Croma II 1.9 JTD Emotion aut	diesel	sprawny	2005.0	280000.0	9800.0
+517	Fiat Stilo ekonomiczny,gotowy do jazdy	diesel	bezwypadkowy	2002.0	268000.0	4500.0
+518	Fiat Panda III Salon PL - I właściciel	benzyna	sprawny	2014.0	147000.0	18500.0
+520	Fiat Grande Punto Krajowy ,bogate wyposażenie	benzyna	bezwypadkowy	2006.0	209000.0	11500.0
+523	Fiat Punto III JTD Active JTD	diesel	sprawny	2006.0	92878.0	12900.0
+524	Fiat 500 1.2 Pop 2017 ZS566HP	benzyna	bezwypadkowy	2017.0	10474.0	34999.0
+527	Fiat Idea 1.4 Benzyna 75KM Klimatyzacja	benzyna	sprawny	2004.0	129000.0	7900.0
+528	Fiat Stilo 173 Tyś km przebiegu / Serwisowany	benzyna	bezwypadkowy	2004.0	173000.0	6900.0
+530	Fiat Panda II benzyna +LPG klimatyzacja wspomaganie	benzyna	sprawny	2009.0	170000.0	9950.0
+531	Fiat Punto II FL 1.2 8V Active	benzyna	bezwypadkowy	2005.0	97000.0	7700.0
+532	Fiat Punto Grande Kilmatronic,Sport -Wersja 130KM	diesel	sprawny	2006.0	120000.0	8700.0
+533	Fiat Stilo 2005 1,9jtd zarejestrowany ubezpieczony zamiana	diesel	sprawny	2005.0	191000.0	6900.0
+534	Fiat Grande Punto Skórzana tapicerka Zarejestrowany	diesel	sprawny	2008.0	213000.0	8500.0
+535	Fiat Ducato III 2.0 klima 9 miejsc	diesel	sprawny	2013.0	132000.0	46900.0
+538	Fiat Sedici 1.9 Multijet 4x2 Dynamic Plus	diesel	sprawny	2008.0	105000.0	15900.0
+539	Fiat Grande Punto Klimatronic / Jeden Właściciel / Alufelgi	benzyna	bezwypadkowy	2006.0	179000.0	11900.0
+540	Fiat Ducato III 33 MJ MH1	diesel	bezwypadkowy	2007.0	325000.0	17900.0
+541	Fiat 500 Cabrio - 2016 - 100KM - Automat	benzyna	sprawny	2016.0	5716.0	53382.0
+542	Fiat Punto II FL Punto Lift	benzyna	sprawny	2003.0	146446.0	6500.0
+543	Fiat Freemont AWD !!! Automat !!! Faktura Vat 23% !!!	diesel	sprawny	2014.0	129000.0	67990.0
+544	Fiat 500L Pop Star 1.4 95KM	benzyna	bezwypadkowy	2018.0	2.0	57400.0
+546	Fiat Tipo Fiat Tipo E-Torq 1.6 16V FV 23%, Gwarancja!!	benzyna	sprawny	2018.0	16297.0	56457.0
+547	Fiat Tipo FIAT Tipo 1.4 16V 2016r., Benzyna, FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2016.0	60150.0	35547.0
+548	Fiat Bravo II Fiat Bravo 1.4 T-JET Emotion Benzyna 120KM_34595km	benzyna	bezwypadkowy	2008.0	34595.0	25900.0
+549	Fiat Freemont Dealer Karlik FIAT Freemont 2.0 Multijet Black Code AWD	diesel	bezwypadkowy	2014.0	181170.0	58900.0
+550	Fiat Punto IV FIAT Punto 1.4 Benzyna + LPG 2015r., FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2015.0	110128.0	30627.0
+551	Fiat Tipo Fiat Tipo E-Torq 1.6 16V Pop Aut. FV 23%, Gwarancja!	benzyna	sprawny	2018.0	23746.0	56949.0
+552	Fiat Tipo Fiat Tipo E-Torq 1.6 16V Pop Aut. FV 23%, Gwarancja!!	benzyna	sprawny	2018.0	24212.0	57318.0
+553	Fiat Ducato III Fiat Ducato L2H2 2,3 130KM 9-osób Bogata Wersja, FV 23%, Gwarancja!!	diesel	sprawny	2015.0	249078.0	80565.0
+554	Fiat Freemont Fiat Freemont 3,6 LOUNGE servis navi dvd super stan	benzyna	sprawny	2012.0	125000.0	54900.0
+555	Fiat Panda II Klimatyzacja / Serwisowana / Jeden właściciel	benzyna	bezwypadkowy	2005.0	201000.0	8300.0
+556	Fiat Panda II / GWARANCJA ASO / ZADBANY / SERWISOWANY /	diesel	bezwypadkowy	2006.0	143000.0	7700.0
+557	Fiat 500 1,3 benzyna 161tys.km Super stan	benzyna	bezwypadkowy	2010.0	161000.0	17900.0
+558	Fiat 500 1.2 70KM Jak nowy	benzyna	sprawny	2016.0	13500.0	33900.0
+559	Fiat 500 SPORT 1,4 100KM, bezwypadek, GWARANCJA	benzyna	bezwypadkowy	2010.0	71000.0	22700.0
+562	Fiat Sedici 4X4 BEZWYPADKOWY28tys.km.Krajowy na GWARANCJI	benzyna	bezwypadkowy	2014.0	28000.0	41900.0
+563	Fiat Sedici 2012_4x4_1.6 Emotion Benzyna 120KM_JAK NOWY_SUPER!	benzyna	bezwypadkowy	2012.0	42154.0	34500.0
+564	Fiat Qubo 1,4-gaz sekwencja klima	benzyna	bezwypadkowy	2008.0	187000.0	18700.0
+565	Fiat Panda II Klima. Automat. Ks serwisowa	benzyna	bezwypadkowy	2010.0	135240.0	15900.0
+566	Fiat 500 SALON POLSKA I WŁAŚCICIEL PANORAMA	benzyna	bezwypadkowy	2012.0	14000.0	35900.0
+567	Fiat Sedici 1.9 JTD 120KM 4X4, Klima	diesel	sprawny	2007.0	157000.0	19900.0
+568	Fiat Grande Punto SalonPL Bezwypadkowy Gaz!!!	benzyna	bezwypadkowy	2009.0	194000.0	13900.0
+569	Fiat 500 1.2 Pop hatchback 3DR KR9AU39	benzyna	bezwypadkowy	2017.0	7041.0	36900.0
+570	Fiat Bravo II Salon Polska. 1 Właściciel	benzyna	sprawny	2009.0	285000.0	13900.0
+571	Fiat Punto IV Punto 2012 salon polska	benzyna	sprawny	2012.0	107000.0	19900.0
+572	Fiat Punto II 1.2 Salon Polska	benzyna	sprawny	2000.0	89400.0	3900.0
+573	Fiat Grande Punto 2009_1,4 Benzyna 77KM_KLIMA_SUPER STAN_OKAZJA!	benzyna	bezwypadkowy	2009.0	91288.0	15900.0
+575	Fiat Doblo II 1.6 MJ Dynamic	diesel	bezwypadkowy	2012.0	124800.0	21500.0
+576	Fiat Bravo II *Gwaranja*Alusy*Ks.serwis*	benzyna	bezwypadkowy	2009.0	12000.0	19900.0
+577	Fiat Bravo II Super stan z Niemiec	benzyna	bezwypadkowy	2009.0	110000.0	19990.0
+578	Fiat Croma II 2.2 16V Emotion aut	benzyna	sprawny	2007.0	198724.0	11800.0
+579	Fiat Punto Evo 1,4 80km +GAZ , klima!	benzyna	bezwypadkowy	2010.0	139124.0	15900.0
+580	Fiat Croma II Sprowadzony, Bezwypadkowy, Zarejestrowany	diesel	bezwypadkowy	2005.0	198000.0	8000.0
+582	Fiat Punto Evo 1.3 Multijet Klimatyzacja City	diesel	sprawny	2012.0	92000.0	14800.0
+583	Fiat Bravo II zarejestrowany*instalacja LPG*	benzyna	bezwypadkowy	2013.0	170000.0	24800.0
+584	Fiat Doblo II Zadbany,Klimatyzacja,Po Opatach.	diesel	bezwypadkowy	2013.0	150102.0	29900.0
+585	Fiat Bravo II zarejestrowany*instalacja LPG*	benzyna	bezwypadkowy	2013.0	170000.0	24800.0
+586	Fiat Doblo II super stan*klimatyzacja*opłacony	diesel	sprawny	2010.0	139000.0	13700.0
+587	Fiat Sedici 1.9 jtd 120KM 4x4 Lock	diesel	sprawny	2006.0	190000.0	16900.0
+588	Fiat Grande Punto 1,4 gaz klima	benzyna	sprawny	2008.0	175000.0	11900.0
+590	Fiat Doblo I II 1.4 8V Family	benzyna	sprawny	2008.0	260210.0	10900.0
+591	Fiat Bravo II Benzyna Niski Przebieg Klimatyzacja	benzyna	bezwypadkowy	2008.0	116000.0	17900.0
+592	Fiat Stilo Klimatyzacja ABS Możliwa zamiana	diesel	bezwypadkowy	2004.0	236000.0	6990.0
+593	Fiat Bravo II salon polska 1,4	benzyna	sprawny	2011.0	112000.0	20500.0
+594	Fiat Tipo Fiat Tipo E-Torq 1.6 16V FV 23%, Gwarancja!!	benzyna	sprawny	2018.0	16297.0	56457.0
+595	Fiat Tipo FIAT Tipo 1.4 16V 2016r., Benzyna, FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2016.0	60150.0	35547.0
+596	Fiat Bravo II Fiat Bravo 1.4 T-JET Emotion Benzyna 120KM_34595km	benzyna	bezwypadkowy	2008.0	34595.0	25900.0
+597	Fiat Panda II Klimatyzacja / Serwisowana / Jeden właściciel	benzyna	bezwypadkowy	2005.0	201000.0	8300.0
+598	Fiat Panda II / GWARANCJA ASO / ZADBANY / SERWISOWANY /	diesel	bezwypadkowy	2006.0	143000.0	7700.0
+599	Fiat 500 1,3 benzyna 161tys.km Super stan	benzyna	bezwypadkowy	2010.0	161000.0	17900.0
+600	Fiat Panda II Klima. Automat. Ks serwisowa	benzyna	bezwypadkowy	2010.0	135240.0	15900.0
+601	Fiat 500 1.2 70KM Jak nowy	benzyna	sprawny	2016.0	13500.0	33900.0
+602	Fiat 500 SPORT 1,4 100KM, bezwypadek, GWARANCJA	benzyna	bezwypadkowy	2010.0	71000.0	22700.0
+603	Fiat 500 SALON POLSKA I WŁAŚCICIEL PANORAMA	benzyna	bezwypadkowy	2012.0	14000.0	35900.0
+604	Fiat Sedici 1.9 JTD 120KM 4X4, Klima	diesel	sprawny	2007.0	157000.0	19900.0
+605	Fiat Grande Punto SalonPL Bezwypadkowy Gaz!!!	benzyna	bezwypadkowy	2009.0	194000.0	13900.0
+607	Fiat 500 1.2 Pop hatchback 3DR KR9AU39	benzyna	bezwypadkowy	2017.0	7041.0	36900.0
+608	Fiat Bravo II Salon Polska. 1 Właściciel	benzyna	sprawny	2009.0	285000.0	13900.0
+609	Fiat Punto IV Punto 2012 salon polska	benzyna	sprawny	2012.0	107000.0	19900.0
+611	Fiat Punto II 1.2 Salon Polska	benzyna	sprawny	2000.0	89400.0	3900.0
+612	Fiat Sedici 4X4 BEZWYPADKOWY28tys.km.Krajowy na GWARANCJI	benzyna	bezwypadkowy	2014.0	28000.0	41900.0
+613	Fiat Sedici 2012_4x4_1.6 Emotion Benzyna 120KM_JAK NOWY_SUPER!	benzyna	bezwypadkowy	2012.0	42154.0	34500.0
+614	Fiat Qubo 1,4-gaz sekwencja klima	benzyna	bezwypadkowy	2008.0	187000.0	18700.0
+615	Fiat Grande Punto 2009_1,4 Benzyna 77KM_KLIMA_SUPER STAN_OKAZJA!	benzyna	bezwypadkowy	2009.0	91288.0	15900.0
+617	Fiat 500 POP 1.2 wesja POP Salon Polska	benzyna	sprawny	2014.0	15995.0	30900.0
+618	Fiat Tipo Pop | 1,4 95 KM | Oferta specjalna	benzyna	bezwypadkowy	2018.0	6.0	44319.0
+619	Fiat Sedici , Salon Polska, Serwis ASO, GAZ, 4X4, Klima	benzyna	bezwypadkowy	2011.0	91582.0	31300.0
+620	Fiat 500L , Salon Polska, 1. Właściciel, Serwis ASO, Klima, Tempomat,	benzyna	bezwypadkowy	2018.0	3444.0	49000.0
+621	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Tempomat, Parktronic,	benzyna	bezwypadkowy	2017.0	20175.0	43700.0
+622	Fiat Bravo II , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2007.0	88082.0	21000.0
+623	Fiat Linea , Salon Polska, GAZ, VAT 23%, Klima	benzyna	bezwypadkowy	2009.0	126870.0	16500.0
+624	Fiat Ducato III 35 MJ Euro 5 2287ccm - 130KM 3,5t	diesel	sprawny	2014.0	336734.0	43415.0
+625	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO	benzyna	bezwypadkowy	2011.0	88533.0	12000.0
+626	Fiat Albea 1.2 16V 80KM Zadabny ! 2005r 186tyśKM	benzyna	bezwypadkowy	2005.0	186000.0	3900.0
+627	Fiat Linea , Salon Polska, 1. Właściciel, Serwis ASO, GAZ, Klima ,	benzyna	bezwypadkowy	2012.0	99095.0	21000.0
+628	Fiat Punto IV Przebieg tylko 46 tys. km	benzyna	bezwypadkowy	2015.0	46000.0	27900.0
+629	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2009.0	87169.0	17000.0
+630	Fiat 500X , Salon Polska, 1. Właściciel, Serwis ASO, GAZ, Klima,	benzyna	bezwypadkowy	2015.0	117139.0	44000.0
+631	Fiat Croma II Super stan Najlepszy silnik GWARANCJA	diesel	bezwypadkowy	2007.0	289000.0	12800.0
+632	Fiat Grande Punto , 1. Właściciel, Klima, Tempomat,ALU	diesel	bezwypadkowy	2005.0	192698.0	11000.0
+633	Fiat Doblo I JTD 5-osobowy Klima, Parktronic	diesel	sprawny	2008.0	308000.0	10800.0
+634	Fiat Punto III , Salon Polska, Klima, wspomaganie Kierownicy, Alarm	benzyna	bezwypadkowy	2004.0	161066.0	4200.0
+635	Fiat Qubo , Salon Polska, Serwis ASO, GAZ, VAT 23%, Klima	benzyna	bezwypadkowy	2014.0	74829.0	31000.0
+636	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2007.0	140349.0	13000.0
+637	Fiat Grande Punto Salon Polska, I Właściciel, Serwisowany	benzyna	bezwypadkowy	2009.0	70000.0	14700.0
+638	Fiat Punto Punto Evo , 1. Właściciel, Klimatronic, Tempomat,	benzyna	bezwypadkowy	2010.0	172386.0	17000.0
+639	Fiat Sedici , GAZ, Automat, Klimatronic, Podgrzewane siedzienia,ALU	benzyna	bezwypadkowy	2010.0	105121.0	24800.0
+640	Fiat Seicento Young 900cm	benzyna	sprawny	2000.0	237000.0	1499.0
+641	 ( 2000r * ładny * Okazja	benzyna	bezwypadkowy	2017.0	21305.0	36900.0
+642	Fiat 500 1.2 Pop Salon PL 1wł. Gwarancja	benzyna	bezwypadkowy	2006.0	153121.0	8487.0
+644	"Fiat Bravo II 1.6MJ Webasto ""Poziomka"""	benzyna	bezwypadkowy	2018.0	4.0	41500.0
+646	Fiat 500X I CITY CROSS 1,6 E-Torq 110KM	benzyna	bezwypadkowy	2019.0	6.0	46874.0
+647	Fiat Tipo Sedan| wersja Tipo | biały \szara tap |2019	benzyna	sprawny	2006.0	96000.0	10900.0
+648	Fiat Punto II BENZYNA I WŁAŚCICEL POLSKI SALON	benzyna	bezwypadkowy	2015.0	50285.0	29700.0
+649	Fiat Punto IV , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2016.0	31185.0	45000.0
+650	Fiat Tipo , Salon Polska, 1. Właściciel, Serwis ASO, Automat, Klima,	benzyna	bezwypadkowy	2015.0	23012.0	33000.0
+651	Fiat 500 , Salon Polska, Serwis ASO, GAZ, Klima	benzyna	bezwypadkowy	2014.0	48112.0	27000.0
+652	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2018.0	8168.0	52000.0
+653	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Automat, Skóra,	benzyna	bezwypadkowy	2009.0	126870.0	16500.0
+654	Fiat Linea , Salon Polska, GAZ, VAT 23%, Klima	benzyna	bezwypadkowy	2014.0	37000.0	28900.0
+655	Fiat Panda III Young Krajowa 1 Właściciel ASO Klima Metalic	benzyna	bezwypadkowy	2018.0	8168.0	52000.0
+656	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Automat, Skóra,	benzyna	bezwypadkowy	2018.0	6.0	55767.0
+657	Fiat Tipo SW |1,4 95 KM E6D |Pop |Szary |Wyprzedaż	benzyna	bezwypadkowy	2018.0	3444.0	48000.0
+658	Fiat Panda III Panda 1,2 Klima Model 2017	benzyna	uszkodzony	2016.0	30161.0	14900.0
+659	Fiat 126 FL* I właściciel* 100% Oryginał* Bezwypadkowy	benzyna	bezwypadkowy	1992.0	44093.0	10000.0
+660	Fiat Punto Punto Evo , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2011.0	78388.0	22000.0
+661	Fiat Punto II 1.2 benzyna ze wspomaganiem zadbany	benzyna	bezwypadkowy	2001.0	129000.0	2990.0
+662	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2014.0	36628.0	27200.0
+663	Fiat Sedici , Salon Polska, Serwis ASO, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2009.0	71479.0	24400.0
+664	Fiat 500 uszkodzony, Lounge, salon PL, manual, faktura VAT 23%	benzyna	sprawny	2016.0	22000.0	30750.0
+665	Fiat 125p FIAT125-125P-oryginalny lakier suuuuper-stan	benzyna	bezwypadkowy	1987.0	69000.0	16700.0
+666	Fiat Panda II 1.1 !! Wspomaganie !! Świeżo Od Niemca !! Oplacony OSTROWEK1	benzyna	bezwypadkowy	2006.0	136000.0	7300.0
+667	Fiat Sedici , Salon Polska, 1. Właściciel, Serwis ASO, Klimatronic	benzyna	bezwypadkowy	2013.0	43659.0	36500.0
+668	Fiat Panda II , Salon Polska, 1. Właściciel, Klima, wspomaganie Kierownicy	benzyna	bezwypadkowy	2004.0	110389.0	9000.0
+669	Fiat Scudo II PANORAMA 6 osób NOWE SPRZĘGŁO+ROZRZĄD FV23%	diesel	sprawny	2008.0	155.0	26445.0
+670	Fiat Panda II , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2012.0	64458.0	17000.0
+671	Fiat 500 PO9EC22 # Salon Polska # 1.2 POP # Faktura Vat 23 %	benzyna	sprawny	2017.0	10213.0	34899.0
+672	Fiat Panda II 1,1-54KM Krajowy 1 właściciel Klima Wspomaganie	benzyna	bezwypadkowy	2009.0	120138.0	11900.0
+673	Fiat Cinquecento 700ccm 70tkm Orginał od Pierwszego Właściciela	benzyna	bezwypadkowy	1998.0	70200.0	3490.0
+674	Fiat Tipo Sedan| wersja Tipo | srebrny \szara tap |2019	benzyna	bezwypadkowy	2019.0	6.0	46874.0
+675	Fiat Grande Punto , 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2008.0	119026.0	15000.0
+676	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO ,Bezkolizyjny	benzyna	bezwypadkowy	2014.0	91204.0	24800.0
+677	Fiat 500 , Salon Polska, Serwis ASO, Klima, Dach panoramiczny	benzyna	bezwypadkowy	2014.0	41479.0	31000.0
+678	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2012.0	122377.0	21000.0
+679	Fiat Linea , Salon Polska, 1. Właściciel, GAZ, Klima,ALU	benzyna	bezwypadkowy	2007.0	161592.0	13000.0
+680	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2009.0	113870.0	17500.0
+681	Fiat Qubo 2010r 1.3 JTD 75 KM Możliwa Zamiana	diesel	bezwypadkowy	2010.0	134000.0	19400.0
+682	Fiat 500 1.2 8V Pop Euro6	benzyna	bezwypadkowy	2016.0	7142.0	35900.0
+683	Fiat 500 S Jak nowy !!! 97000km.	benzyna	sprawny	2013.0	97000.0	28400.0
+684	Fiat Bravo II Cena plus opłaty	benzyna	bezwypadkowy	2008.0	142000.0	19900.0
+685	Fiat Punto IV Punto Evo Klimatyzacja , Serwis	benzyna	sprawny	2012.0	102000.0	21900.0
+686	Fiat Croma II bezwypadkowa, bardzo ładna, GWARANCJA	diesel	bezwypadkowy	2008.0	218000.0	11900.0
+687	Fiat Ducato III 3,0 JTD 9- osobowy	diesel	uszkodzony	2007.0	160000.0	2459.0
+688	Fiat 500 Bezwypadkowy I Właściciel Salonowy	benzyna	bezwypadkowy	2014.0	123000.0	27000.0
+689	Fiat Croma II 1.9 JTD Dynamic	diesel	sprawny	2008.0	361000.0	9700.0
+690	Fiat Panda II 1,1-54KM Krajowy 1 właściciel Klima Wspomaganie	benzyna	bezwypadkowy	2009.0	120138.0	11900.0
+691	Fiat Cinquecento 700ccm 70tkm Orginał od Pierwszego Właściciela	benzyna	bezwypadkowy	1998.0	70200.0	3490.0
+692	Fiat Tipo Sedan| wersja Tipo | srebrny \szara tap |2019	benzyna	bezwypadkowy	2019.0	6.0	46874.0
+693	Fiat Grande Punto , 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2008.0	119026.0	15000.0
+694	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO ,Bezkolizyjny	benzyna	bezwypadkowy	2014.0	91204.0	24800.0
+695	Fiat 500 , Salon Polska, Serwis ASO, Klima, Dach panoramiczny	benzyna	bezwypadkowy	2014.0	41479.0	31000.0
+696	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2012.0	122377.0	21000.0
+697	Fiat Linea , Salon Polska, 1. Właściciel, GAZ, Klima,ALU	benzyna	bezwypadkowy	2007.0	161592.0	13000.0
+698	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2009.0	113870.0	17500.0
+699	Fiat Qubo 2010r 1.3 JTD 75 KM Możliwa Zamiana	diesel	bezwypadkowy	2010.0	134000.0	19400.0
+700	Fiat Panda II Przebieg tylko 72 tys. km	benzyna	bezwypadkowy	2007.0	72000.0	7900.0
+701	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima, Tempomat	benzyna	bezwypadkowy	2018.0	42.0	40000.0
+702	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Automat, Skóra,	benzyna	bezwypadkowy	2017.0	12784.0	46000.0
+703	Fiat Bravo II , Salon Polska, Serwis ASO, Klimatronic, Tempomat, Parktronic	diesel	bezwypadkowy	2012.0	77121.0	26000.0
+704	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	10370.0	44000.0
+705	Fiat Bravo II , Salon Polska, 1. Właściciel, GAZ, Klima, Parktronic	benzyna	bezwypadkowy	2007.0	124750.0	17000.0
+706	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Tempomat, Parktronic,	benzyna	bezwypadkowy	2017.0	20175.0	43700.0
+707	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	10370.0	44000.0
+708	Fiat Grande Punto , Salon Polska, Serwis ASO ,Bezkolizyjny	benzyna	bezwypadkowy	2009.0	113870.0	17000.0
+709	Fiat Bravo II 1.9 JTD Dynamic FV 23% Serwisowany Bezwypadkowy	diesel	bezwypadkowy	2007.0	98030.0	19900.0
+710	Fiat Grande Punto 1,3 Multijet 75 KM Salon Polska	diesel	sprawny	2006.0	192000.0	6500.0
+711	Fiat Grande Punto Gwarancja / RATY BEZ BIK / 97000km /	benzyna	bezwypadkowy	2006.0	97000.0	9900.0
+712	Fiat Sedici Pierwszy właściciel, 12 m-cy gwarancji	benzyna	bezwypadkowy	2010.0	173500.0	21486.0
+713	Fiat Grande Punto , Salon Polska, 1. Właściciel, Klima, Parktronic	benzyna	bezwypadkowy	2010.0	68253.0	21000.0
+714	Fiat 500 1,2 Pop Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	sprawny	2016.0	41453.0	33900.0
+715	Fiat Panda II 1.1 benzyna sprowadzony opłacony stan bardzo dobry	benzyna	sprawny	2007.0	135500.0	8900.0
+716	Fiat Panda II 1.2 69KM -Wsp. kier. -FILM VIDEO -Zobacz	benzyna	sprawny	2009.0	117000.0	9200.0
+717	Fiat Punto IV , Salon Polska, Przejechał tylko 46477 KM	benzyna	bezwypadkowy	2012.0	46477.0	23500.0
+718	Fiat 500 VAT23% SalonPL 1.Wł Klimatyzacja Kier.Multi PAPIS	benzyna	bezwypadkowy	2017.0	12100.0	34932.0
+719	Fiat Panda II KLIMA 1.1 54KM 2-WŁAŚCICIELI NIEMCY	benzyna	sprawny	2006.0	102000.0	8200.0
+720	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2008.0	120486.0	11000.0
+721	Fiat Tipo 5D |1,4 120 KM |Pop+podłokietnik |złoty | Okazja	benzyna	bezwypadkowy	2017.0	6.0	54129.0
+722	Fiat Panda II I właściciel,Bezwypadkowy,Wzorowy Stan,GWARANCJA	benzyna	bezwypadkowy	2010.0	114000.0	11499.0
+723	Fiat Doblo I ZAMIANA RATY 3 OSOBOWY ŁADOWNOŚĆ 610 KILO	diesel	sprawny	2003.0	167552.0	6700.0
+724	Fiat Grande Punto , Salon Polska, Serwis ASO, GAZ	benzyna	bezwypadkowy	2006.0	136251.0	11000.0
+725	Fiat Punto IV , Salon Polska, Serwis ASO, Klima ,Bezkolizyjny, Parktronic	benzyna	bezwypadkowy	2012.0	61052.0	22000.0
+726	Fiat 500X I 1,0 120 KM| Pak.Opening Urban | Niebieski |2018	benzyna	bezwypadkowy	2018.0	5.0	72481.0
+727	Fiat Tipo Sedan | wersja Tipo | szary |klamki chrom |2019	benzyna	bezwypadkowy	2019.0	6.0	47100.0
+728	Fiat Bravo II , Salon Polska, Serwis ASO, GAZ	benzyna	bezwypadkowy	2010.0	98028.0	24000.0
+730	"Fiat Freemont 2.0d 170 PS ""Lounge"" 7-osobowy"	diesel	sprawny	2013.0	93900.0	56383.0
+731	Fiat Panda II SALON PL WSP. KIEROW. IDEAŁ ZADBANY	benzyna	bezwypadkowy	2008.0	107000.0	10900.0
+732	Fiat Croma II , Salon Polska, Klimatronic, Tempomat, Parktronic	diesel	bezwypadkowy	2007.0	116640.0	12000.0
+733	Fiat Grande Punto , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2007.0	140349.0	13000.0
+734	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2012.0	122377.0	21000.0
+735	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2015.0	14871.0	30000.0
+736	Fiat 500 , Salon Polska, Serwis ASO, Skóra, Klima, Parktronic	benzyna	bezwypadkowy	2013.0	25182.0	33000.0
+737	Fiat Bravo II , Salon Polska, 1. Właściciel, GAZ, Klima	benzyna	bezwypadkowy	2009.0	183475.0	18500.0
+738	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO	benzyna	bezwypadkowy	2004.0	56190.0	8500.0
+739	Fiat Panda II , Salon Polska, Przejechał tylko 44075 KM	benzyna	bezwypadkowy	2008.0	44075.0	13000.0
+740	Fiat 500 , Salon Polska, Klimatronic, Dach panoramiczny,ALU	benzyna	bezwypadkowy	2008.0	68966.0	19500.0
+741	Fiat Siena Sedan 1,6 16V HL Stan IDEALNY !! Ew. ZAMIANA !!	benzyna	bezwypadkowy	1998.0	114000.0	4700.0
+742	Fiat Panda II Przebieg tylko 72 tys. km	benzyna	bezwypadkowy	2007.0	72000.0	7900.0
+743	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima, Tempomat	benzyna	bezwypadkowy	2018.0	42.0	40000.0
+744	Fiat Bravo II , Salon Polska, Serwis ASO, Klimatronic, Tempomat, Parktronic	diesel	bezwypadkowy	2012.0	77121.0	26000.0
+745	Fiat Bravo II , Salon Polska, 1. Właściciel, GAZ, Klima, Parktronic	benzyna	bezwypadkowy	2007.0	124750.0	17000.0
+746	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	10370.0	44000.0
+747	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Automat, Skóra,	benzyna	bezwypadkowy	2017.0	12784.0	46000.0
+748	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Tempomat, Parktronic,	benzyna	bezwypadkowy	2017.0	20175.0	43700.0
+749	Fiat 500 , Serwis ASO, Skóra, Navi, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	10370.0	44000.0
+750	Fiat Grande Punto , Salon Polska, Serwis ASO ,Bezkolizyjny	benzyna	bezwypadkowy	2009.0	113870.0	17000.0
+751	Fiat Bravo II 1.9 JTD Dynamic FV 23% Serwisowany Bezwypadkowy	diesel	bezwypadkowy	2007.0	98030.0	19900.0
+752	Fiat Grande Punto 1,3 Multijet 75 KM Salon Polska	diesel	sprawny	2006.0	192000.0	6500.0
+753	Fiat Grande Punto Gwarancja / RATY BEZ BIK / 97000km /	benzyna	bezwypadkowy	2006.0	97000.0	9900.0
+754	Fiat 500 1.2 Benzyna ! Z polskiego salonu ! Faktura VAT !	benzyna	bezwypadkowy	2013.0	84000.0	23900.0
+755	Fiat 500 1.2 Lounge-krajowy-serwisowany-gwarancja-odDealera	benzyna	bezwypadkowy	2018.0	21100.0	43500.0
+756	Fiat Scudo II 2.0 diesel 8-osobowy Panorama	diesel	bezwypadkowy	2012.0	178000.0	37900.0
+757	Fiat Qubo spalanie 5l/100KM Salon Polska Serwisowany	diesel	bezwypadkowy	2011.0	270000.0	13800.0
+758	Fiat Doblo II Tylko 75 tys.km.7 osobowy.Klima.Opłacony	benzyna	bezwypadkowy	2011.0	75000.0	30900.0
+759	Fiat Linea 1.3! MultJet! 90KM ! Niski Przebieg!Klima!Opłacona	diesel	sprawny	2009.0	111000.0	12750.0
+760	Fiat Bravo II 1,6multijet 120 KM Automat Serwisowany	diesel	sprawny	2009.0	185000.0	15800.0
+761	Fiat Grande Punto 1.2 65KM Klimatyzacja Serwisowany Gwarancja	benzyna	bezwypadkowy	2009.0	120000.0	15900.0
+762	Fiat Bravo II serwisy*gwarancja*stan idealny*city*multijet	diesel	bezwypadkowy	2010.0	154000.0	16700.0
+764	Fiat Grande Punto 136 Tys km przebiegu / Serwisowany	benzyna	sprawny	2009.0	136000.0	14900.0
+765	Fiat Sedici 1,6 16V, 120 KM, 4x4, 125 Tys.km, Gwarancja !!!	benzyna	bezwypadkowy	2010.0	125000.0	28900.0
+766	Fiat Sedici 07 Klima Alu 4 x 4	diesel	sprawny	2007.0	196196.0	17999.0
+767	Fiat Tipo Sedan |Pop | 1,4 95 KM |szary| Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	48289.0
+768	Fiat Sedici Krajowy, 120KM, 4x4, 2 x opony, ex demo	diesel	sprawny	2006.0	181000.0	18900.0
+769	Fiat Ducato III 2,3 multijet H1 L1 6-cio osobowy	diesel	bezwypadkowy	2015.0	103000.0	49800.0
+770	Fiat Ducato III L2H2, Bezwypadkowy,FV 23%,Salon POLSKA	diesel	bezwypadkowy	2013.0	156000.0	40836.0
+771	Fiat Tipo 1,4 16v Pop_ 95KM_SUPER STAN_NEXT-CAR.PL	benzyna	bezwypadkowy	2017.0	36895.0	41900.0
+772	Fiat Freemont DVD !!! 7-osobowy !!! Faktura Vat 23% !!!	diesel	sprawny	2014.0	199000.0	48990.0
+773	Fiat Bravo II 1.9 JTD 120KM SERWISOWANY Oryginalny Przebieg	diesel	bezwypadkowy	2007.0	189000.0	13900.0
+774	Fiat Doblo II Fiat Doblo II 2,0 Multijet 135 KM Emotion, 7 Osobowy, Salon PL, FV 2	diesel	bezwypadkowy	2014.0	176000.0	49815.0
+775	Fiat Linea , Salon Polska, 1. Właściciel, Serwis ASO, Klima ,	benzyna	bezwypadkowy	2012.0	85531.0	21000.0
+776	Fiat Bravo II , Salon Polska, Serwis ASO, Klimatronic, Tempomat, Parktronic	diesel	bezwypadkowy	2012.0	77121.0	26000.0
+777	Fiat Bravo II , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2007.0	88082.0	21000.0
+778	Fiat Panda II , Salon Polska, 1. Właściciel ,Bezkolizyjny	benzyna	bezwypadkowy	2008.0	100514.0	12000.0
+779	Fiat Punto II 1.2 benzyna wspomaganie el.szyby zadbany	benzyna	bezwypadkowy	2000.0	157000.0	2990.0
+780	Fiat Panda II 1.1 BENZYNA 54KM I WŁAŚCICIEL OD NOWOŚCI	benzyna	bezwypadkowy	2006.0	215000.0	5900.0
+781	Fiat Grande Punto KS.SERWIS**I WŁ W KRAJU**ALUFELGI**KLIMA	benzyna	sprawny	2007.0	175000.0	10900.0
+782	Fiat Bravo II M-Jet, serwisowany, 12 m-cy gwarancji	diesel	sprawny	2007.0	173900.0	16986.0
+783	Fiat Doblo I 1.4 benzyna Sprowadzany z Niemiec Opłacony	benzyna	sprawny	2007.0	183000.0	12900.0
+784	Fiat Idea Opłacony Zadbany Serwisowany z Klimą od 1 Wł	benzyna	sprawny	2004.0	169000.0	7799.0
+785	Fiat Linea , Salon Polska, Serwis ASO, GAZ, Parktronic	benzyna	bezwypadkowy	2008.0	94291.0	13500.0
+786	Fiat Grande Punto PROMOCJA - Pisemna Gwarancja - zarejestrowany w Polsce	benzyna	bezwypadkowy	2012.0	162500.0	16700.0
+787	Fiat Brava SALON_POLSKA 1,6 104-KM CENTRALNY +ELEK_SZYBY AIR	benzyna	sprawny	1999.0	171000.0	2400.0
+788	Fiat Bravo II 1.6 Multijet 120 kM Blu&Me	diesel	bezwypadkowy	2012.0	159000.0	21900.0
+789	Fiat Freemont 2.0MJ II 170KM -7Osób -FILM VIDEO -Zobacz	diesel	sprawny	2011.0	88000.0	68000.0
+790	Fiat Qubo I wł,Serwis ASO,Bezwypadkowy,Salon Polska	benzyna	bezwypadkowy	2015.0	46000.0	29900.0
+791	Fiat Punto Evo Panorama Dach, Tempomat, Klima-Tronic!!!	benzyna	sprawny	2011.0	128000.0	21900.0
+792	Fiat Panda III Multijet Climbing S&S 4x4	diesel	sprawny	2014.0	108178.0	35055.0
+793	Fiat Punto Evo 1.4 Klima Serwis I-właściciel Gwarancja	benzyna	bezwypadkowy	2013.0	38000.0	23900.0
+795	Fiat 500 1.2 Benzyna ! Z polskiego salonu ! Faktura VAT !	benzyna	bezwypadkowy	2013.0	84000.0	23900.0
+796	Fiat 500 1.2 Lounge-krajowy-serwisowany-gwarancja-odDealera	benzyna	bezwypadkowy	2018.0	21100.0	43500.0
+797	Fiat Scudo II 2.0 diesel 8-osobowy Panorama	diesel	bezwypadkowy	2012.0	178000.0	37900.0
+798	Fiat Qubo spalanie 5l/100KM Salon Polska Serwisowany	diesel	bezwypadkowy	2011.0	270000.0	13800.0
+799	Fiat Doblo II Tylko 75 tys.km.7 osobowy.Klima.Opłacony	benzyna	bezwypadkowy	2011.0	75000.0	30900.0
+800	Fiat Linea 1.3! MultJet! 90KM ! Niski Przebieg!Klima!Opłacona	diesel	sprawny	2009.0	111000.0	12750.0
+801	Fiat Bravo II 1,6multijet 120 KM Automat Serwisowany	diesel	sprawny	2009.0	185000.0	15800.0
+802	Fiat Grande Punto 1.2 65KM Klimatyzacja Serwisowany Gwarancja	benzyna	bezwypadkowy	2009.0	120000.0	15900.0
+803	Fiat Bravo II serwisy*gwarancja*stan idealny*city*multijet	diesel	bezwypadkowy	2010.0	154000.0	16700.0
+805	Fiat Grande Punto 136 Tys km przebiegu / Serwisowany	benzyna	sprawny	2009.0	136000.0	14900.0
+806	Fiat Sedici 1,6 16V, 120 KM, 4x4, 125 Tys.km, Gwarancja !!!	benzyna	bezwypadkowy	2010.0	125000.0	28900.0
+807	Fiat Sedici 07 Klima Alu 4 x 4	diesel	sprawny	2007.0	196196.0	17999.0
+808	Fiat Tipo Sedan |Pop | 1,4 95 KM |szary| Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	48289.0
+809	Fiat Sedici Krajowy, 120KM, 4x4, 2 x opony, ex demo	diesel	sprawny	2006.0	181000.0	18900.0
+810	Fiat Ducato III 2,3 multijet H1 L1 6-cio osobowy	diesel	bezwypadkowy	2015.0	103000.0	49800.0
+811	Fiat Ducato III L2H2, Bezwypadkowy,FV 23%,Salon POLSKA	diesel	bezwypadkowy	2013.0	156000.0	40836.0
+812	Fiat Tipo 1,4 16v Pop_ 95KM_SUPER STAN_NEXT-CAR.PL	benzyna	bezwypadkowy	2017.0	36895.0	41900.0
+813	Fiat Freemont DVD !!! 7-osobowy !!! Faktura Vat 23% !!!	diesel	sprawny	2014.0	199000.0	48990.0
+814	Fiat Bravo II 1.9 JTD 120KM SERWISOWANY Oryginalny Przebieg	diesel	bezwypadkowy	2007.0	189000.0	13900.0
+815	Fiat Doblo II Fiat Doblo II 2,0 Multijet 135 KM Emotion, 7 Osobowy, Salon PL, FV 2	diesel	bezwypadkowy	2014.0	176000.0	49815.0
+816	Fiat 500 1.2i 69KM KLIMA/panoramadach/alumki/super stan/	benzyna	sprawny	2012.0	120000.0	22900.0
+817	Fiat Bravo II KREDYT BEZ BIK I KRD !!!	benzyna	sprawny	2012.0	193000.0	22444.0
+818	Fiat Grande Punto Polski Salon, Slinik Benzynowy 1.4 8V 77KM	benzyna	bezwypadkowy	2006.0	150000.0	13999.0
+819	Fiat 500X , Salon Polska, Serwis ASO, Skóra, Navi, Klimatronic,	diesel	bezwypadkowy	2015.0	57934.0	50000.0
+820	Fiat Scudo II Klima. 9-miejsc. Ks.Serwisowa. Gwarancja	diesel	bezwypadkowy	2010.0	125996.0	30000.0
+821	Fiat Panda III JAK NOWAkrajowa18tys.km 1-właściciel 5-osobowa	benzyna	bezwypadkowy	2015.0	18000.0	28500.0
+822	Fiat Bravo II KREDYT BEZ BIK I KRD !!!	benzyna	sprawny	2012.0	193000.0	22444.0
+823	Fiat Punto IV 1.2 65ps Anglik Bogata opcja Stan BDB!	benzyna	bezwypadkowy	2014.0	62000.0	10000.0
+824	Fiat Qubo 1.3MJ 75KM 5Drzwi -Klima -FILM VIDEO -Zobacz	diesel	sprawny	2008.0	200000.0	14200.0
+825	Fiat Doblo I 1.3 Multijet # Klimatyzacja# Sprowadzony z Niemiec	diesel	sprawny	2007.0	212147.0	12500.0
+826	Fiat Freemont Stan idealny,rodzinny, funkcjonalny,ekonomiczny,diesel, 4X4	diesel	sprawny	2013.0	109000.0	57900.0
+827	Fiat 500 Elektryczny 113 KM (83 kW) 199 Nm Klimatyzacja	nap	sprawny	2015.0	35000.0	64900.0
+828	Fiat Grande Punto 1.2 8V 65KM Klima BEZWYPADEK Bardzo Zadbany	benzyna	bezwypadkowy	2008.0	156000.0	12900.0
+829	Fiat Qubo spalanie 5l/100KM Salon Polska Prywatny właściciel SerwisASO	diesel	bezwypadkowy	2011.0	270000.0	13800.0
+831	Fiat Croma II 1.9 JTD Active**Zarejestrowany w Polsce	diesel	sprawny	2006.0	200000.0	9900.0
+832	Fiat Tipo 1.4 16v-vat23%- Pop-gwarancja-krajowy-odDealera	benzyna	bezwypadkowy	2017.0	15600.0	44900.0
+833	Fiat Sedici 1.9MJTD 120KM 4x4 Emotion -FILM VIDEO +Koła zimowe	diesel	sprawny	2007.0	44000.0	21500.0
+834	Fiat 500 Oszczędny - City - Naprawdę Polecam - Auto z GWARANCJĄ	benzyna	bezwypadkowy	2009.0	68000.0	16900.0
+835	Fiat Panda III 1.3 M-jet Van 75 KM Gwarancja !!!	diesel	bezwypadkowy	2014.0	141000.0	16000.0
+836	Fiat 500 1.2 69 KM / Lounge / Panorama / Klima / ASR / Alu	benzyna	bezwypadkowy	2009.0	108559.0	17499.0
+837	Fiat Bravo II Klima,Niski przebieg,Gwarancja pisemna	benzyna	bezwypadkowy	2008.0	111254.0	16800.0
+838	Fiat 500 1.2i 69KM KLIMA/panoramadach/alumki/super stan/	benzyna	sprawny	2012.0	120000.0	22900.0
+840	Fiat 500 Salon Pl*ABARTH*165KM*Bezwypadkowy*Idealny*F23%	benzyna	bezwypadkowy	2016.0	33000.0	67650.0
+841	Fiat Panda III 1,2 *Salon Polska*Klima*Alu*	benzyna	bezwypadkowy	2013.0	94500.0	23500.0
+842	Fiat 500 1,2 69 KM| Lounge |Uconnect Link,pak.Komfort |Wyprzedaż	benzyna	bezwypadkowy	2018.0	4.0	49725.0
+843	Fiat Stilo tylko:135 tyś km 1,6 benzyna ASHLEY	benzyna	sprawny	2004.0	135000.0	9700.0
+844	Fiat Grande Punto Klima - Bardzo Zadbany Egzemplarz - Auto z GWARANCJĄ	benzyna	bezwypadkowy	2008.0	157000.0	13700.0
+845	Fiat Punto Evo Evo 1.4 Dynamic + 1.4 Fire 8V 77CV	benzyna	sprawny	2009.0	155030.0	15900.0
+846	Fiat 500L Zarejestrowany - serwisowany - szklany dach - bardzo oszczędny	diesel	bezwypadkowy	2014.0	84000.0	47900.0
+847	Fiat Punto III Wersja Sound opłacony z gwarancją	benzyna	sprawny	2005.0	200000.0	9999.0
+848	Fiat Croma II 1.9jtd 150 KM tempomat zarej.	diesel	sprawny	2008.0	193000.0	10900.0
+849	Fiat Doblo II JTD klima V.a.t boczne drzwi	diesel	sprawny	2012.0	89000.0	22632.0
+850	Fiat 500 Gwarancja Techniczna, 100% Przebieg, Klimatyzacja, 900ccm - Turbo !!	benzyna	bezwypadkowy	2010.0	100000.0	15900.0
+852	Fiat Grande Punto 1.4 benzyna 95KM opłacony! Gwarancja!	benzyna	sprawny	2006.0	153000.0	8900.0
+853	Fiat 500 500 1.2 69 KM Lift 2016	benzyna	sprawny	2016.0	12000.0	34500.0
+854	Fiat Grande Punto 1,3 JTD 75 Dynamic (581)	diesel	sprawny	2009.0	217000.0	8727.0
+855	Fiat 500 PO3CA43 # POP # Jak nowy # Mały przebieg #	benzyna	bezwypadkowy	2017.0	14835.0	34700.0
+856	Fiat Multipla Salon Polska, klimatyzacja , 2-gi właściciel!	diesel	bezwypadkowy	2003.0	189000.0	3990.0
+857	Fiat 500 Jak nowy! bez ukrytych wad! faktura VAT	benzyna	bezwypadkowy	2007.0	94300.0	19800.0
+858	Fiat Stilo 1.9 JTD Kombi Panorama Klimatyzacja HAK Zadbane Auto	diesel	sprawny	2003.0	225000.0	6500.0
+859	Fiat Stilo VIN/Przebieg gwar/Kupiony z aukcji aut posalonowych	diesel	bezwypadkowy	2006.0	199000.0	7500.0
+860	Fiat Freemont Fuul opja, skóra, parktronik, tempomat idealny zapraszam	diesel	bezwypadkowy	2011.0	140000.0	48900.0
+861	Fiat Stilo 1.6 16V 103 KM Klima Zarejestrowany 130.000 km !	benzyna	bezwypadkowy	2004.0	130000.0	4700.0
+862	Fiat Bravo II Fv23%*Opłacony*Dynamic*MultiAir*Navi*1.4Turbo*140KM	benzyna	bezwypadkowy	2010.0	135000.0	29900.0
+863	Fiat Sedici 4x4 +blokada,Skóra ,Navi,Gwarancja pisemna ,Lakier Oryginał	diesel	bezwypadkowy	2007.0	256457.0	15600.0
+864	Fiat Punto IV Punto 2012 1.4 LPG fabryczny	benzyna	bezwypadkowy	2012.0	192000.0	15000.0
+865	Fiat Bravo II 1.4 T.Ben.120KM /Lift/Serwis Aso/Opłacony	benzyna	bezwypadkowy	2010.0	148000.0	21800.0
+866	Fiat Punto IV Krajowy 1 Właściciel 2015 Benzyna+LPG Klima	benzyna	bezwypadkowy	2015.0	112000.0	27700.0
+868	Fiat Ducato III 2,0 JTD 115 MultiJet Klima 9-osobowy	diesel	sprawny	2013.0	133000.0	46900.0
+869	Fiat Scudo II Panorama / Nawiewy / 176 Tyś km przebiegu	diesel	bezwypadkowy	2012.0	176000.0	37500.0
+870	Fiat Grande Punto *PERFEKCYJNY*Autentyczny Przebieg*I Właściciel*	benzyna	sprawny	2008.0	139000.0	12800.0
+871	Fiat 500 Krajowy 1 Właściciel Klima 2014 + Rok Gwarancji	benzyna	uszkodzony	2014.0	70000.0	27900.0
+872	Fiat Panda II I właściciel, Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2003.0	121000.0	7900.0
+873	Fiat Croma II 2.4 Diesel* 200KM* Skóra* Climatronik* Automat* Gwarancja	diesel	sprawny	2005.0	228874.0	12900.0
+874	Fiat Sedici Klim. automatyczna, 6 biegów, po opłatach	diesel	sprawny	2010.0	152000.0	23900.0
+875	Fiat Croma II 1.8 16V 140KM Kombi -FILM VIDEO -Zobacz	benzyna	sprawny	2009.0	122000.0	19900.0
+876	Fiat Grande Punto = SALON POLSKA - KLIMATYZACJA - STAN BDB =	benzyna	bezwypadkowy	2009.0	153467.0	13900.0
+877	Fiat Stilo 1.9JTD 115KM Klimatronik 1 właściciel Zero korozji	diesel	sprawny	2003.0	194000.0	4900.0
+878	Fiat Bravo II Dynamic 1.4 16V 90KM TYLKO 89tys km!!	benzyna	bezwypadkowy	2007.0	89870.0	15900.0
+879	Fiat Grande Punto ZAMIANA RATY KLIMATYZACJA WERSJA SPORT OPŁACONY	benzyna	bezwypadkowy	2006.0	218266.0	8700.0
+880	Fiat Tipo 1.4 16v Pop hatchback 5DR KR7FF80	benzyna	bezwypadkowy	2017.0	19561.0	42000.0
+881	Fiat 500 # PO2CE07 # Salon Polska # 1.2 POP # Faktura Vat 23 %	benzyna	sprawny	2017.0	11572.0	34399.0
+882	Fiat Grande Punto 1.4 benzyna/5 drzwi/ klima / gwarancja / Kłodzko	benzyna	bezwypadkowy	2009.0	159452.0	14700.0
+883	Fiat Bravo II 1.9 SPORT 150 KM ASO JAK NOWY	diesel	bezwypadkowy	2009.0	124850.0	24900.0
+884	Fiat 500 1,2i 69KM CreamWhite Klima Serwis ASO GwArAnCjA TOP	benzyna	bezwypadkowy	2013.0	99000.0	23900.0
+885	Fiat Ducato III ZAMIANA RATY AUTO LAWETA HAK 7 OSOBOWY	diesel	sprawny	2007.0	191145.0	37400.0
+886	Fiat Grande Punto KLIMA 1. WŁAŚCICIEL TECHNICZNIE IDEAŁ OKAZJA !!!	diesel	sprawny	2014.0	132191.0	12800.0
+887	Fiat Panda II Opłacony 1.2 60KM Wspomaganie CITY	benzyna	sprawny	2009.0	28000.0	11700.0
+888	Fiat Grande Punto KREDYT BEZ BIK I KRD !!!	benzyna	bezwypadkowy	2008.0	186000.0	13150.0
+889	Fiat Croma II 1.9 JTD, gwarancja, bogata wersja, ASO, idealna!	diesel	bezwypadkowy	2009.0	179000.0	20900.0
+890	Fiat Punto III 1.2 8V Classic,Krajowy,I WŁ,Klimatyzacja	benzyna	bezwypadkowy	2010.0	33000.0	14990.0
+891	Fiat 500 Polski Salon, Rej. 12.2015r, ZADBANY, FV VAT ! ! !	benzyna	bezwypadkowy	2015.0	109.0	27999.0
+892	Fiat 500 *skórzana tapicerka *raty nawet bez BIK!	benzyna	bezwypadkowy	2010.0	64000.0	17900.0
+893	Fiat Panda II Raty/Zamiana Gwarancja wspomaganie kierownicy benzyna	benzyna	bezwypadkowy	2009.0	130000.0	9500.0
+894	Fiat Grande Punto 1.4 Active. Opłacony, przygorowany do rej. Serwisowany!	benzyna	bezwypadkowy	2009.0	92779.0	12500.0
+895	Fiat Stilo tylko:135 tyś km 1,6 benzyna ASHLEY	benzyna	bezwypadkowy	2004.0	135000.0	9700.0
+896	Fiat Punto Evo 1.3 M-JET 75KM.klimatyzacja!Po opłatach!	diesel	sprawny	2011.0	112859.0	15900.0
+897	Fiat Bravo II 1.4 Benzyna 120 KM_SUPER STAN_SUPER OKAZJA!	benzyna	bezwypadkowy	2010.0	80677.0	21500.0
+898	Fiat 500L 1,4i 95KM Serwisowany GwArAnCjA TOP Zadbany Model2013	benzyna	bezwypadkowy	2012.0	105000.0	33900.0
+899	Fiat Tipo Stan idealny,przebieg 11 tys,1.4 benzyna, 95KM	benzyna	sprawny	2017.0	11000.0	43900.0
+900	Fiat 500X I 1.4 Turbo Benzyna 140KM Nawigacja	benzyna	sprawny	2017.0	26000.0	56900.0
+901	Fiat 500 Szklany Dach - Limitowa EDITION-Ks.serw.-Stan bdb-Gwarancja	benzyna	bezwypadkowy	2010.0	123000.0	18400.0
+902	Fiat 500 Salon Pl*ABARTH*165KM*Bezwypadkowy*Idealny*F23%	benzyna	bezwypadkowy	2016.0	33000.0	67650.0
+903	Fiat Punto I 1.2 75KM 3 Drzwi -Zobacz	benzyna	sprawny	1994.0	250000.0	3800.0
+904	Fiat Punto IV Krajowy 1 Właściciel Klima+Rok Gwarancji	benzyna	bezwypadkowy	2013.0	54000.0	25800.0
+905	Fiat 500 1,2 69 KM |Lounge +klima automatyczna | Niebieski|Wyprzedaż	benzyna	bezwypadkowy	2018.0	7.0	48535.0
+907	Fiat Panda II SalonPL II Wł Mały przebieg	benzyna	sprawny	2005.0	63000.0	7900.0
+908	Fiat Panda II 1.1 54KM -Wsp. kier. -FILM VIDEO -Zobacz	benzyna	sprawny	2008.0	137000.0	10500.0
+909	Fiat Grande Punto 1.2 65KM 3D -FILM VIDEO -Zobacz	benzyna	sprawny	2009.0	186000.0	10500.0
+910	Fiat Grande Punto 5dr 1,2+LPG 2011 TYLKO 73tys.km!!	benzyna	bezwypadkowy	2011.0	73385.0	17500.0
+911	Fiat Ulysse II zarejestrowany*stan idealny*7 os	diesel	bezwypadkowy	2006.0	186000.0	10800.0
+912	Fiat Panda II 1.3 Multijet 75KM 4X4, Klima, Szyberdach	diesel	sprawny	2010.0	201000.0	18900.0
+913	Fiat Punto Evo Punto Evo Abarth 1.4Turbo 165KM Klimatronic	benzyna	sprawny	2011.0	104000.0	33900.0
+914	Fiat Bravo II , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2009.0	71379.0	22500.0
+915	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO	benzyna	bezwypadkowy	2018.0	4911.0	45000.0
+917	Fiat 500 1.2i 8V Lounge Automatic LPG Serwis 2 xkoła	benzyna	sprawny	2008.0	52300.0	26900.0
+918	Fiat Bravo II , Salon Polska, GAZ, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2011.0	153213.0	22000.0
+919	Fiat Freemont Lounge, 4x4, navi, DVD, skóra, FV-23%, gwarancja	diesel	bezwypadkowy	2013.0	138400.0	56900.0
+920	Fiat Freemont bezwypadkowy z gwarancja jak nowy-gwarancja,7osobowy	diesel	bezwypadkowy	2012.0	166000.0	36700.0
+921	Fiat Scudo II 2.0 JTD 130 KM, 9-miejscowy, z polskiego salonu, faktura VAT (4111)	diesel	bezwypadkowy	2012.0	247153.0	35900.0
+922	Fiat 500L 1,4i 95KM Serwisowany GwArAnCjA TOP Zadbany Model2013	benzyna	bezwypadkowy	2012.0	105000.0	33900.0
+923	Fiat Tipo Stan idealny,przebieg 11 tys,1.4 benzyna, 95KM	benzyna	sprawny	2017.0	11000.0	43900.0
+924	Fiat 500X I 1.4 Turbo Benzyna 140KM Nawigacja	benzyna	sprawny	2017.0	26000.0	56900.0
+925	Fiat 500 Szklany Dach - Limitowa EDITION-Ks.serw.-Stan bdb-Gwarancja	benzyna	bezwypadkowy	2010.0	123000.0	18400.0
+926	Fiat 500 Salon Pl*ABARTH*165KM*Bezwypadkowy*Idealny*F23%	benzyna	bezwypadkowy	2016.0	33000.0	67650.0
+927	Fiat Punto I 1.2 75KM 3 Drzwi -Zobacz	benzyna	sprawny	1994.0	250000.0	3800.0
+928	Fiat Punto IV Krajowy 1 Właściciel Klima+Rok Gwarancji	benzyna	bezwypadkowy	2013.0	54000.0	25800.0
+929	Fiat 500 1,2 69 KM |Lounge +klima automatyczna | Niebieski|Wyprzedaż	benzyna	bezwypadkowy	2018.0	7.0	48535.0
+931	Fiat Panda II SalonPL II Wł Mały przebieg	benzyna	sprawny	2005.0	63000.0	7900.0
+932	Fiat Panda II 1.1 54KM -Wsp. kier. -FILM VIDEO -Zobacz	benzyna	sprawny	2008.0	137000.0	10500.0
+933	Fiat Grande Punto 1.2 65KM 3D -FILM VIDEO -Zobacz	benzyna	sprawny	2009.0	186000.0	10500.0
+934	Fiat Grande Punto 5dr 1,2+LPG 2011 TYLKO 73tys.km!!	benzyna	bezwypadkowy	2011.0	73385.0	17500.0
+935	Fiat Ulysse II zarejestrowany*stan idealny*7 os	diesel	bezwypadkowy	2006.0	186000.0	10800.0
+936	Fiat Panda II 1.3 Multijet 75KM 4X4, Klima, Szyberdach	diesel	sprawny	2010.0	201000.0	18900.0
+937	Fiat Punto Evo Punto Evo Abarth 1.4Turbo 165KM Klimatronic	benzyna	sprawny	2011.0	104000.0	33900.0
+938	Fiat Punto IV Punto 2012 Salon Polska 1wł Serwisowane GAZ	benzyna	bezwypadkowy	2014.0	167000.0	21800.0
+939	Fiat Punto IV Punto Evo Fabryczna Instalacja Gazowa, Klima, Krajowy	benzyna	sprawny	2012.0	145000.0	20900.0
+940	Fiat Panda II VAN, 1.3 Diesel, Pełnosprawny, Zarejestrowany, Ubezpieczony	diesel	bezwypadkowy	2006.0	330000.0	5800.0
+941	Fiat Qubo 1,3D Klima Opłacony rej.2009 VIP Gwarancja	diesel	bezwypadkowy	2008.0	165000.0	12900.0
+942	Fiat Panda III Tylko 37 tyś. km. Idealny stan.	benzyna	bezwypadkowy	2012.0	37189.0	21900.0
+943	Fiat Grande Punto 1.2 8V 65KM Bardzo Zadbany KLIMA , Opłacony	benzyna	sprawny	2005.0	185000.0	9900.0
+944	Fiat Doblo II Opłacony*Przebieg:108000km*Dynamic*Klima*Alu*El.Szyby	benzyna	bezwypadkowy	2011.0	108000.0	29900.0
+945	Fiat Sedici 4x4*120PS*OPŁACONY Bezwypadkowy Klima Serwis VIP GWARANCJA24M	diesel	bezwypadkowy	2007.0	122275.0	16900.0
+946	Fiat 500 1.2i 8V Lounge Automatic LPG Serwis 2 xkoła	benzyna	sprawny	2008.0	52300.0	26900.0
+947	Fiat Bravo II , Salon Polska, GAZ, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2011.0	153213.0	22000.0
+948	Fiat Punto IV Punto 2012 1.4 LPG fabryczny	benzyna	bezwypadkowy	2016.0	158000.0	25000.0
+949	Fiat Freemont Lounge, navi, 4x4, automat, FV-23%, gwarancja	diesel	sprawny	2012.0	135330.0	47900.0
+950	Fiat Freemont 4x4 Salonowy I Właściciel Serwisowany 7-Osobowy Automat	diesel	bezwypadkowy	2013.0	182000.0	49777.0
+951	Fiat Bravo II 1.6 jtd 105 km Klima Bardzo Ładny	diesel	bezwypadkowy	2009.0	157000.0	16900.0
+952	Fiat 500 1.2 Lounge-krajowy-serwisowany-gwarancja-odDealera	benzyna	bezwypadkowy	2018.0	22600.0	43500.0
+953	Fiat Scudo II 2.0 JTD 130 KM, 9-miejscowy, z polskiego salonu, faktura VAT (4111)	diesel	bezwypadkowy	2012.0	247153.0	35900.0
+954	Fiat Freemont Lounge, navi,4x4, FV-23%, gwarancja	diesel	sprawny	2014.0	169051.0	55900.0
+955	Fiat Sedici 1.9 4x4, Klima, Elektryka, Alu, Zar. w PL,	diesel	bezwypadkowy	2007.0	148600.0	17500.0
+956	Fiat Freemont 2.0 Multijet * 170 KM * biały metalik *	diesel	bezwypadkowy	2014.0	154500.0	48900.0
+957	Fiat Panda III Napęd 4x4 Bezwypadkowy Promocja 50/50	diesel	bezwypadkowy	2014.0	141670.0	18176.0
+959	Fiat Tipo EASY 1.4 16v 95KM-gwarancja-DEMO-odDealera	benzyna	bezwypadkowy	2017.0	27450.0	46900.0
+960	Fiat Idea *KLIMATRONIK*PANORAMADACH*Tempomat*Zarejestrowana*Bardzo Zadbana*	diesel	bezwypadkowy	2004.0	262000.0	8300.0
+961	Fiat Bravo II SALON_POLSKA 1,6-JTD 120-KM SUPER_OFERTA_SPECJALNA	diesel	sprawny	2008.0	219894.0	12900.0
+962	Fiat Ducato III 3.0 moc 180KM Sypialka/Salon Polska//F.VAT	diesel	sprawny	2013.0	178478.0	58999.0
+963	Fiat Panda II Opłacony*1.4 100HP*Klimatyzacja*Nawigacja*EL.Szyby	benzyna	bezwypadkowy	2006.0	137000.0	16900.0
+964	Fiat Doblo I 1.9 JTD /105PS/KLIMA/KOMPUTER	diesel	sprawny	2009.0	190000.0	14900.0
+965	Fiat 500 Salon PL I wł serwis ASO Bezwypadkowy	benzyna	bezwypadkowy	2015.0	27000.0	28900.0
+966	Fiat 500 Sport 100 Km tylko 128 tys bezwypakowy	benzyna	sprawny	2009.0	128000.0	21500.0
+967	Fiat Grande Punto 1.4 BENZYNA KLiMATYZACJA 1WŁ KRAJOWY	benzyna	bezwypadkowy	2006.0	135000.0	12900.0
+968	Fiat Ducato H2L2 Maxi 2012 r.tylko 115 tys.km.przebiegu	diesel	sprawny	2012.0	115000.0	28500.0
+969	Fiat Punto IV 1.2 benzyna 70KM opłacony! Gwarancja! Klimatyzacja	benzyna	sprawny	2015.0	22000.0	23500.0
+970	Fiat Freemont 2.0 / 170 KM / navi / skóra / ALPINE / 7 osobowy	diesel	bezwypadkowy	2012.0	132000.0	46999.0
+971	Fiat Freemont 7-mio osobowy-Serwis-Mały przebieg-GWARANCJA !!!	diesel	bezwypadkowy	2013.0	152000.0	45555.0
+972	Fiat 500L 0.9 8V Twinair Easy S&S	benzyna	sprawny	2014.0	6200.0	39800.0
+973	Fiat 500X I 2.4 180KM 4x4 Automat Nawigacja Alufelgi 18'	benzyna	sprawny	2016.0	22000.0	59900.0
+974	Fiat Bravo II 1.4i 90KM -GWARANCJA- Navi,Książki,Elektryka	benzyna	sprawny	2011.0	51000.0	24990.0
+975	Fiat 500L 500L 1.4 16V Pop Star hatchback 5DR	benzyna	bezwypadkowy	2017.0	6353.0	48999.0
+976	Fiat Croma II 1.9 150 Km Emotion Panorama F.vat 23%	diesel	bezwypadkowy	2010.0	1.0	22900.0
+977	Fiat Stilo GWARANCJA*Zadbany*Opłacony*CITY*Climatronic*Bezwypad	benzyna	bezwypadkowy	2004.0	189400.0	7500.0
+978	Fiat Bravo II Sport 165 KM Klimatronik Komputer	diesel	bezwypadkowy	2011.0	215000.0	18900.0
+979	Fiat Sedici 4X4*Lift*1,6 16V*Salon Polska	benzyna	bezwypadkowy	2010.0	217800.0	22900.0
+980	Fiat Tipo 1,4 16V*Salon PL*I właściciel*15000 przebiegu!	benzyna	bezwypadkowy	2016.0	14950.0	38900.0
+981	Fiat Croma II Gaz - z Niemiec - Opłacona - Auto z GWARANCJĄ	benzyna	bezwypadkowy	2008.0	182000.0	17900.0
+982	Fiat Punto III 1.2 Benzyna- Klimatyzacja- Salon PL- II Właściciel	benzyna	bezwypadkowy	2005.0	131000.0	6900.0
+983	Fiat Panda II BEZWYPADKOWY 19tys.km krajowy PANDA JAK NOWA	benzyna	bezwypadkowy	2009.0	19000.0	16500.0
+984	Fiat Tipo 1.4 16v 95KM Lounge HB -gwarancja-odDealera	benzyna	bezwypadkowy	2017.0	18100.0	51900.0
+985	Fiat 500 WD3063J # Niski przebieg # Gwarancja przebiegu # Faktura VAT 23 % #	benzyna	sprawny	2017.0	12087.0	34800.0
+986	Fiat 500 1,2 69 KM | Pop |Bluetooth,czujniki,kierownica skóra|Wyprzedaż	benzyna	bezwypadkowy	2018.0	4.0	43260.0
+987	Fiat Tipo 5D |1,4 120 KM |Pop/Klamki chrom, podłokietnik |Okazja	benzyna	bezwypadkowy	2017.0	6.0	54011.0
+988	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	sprawny	2016.0	117878.0	30000.0
+989	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	78490.0	32400.0
+990	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	sprawny	2015.0	59851.0	30200.0
+991	Fiat Panda III 1.2 69KM Lounge | Czerwony | Abonament już od 475 PLN netto	benzyna	bezwypadkowy	2019.0	4.0	40291.0
+992	Fiat Bravo II 1,9 JTD 150Ps !! Oryginalny Przebieg !! Świeżo Od Niemca !! Opłacona	diesel	bezwypadkowy	2007.0	176000.0	12900.0
+993	Fiat 500X I 1,0 120 KM |City Cross |LED-y |zielony Wyprzedaż demo |	benzyna	bezwypadkowy	2018.0	900.0	74835.0
+994	Fiat Freemont 4x4, automat, 7 - miejscowy, skórzana tapicerka, 12 m - cy gwarancji	diesel	bezwypadkowy	2014.0	136700.0	67886.0
+995	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima,	benzyna	bezwypadkowy	2012.0	86345.0	16500.0
+996	Fiat 126 Town* I właściciel* 37 tyś km* Bezwypadkowy* Dla kolekcjonera	benzyna	bezwypadkowy	2000.0	37000.0	25000.0
+997	Fiat Tipo 5d |1,4 120 KM |Pop-Klamki chrom, podłokietnik|biały| Okazja	benzyna	bezwypadkowy	2017.0	6.0	53845.0
+998	Fiat Panda III 1.2i 69 KM Pop Klima Szyby elek VAT 23%	benzyna	bezwypadkowy	2016.0	73340.0	25900.0
+999	Fiat Punto II Opłacony Zadbany Serwisowany z Klimą od 1 Wł	benzyna	sprawny	2003.0	144000.0	6299.0
+1000	Fiat Tipo POP, rej. 2018, z polskiego salonu, jeden właściciel, bezwypadkowy	benzyna	bezwypadkowy	2017.0	30000.0	43050.0
+1001	Fiat Punto II FL 1.3 Diesel* 69KM* Klimatyzacja* Wspomaganie CITY* Gwarancja	diesel	sprawny	2003.0	245957.0	3900.0
+1002	Fiat Punto III Punto II FL (2004), 126000 km, stan bardzo dobry, przegląd do 01.202	benzyna	bezwypadkowy	2004.0	126000.0	4500.0
+1003	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima,	benzyna	bezwypadkowy	2017.0	15589.0	33000.0
+1005	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	86676.0	31900.0
+1006	Fiat Seicento 0.9 39KM Od Dealera CZARNE TABLICE Pierwszy właściciel SALON PL youn	benzyna	sprawny	1999.0	87500.0	1490.0
+1007	Fiat 500 1,2 69 KM | Pop |Dualogic |czerwony/szara tap| Oferta specjalna	benzyna	bezwypadkowy	2018.0	4.0	41276.0
+1008	Fiat Panda III * 1,3 JTD 75 KM 4X4 Salon Polska Bezwypadkowy *	diesel	bezwypadkowy	2015.0	97000.0	32472.0
+1009	Fiat Panda II 1.1 i. Salon PL. 5 osób. Sprawny. Okazja.	benzyna	sprawny	2005.0	214000.0	3700.0
+1010	Fiat Panda III 1,2 69 KM | Easy |pomarańczowy\tap.czarno-szara| 2019	benzyna	bezwypadkowy	2019.0	4.0	38050.0
+1011	Fiat Uno II 0.9 39KM Od Dealera Salon Polska Pierwszy Właściciel LEDY HAK Sprawn	benzyna	sprawny	2000.0	148500.0	1490.0
+1012	Fiat Doblo II 1,4 T-Jet 120 KM | Easy | sztywna półka, reg.wys fotela |biały	benzyna	bezwypadkowy	2018.0	5.0	67650.0
+1013	Fiat Panda III VAN, 23% VAT, dostępny od ręki, 12 m-cy gwarancji	diesel	sprawny	2015.0	113000.0	22861.0
+1014	Fiat Grande Punto , Salon Polska, 1. Właściciel, Serwis ASO, Klima, Parktronic,	benzyna	bezwypadkowy	2007.0	91500.0	15000.0
+1015	Fiat Tipo 5D |1,4 120 KM |Pop+Klami chrom, podłokietnik| Okazja	benzyna	bezwypadkowy	2017.0	6.0	54099.0
+1016	Fiat Punto Punto Evo , Salon Polska, 1. Właściciel, Serwis ASO ,Bezkolizyjny	benzyna	bezwypadkowy	2010.0	90914.0	20000.0
+1017	Fiat Punto II FL 1.2 Benzyna* 60KM* Wspomaganie CITY* Salon PL* Gwarancja	benzyna	bezwypadkowy	2005.0	127707.0	6666.0
+1018	Fiat Tipo 5D | 1,4 120 KM |Pop +Podł,chrom klamki |Okazja	benzyna	bezwypadkowy	2017.0	6.0	54019.0
+1019	Fiat Freemont Lounge, navi, 4x4, FV-23%, gwarancja	diesel	bezwypadkowy	2012.0	80300.0	52900.0
+1020	Fiat Punto III Opłacony Zdrowy Zadbany Serwisowany z Klimą od 1 Wł	benzyna	sprawny	2006.0	180000.0	8499.0
+1021	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	47626.0	34300.0
+1022	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	63635.0	33200.0
+1023	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	104462.0	30700.0
+1024	Fiat Punto II FL 5-drzwi wspomaganie SALON PL 1 wł 90tyś.km	benzyna	bezwypadkowy	2003.0	90000.0	5950.0
+1025	Fiat Punto II 1.2 benzyna z klima 67 tys km przebieg zadbany	benzyna	bezwypadkowy	2000.0	67000.0	3500.0
+1026	Fiat 126 P 600 23KM I seria -FILM VIDEO -Po renowacji	benzyna	sprawny	1975.0	9000.0	19000.0
+1027	Fiat Panda III 1.2 69KM Lounge | Biały | Abonament już od 475 PLN netto	benzyna	bezwypadkowy	2019.0	4.0	40291.0
+1028	Fiat Tipo Sedan 15-, Tipo 1.6 E-Torq 16v Pop aut	benzyna	sprawny	2017.0	44104.0	41244.0
+1029	Fiat Panda III 1.2 69KM Lounge | Grafitowy | Abonament już od 475 PLN netto	benzyna	bezwypadkowy	2019.0	4.0	40291.0
+1030	Fiat Panda II 1.2 Klima !! Naprawde Bardzo Ładna !! Świeżo Od NIemca !!	benzyna	bezwypadkowy	2005.0	115834.0	8900.0
+1031	Fiat Panda II Salon Polska, Serwis ASO, Przejechał tylko 36480 KM, Klima ,	benzyna	bezwypadkowy	2012.0	36480.0	20000.0
+1032	Fiat Doblo II 1.3 JTD 75KM- CIĘZAROWY, Salon Pl, ładowność 670 Kg	diesel	sprawny	2010.0	192000.0	11900.0
+1033	Fiat Punto IV 1.3MULTIJET 75KM Klima Stan BDB Kredyt bez BIK	diesel	sprawny	2012.0	60000.0	18500.0
+1034	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima	benzyna	bezwypadkowy	2013.0	49677.0	26000.0
+1035	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima	benzyna	bezwypadkowy	2017.0	20988.0	33000.0
+1036	Fiat Punto II 1.2 REJ PL Zadbany Sprawny GWARANCJA Zamiana Raty BEZ BIK Transprt	benzyna	bezwypadkowy	2001.0	242000.0	2299.0
+1037	Fiat Punto III , Salon Polska, 1. Właściciel, GAZ, VAT 23%, Klima	benzyna	bezwypadkowy	2008.0	113798.0	12000.0
+1038	Fiat 500 1.2 Benzyna Salon Polska Serwis ASO Bezwypadkowy I-właściciel	benzyna	bezwypadkowy	2013.0	45765.0	28900.0
+1039	Fiat Grande Punto 1,3 MultiJet 69 KM, Gotowy do rej, Udok. przebieg	diesel	sprawny	2009.0	159000.0	11500.0
+1040	Fiat Doblo II Kombi XL Dynamic L2H2 1.6 MJ 120KM Promocja 2019	diesel	bezwypadkowy	2019.0	5.0	85977.0
+1041	Fiat 500 Abarth-1.4 150 KM* Po opłatach* F/Vat23%* Gwarancja	benzyna	sprawny	2009.0	124000.0	24900.0
+1042	Fiat Ducato III Kamper Benimar Sport 346 . 6 osób Model 2017. AutoMobil Pomorskie	diesel	bezwypadkowy	2017.0	20000.0	270477.0
+1043	Fiat Punto III Opłacony Zdrowy Zadbany Serwisowany z Klimą od 1 Wł	benzyna	sprawny	2006.0	180000.0	8499.0
+1044	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	63635.0	33200.0
+1045	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	104462.0	30700.0
+1046	Fiat Punto IV 1.4 Easy S&S Salon Polska ! 1 właściciel ! ASO ! FV23% !	benzyna	bezwypadkowy	2016.0	47626.0	34300.0
+1047	Fiat Punto II FL 5-drzwi wspomaganie SALON PL 1 wł 90tyś.km	benzyna	bezwypadkowy	2003.0	90000.0	5950.0
+1048	Fiat Punto II 1.2 benzyna z klima 67 tys km przebieg zadbany	benzyna	bezwypadkowy	2000.0	67000.0	3500.0
+1049	Fiat 126 P 600 23KM I seria -FILM VIDEO -Po renowacji	benzyna	sprawny	1975.0	9000.0	19000.0
+1050	Fiat Panda III 1.2 69KM Lounge | Grafitowy | Abonament już od 475 PLN netto	benzyna	bezwypadkowy	2019.0	4.0	40291.0
+1051	Fiat Tipo Sedan 15-, Tipo 1.6 E-Torq 16v Pop aut	benzyna	sprawny	2017.0	44104.0	41244.0
+1052	Fiat Panda III 1.2 69KM Lounge | Biały | Abonament już od 475 PLN netto	benzyna	bezwypadkowy	2019.0	4.0	40291.0
+1053	Fiat Panda II 1.2 Klima !! Naprawde Bardzo Ładna !! Świeżo Od NIemca !!	benzyna	bezwypadkowy	2005.0	115834.0	8900.0
+1054	Fiat Panda II Salon Polska, Serwis ASO, Przejechał tylko 36480 KM, Klima ,	benzyna	bezwypadkowy	2012.0	36480.0	20000.0
+1055	Fiat Doblo II 1.3 JTD 75KM- CIĘZAROWY, Salon Pl, ładowność 670 Kg	diesel	sprawny	2010.0	192000.0	11900.0
+1056	Fiat Punto IV 1.3MULTIJET 75KM Klima Stan BDB Kredyt bez BIK	diesel	sprawny	2012.0	60000.0	18500.0
+1057	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima	benzyna	bezwypadkowy	2013.0	49677.0	26000.0
+1058	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima	benzyna	bezwypadkowy	2017.0	20988.0	33000.0
+1059	Fiat Punto II 1.2 REJ PL Zadbany Sprawny GWARANCJA Zamiana Raty BEZ BIK Transprt	benzyna	bezwypadkowy	2001.0	242000.0	2299.0
+1060	Fiat Punto III , Salon Polska, 1. Właściciel, GAZ, VAT 23%, Klima	benzyna	bezwypadkowy	2008.0	113798.0	12000.0
+1061	Fiat Panda III 67 TYTS KM!1,2 !!KLIMA 4 AIRBAG SUPER STAN !!!!!!!	benzyna	sprawny	2014.0	67000.0	23400.0
+1062	Fiat Tipo 1.4 16V Benzyna Salon Polska Serwis ASO 58 tyś/km Bezwypadkowy	benzyna	bezwypadkowy	2016.0	58217.0	38500.0
+1063	Fiat Panda II 1.25 I 60 KM BEZWYPADKOWY ORYG PRZEBIEG 50 TYŚ KM!	benzyna	bezwypadkowy	2006.0	50000.0	12500.0
+1064	Fiat Bravo II 1.4 16V 90 KM INST. GAZOWA ORYG. PRZEBIEG 109 TYŚ	benzyna	bezwypadkowy	2009.0	109000.0	18900.0
+1065	Fiat Stilo 1.6 GAZ LPG Salon PL - 1wł. - Klimatyzacja - Raty Zamiana Gwarancja	benzyna	bezwypadkowy	2006.0	246000.0	6700.0
+1066	Fiat Croma II Serwis - 1.9 JTD - Bardzo Zadbana - Auto z GWARANCJA	diesel	bezwypadkowy	2006.0	234000.0	10900.0
+1067	Fiat Panda II 1.2 GAZ Polski Salon rej2013, 100% oryginał bezwypadkowy patrz opis	benzyna	bezwypadkowy	2012.0	106000.0	16482.0
+1068	Fiat Punto II Raty/Zamiana gwarancja 1,9 JTD super stan klima	diesel	sprawny	2002.0	220000.0	5500.0
+1069	Fiat Scudo II PANORAMA 9-MIEJSC L2H1 climatronic nawiewy tyl parktronic halogeny	diesel	bezwypadkowy	2014.0	123000.0	59900.0
+1070	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 BIAŁA PERŁA 7 Osób Navi PL Skóry Alpine	diesel	bezwypadkowy	2015.0	148000.0	54700.0
+1071	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 CROSS 7 Osób Navi PL Klimatronic Alpine Aut.	diesel	bezwypadkowy	2016.0	98000.0	66700.0
+1072	Fiat Panda III 0.9 TwinAir Turbo 85KM -Klimatr -FILM VIDEO -Zobacz	benzyna	sprawny	2012.0	83000.0	21800.0
+1073	Fiat Punto III JTD Pewne Auto Rataje Rondo Raty Możliwość Zamiany Wybór 120 aut	diesel	sprawny	2003.0	195000.0	5999.0
+1074	Fiat Tipo 2 Komplety kół! Zarejestrowany! Polski salon! 1 Właściciel! GWARANCJ	benzyna	bezwypadkowy	2017.0	36000.0	39499.0
+1075	Fiat Scudo II 2.0D 128KM_9 OSOBOWY 1-szy WŁAŚCICIEL KAMERA COFANIA+DVD	diesel	bezwypadkowy	2012.0	203000.0	34980.0
+1076	Fiat Grande Punto I Wlaściciel-PUNTO EVO-Zadbany-Alu felga-116tyś km	benzyna	sprawny	2011.0	116000.0	20900.0
+1077	Fiat 500L 1.4 Gaz Polski Salon 100% Bezwypadkowy, gwarancja przebiegu patrz op	benzyna	bezwypadkowy	2016.0	126000.0	45879.0
+1078	Fiat Ducato III Salon.pl*II właś*9 osobowy*klimatyzacja*vat 23*	diesel	sprawny	2010.0	200900.0	27600.0
+1079	Fiat Ducato III 3.0 JTD Maxi L4H2 Automat, 9-osobowy Polski Salon gwarancja przebieg	diesel	bezwypadkowy	2014.0	278000.0	72447.0
+1080	Fiat Tipo 5D |1,6 AT 110 KM Lounge | Dużo pakietów | Opony zimowe w cenie	benzyna	sprawny	2018.0	9800.0	73890.0
+1081	Fiat Grande Punto 5 Drzwi / Klimatyzacja / Serwis / 153.ooo km / Bardzo Zadbane	benzyna	bezwypadkowy	2008.0	153620.0	12999.0
+1082	Fiat Scudo II Klima 9- Osób 2.0 MultiJet 130 Ps Śliczny	diesel	bezwypadkowy	2013.0	187000.0	38130.0
+1083	Fiat Sedici 1,9 JTD, 120 KM, 4x4, 139 Tys.km, Gwarancja, Bezwypadkowy	diesel	bezwypadkowy	2008.0	139000.0	22900.0
+1084	Fiat Panda III 67 TYTS KM!1,2 !!KLIMA 4 AIRBAG SUPER STAN !!!!!!!	benzyna	sprawny	2014.0	67000.0	23400.0
+1085	Fiat Tipo 1.4 16V Benzyna Salon Polska Serwis ASO 58 tyś/km Bezwypadkowy	benzyna	bezwypadkowy	2016.0	58217.0	38500.0
+1086	Fiat Panda II 1.25 I 60 KM BEZWYPADKOWY ORYG PRZEBIEG 50 TYŚ KM!	benzyna	bezwypadkowy	2006.0	50000.0	12500.0
+1087	Fiat Bravo II 1.4 16V 90 KM INST. GAZOWA ORYG. PRZEBIEG 109 TYŚ	benzyna	bezwypadkowy	2009.0	109000.0	18900.0
+1088	Fiat Stilo 1.6 GAZ LPG Salon PL - 1wł. - Klimatyzacja - Raty Zamiana Gwarancja	benzyna	bezwypadkowy	2006.0	246000.0	6700.0
+1089	Fiat Croma II Serwis - 1.9 JTD - Bardzo Zadbana - Auto z GWARANCJA	diesel	bezwypadkowy	2006.0	234000.0	10900.0
+1090	Fiat Panda II 1.2 GAZ Polski Salon rej2013, 100% oryginał bezwypadkowy patrz opis	benzyna	bezwypadkowy	2012.0	106000.0	16482.0
+1091	Fiat Punto II Raty/Zamiana gwarancja 1,9 JTD super stan klima	diesel	sprawny	2002.0	220000.0	5500.0
+1092	Fiat Scudo II PANORAMA 9-MIEJSC L2H1 climatronic nawiewy tyl parktronic halogeny	diesel	bezwypadkowy	2014.0	123000.0	59900.0
+1093	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 BIAŁA PERŁA 7 Osób Navi PL Skóry Alpine	diesel	bezwypadkowy	2015.0	148000.0	54700.0
+1094	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 CROSS 7 Osób Navi PL Klimatronic Alpine Aut.	diesel	bezwypadkowy	2016.0	98000.0	66700.0
+1095	Fiat Panda III 0.9 TwinAir Turbo 85KM -Klimatr -FILM VIDEO -Zobacz	benzyna	sprawny	2012.0	83000.0	21800.0
+1096	Fiat Punto III JTD Pewne Auto Rataje Rondo Raty Możliwość Zamiany Wybór 120 aut	diesel	sprawny	2003.0	195000.0	5999.0
+1097	Fiat Punto Evo Punto Evo 1.4 78KM 5Drzwi -FILM VIDEO -Zobacz	benzyna	sprawny	2011.0	109000.0	21900.0
+1098	Fiat Tipo 1.4 Benzyna+Gaz Polski Salon 100% bezwypadkowy100% gwarancji przebie	benzyna	bezwypadkowy	2016.0	123000.0	35916.0
+1099	Fiat Bravo II Pełne ASO Podgrzewane fotele Tempomat Klimatyzacja dwustrefowa PAPIS	benzyna	bezwypadkowy	2013.0	76500.0	29900.0
+1100	Fiat Grande Punto 1.3MJet*Dynamic*klima*alu*126Tkm*serwis w ASO*Gwarancja VIP Service	diesel	bezwypadkowy	2008.0	126000.0	13200.0
+1101	Fiat Grande Punto VAN VAT-1 GAZ BEZPOŚREDNIO OD WŁAŚCICIELA OKAZJA	benzyna	sprawny	2010.0	228100.0	8799.0
+1102	Fiat 500X I 1 rej. 11.2016r, 1.6 110KM, I Właściciel Navigacja, FV23%	benzyna	bezwypadkowy	2016.0	17000.0	61800.0
+1103	Fiat Bravo II OPŁACONY Bezwypadkowy Klima Serwis VIP GWARANCJA-24 Miesiące	diesel	bezwypadkowy	2010.0	164609.0	14400.0
+1104	Fiat Tipo SW |1,4 120 KM |Pak.Business Lounge Pak.Bezp Plus |brąz |Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	70450.0
+1105	Fiat Fiorino III 1.3 Multijet ! 75 KM ! Z polskiego salonu ! Faktura Vat !	diesel	bezwypadkowy	2015.0	127000.0	22900.0
+1106	Fiat Sedici 1,6 16v 107KM Benzynka 4x4 Climatronic Serwisowany do końca !!!	benzyna	bezwypadkowy	2007.0	222353.0	20999.0
+1107	Fiat Panda III KLIMA 5-OSÓB KRAJOWY 1,2 BENZYNA 2 KOMPLETY OPON	benzyna	sprawny	2014.0	87000.0	22400.0
+1108	Fiat Panda III KLIMA 5-OSÓB KRAJOWY 1,2 BENZYNA 2 KOMPLETY OPON	benzyna	sprawny	2014.0	87000.0	22400.0
+1109	Fiat Freemont 2.0 mjt 16V 170 KM 7 Osób DVD Navi Klimatronic Skóry Alpine Tempomat	diesel	bezwypadkowy	2014.0	128000.0	53700.0
+1110	Fiat Scudo II VAN 2.0 D 128KM KLIMATYZACJA PARKTRONIK F.VAT 23%	diesel	bezwypadkowy	2014.0	205000.0	36777.0
+1111	Fiat Punto IV Punto 2012 tylko:58 tyś km Salon PL 1wł Serwisowane	benzyna	bezwypadkowy	2013.0	58000.0	24800.0
+1112	Fiat Bravo II 1.4 16V ks. serw ASO, 100% oryginał, ideał! Gwar.	benzyna	bezwypadkowy	2011.0	143000.0	23900.0
+1113	Fiat Doblo II 1.6 TDI,Salon Polska, FV 23%, I rejestracja 2015	diesel	bezwypadkowy	2014.0	224000.0	26937.0
+1114	Fiat 500 1.2 Lounge 69KM |biały | Rata od 655 PLN w abonamencie	benzyna	bezwypadkowy	2018.0	7.0	48535.0
+1115	Fiat Punto Evo 1.3 Multijet 75KM 2010r. 154tys. km. zadbany, drugi kpl. kół	diesel	sprawny	2010.0	154000.0	15400.0
+1116	Fiat Seicento 1.1 Abarth 180km/h benz REJ PL Yellow GWARANCJA Transport	benzyna	bezwypadkowy	1999.0	150000.0	2499.0
+1117	Fiat Bravo II 1.4 Turbo T JET Dynamic 120KM_SUPER STAN_NEXT-CAR	benzyna	bezwypadkowy	2008.0	113471.0	19900.0
+1118	Fiat Stilo 1.9 multijet KLIMATRONIC bezwypadek STAN BDB 4el szyby OPŁACONY gwar	diesel	bezwypadkowy	2006.0	195000.0	8600.0
+1119	Fiat Grande Punto 1.3 JTD 16V * 75 KM * ACTIVE * serwisowany * klimatronic * warszaw	diesel	bezwypadkowy	2006.0	203000.0	9999.0
+1120	Fiat Tipo SW |1,4 95 KM | Pop |biały |szara tap|Wyprzedaż	benzyna	bezwypadkowy	2018.0	7.0	55158.0
+1121	Fiat Punto II FL LIFT! 1,2 8V 60KM! Polski salon! 5 drzwi!	benzyna	sprawny	2004.0	186676.0	3200.0
+1122	Fiat 500 1,2 69 KM |Pop |Dualogic |Corallo/szara tap| Oferta specjalna	benzyna	bezwypadkowy	2018.0	4.0	41399.0
+1123	Fiat 126 126P/5 000 KM/Oryginalny Lakier/Stan Kolekcjonerski/NOWY/GWARANCJA/	benzyna	bezwypadkowy	1988.0	5000.0	17999.0
+1124	Fiat Tipo 5D |1,4 120 KM |Pop+ klamki chrom.lusterka lak|brąz |Wyprzedaż	benzyna	bezwypadkowy	2017.0	6.0	54011.0
+1125	Fiat Tipo SW |1,4 95 KM | Pop |biały |szara tap|Wyprzedaż	benzyna	bezwypadkowy	2018.0	7.0	55767.0
+1126	Fiat Panda III 1.2 Instalacja Gazowa 69KM Klima, Krajowy, I własciciel	benzyna	sprawny	2015.0	135000.0	27900.0
+1127	"Fiat 500 1,2 69 KM | Pop |biały/szara tap| ""Wyprzedaż 2018"""	benzyna	bezwypadkowy	2018.0	4.0	40782.0
+1128	Fiat 500L 1,4 95 KM |Pop Star+ Pakiet Smart |Niebieski |Wyprzedaż 2018	benzyna	bezwypadkowy	2018.0	6.0	59542.0
+1129	Fiat Panda II 1.1 benzyna z Niemiec serwisowana elektryka wsp kier ładna 09r Cz w	benzyna	bezwypadkowy	2009.0	154300.0	10500.0
+1130	Fiat Panda III 1.2i 69 KM Pop Klima Szyby elek VAT 23%	benzyna	bezwypadkowy	2016.0	75700.0	25900.0
+1131	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima,	benzyna	bezwypadkowy	2012.0	86345.0	17000.0
+1132	Fiat Grande Punto Elektryka / Gwarancja / RATY BEZ BIK / 2006r / 5 DRZWI	benzyna	sprawny	2006.0	146000.0	12700.0
+1133	Fiat Doblo II Maxi SX L2H1 1.6 Multijet 105 KM / Salon Polska Bezwypadkowy !!!	diesel	bezwypadkowy	2015.0	83000.0	36777.0
+1134	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 7 Osób Navi PL Klimatronic Skóry Alpine Aut.	diesel	bezwypadkowy	2015.0	122000.0	54700.0
+1135	Fiat Croma II Gwarancja-Panorama Dach-Xenon-Navi-Pakiet Chrom-Jeden Właściciel-LIF	diesel	bezwypadkowy	2009.0	220000.0	14800.0
+1136	Fiat 500X I 1.6MJ II 120KM -Bogata wersja -Navi -FILM VIDEO -Zobacz	diesel	sprawny	2015.0	47000.0	49900.0
+1137	Fiat Bravo II 1.6 MultiJet 90 KM 6-Biegów Bezwyp. 150 TYS. Książ	diesel	bezwypadkowy	2010.0	150976.0	17900.0
+1138	Fiat Ducato III 2.3Multijet 9osobowy wersja dla niepełnosprawnych stan perfekt 1wł	diesel	bezwypadkowy	2014.0	647000.0	37777.0
+1139	Fiat Bravo II SERWIS / 1.4 16V / 90 KM / bluetooth / Alu / LEASING FV23%/	benzyna	bezwypadkowy	2013.0	43672.0	29520.0
+1140	Fiat Scudo II 1,6D 8 Miejsc Klima Opłacony Rej. 2008 VIP Gwarancja	diesel	bezwypadkowy	2007.0	165000.0	24900.0
+1141	Fiat Freemont 2.0d Multijet moc170 KM 1 właściciel 2 lata gwarancji	diesel	bezwypadkowy	2014.0	150000.0	49999.0
+1142	Fiat 500X I 1.6MJ II 120KM -Bogata wersja -Navi -FILM VIDEO -Zobacz	diesel	sprawny	2015.0	47000.0	49900.0
+1143	Fiat Doblo II Maxi SX L2H1 1.6 Multijet 105 KM / Salon Polska Bezwypadkowy !!!	diesel	bezwypadkowy	2015.0	83000.0	36777.0
+1144	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 7 Osób Navi PL Klimatronic Skóry Alpine Aut.	diesel	bezwypadkowy	2015.0	122000.0	54700.0
+1145	Fiat Croma II Gwarancja-Panorama Dach-Xenon-Navi-Pakiet Chrom-Jeden Właściciel-LIF	diesel	bezwypadkowy	2009.0	220000.0	14800.0
+1146	Fiat Tipo SW |1,4 95 KM | Pop |biały |szara tap|Wyprzedaż	benzyna	bezwypadkowy	2018.0	7.0	55158.0
+1147	Fiat Punto II FL LIFT! 1,2 8V 60KM! Polski salon! 5 drzwi!	benzyna	sprawny	2004.0	186676.0	3200.0
+1148	Fiat 500 1,2 69 KM |Pop |Dualogic |Corallo/szara tap| Oferta specjalna	benzyna	bezwypadkowy	2018.0	4.0	41399.0
+1149	Fiat 126 126P/5 000 KM/Oryginalny Lakier/Stan Kolekcjonerski/NOWY/GWARANCJA/	benzyna	bezwypadkowy	1988.0	5000.0	17999.0
+1150	Fiat Tipo 5D |1,4 120 KM |Pop+ klamki chrom.lusterka lak|brąz |Wyprzedaż	benzyna	bezwypadkowy	2017.0	6.0	54011.0
+1151	Fiat Tipo SW |1,4 95 KM | Pop |biały |szara tap|Wyprzedaż	benzyna	bezwypadkowy	2018.0	7.0	55767.0
+1152	Fiat Panda III 1.2 Instalacja Gazowa 69KM Klima, Krajowy, I własciciel	benzyna	sprawny	2015.0	135000.0	27900.0
+1153	"Fiat 500 1,2 69 KM | Pop |biały/szara tap| ""Wyprzedaż 2018"""	benzyna	bezwypadkowy	2018.0	4.0	40782.0
+1154	Fiat 500L 1,4 95 KM |Pop Star+ Pakiet Smart |Niebieski |Wyprzedaż 2018	benzyna	bezwypadkowy	2018.0	6.0	59542.0
+1155	Fiat Panda II 1.1 benzyna z Niemiec serwisowana elektryka wsp kier ładna 09r Cz w	benzyna	bezwypadkowy	2009.0	154300.0	10500.0
+1156	Fiat Panda III 1.2i 69 KM Pop Klima Szyby elek VAT 23%	benzyna	bezwypadkowy	2016.0	75700.0	25900.0
+1157	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima,	benzyna	bezwypadkowy	2012.0	86345.0	17000.0
+1158	Fiat Grande Punto Elektryka / Gwarancja / RATY BEZ BIK / 2006r / 5 DRZWI	benzyna	sprawny	2006.0	146000.0	12700.0
+1159	Fiat Freemont 170KM 4x4 7osobowy Kamera Navi Skóry Loung Full Opcja Alpine Niemcy	diesel	bezwypadkowy	2014.0	163884.0	49900.0
+1160	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 7 Osób Navi PL Klimatronic Skóry Alpine Aut.	diesel	bezwypadkowy	2015.0	151000.0	55800.0
+1161	Fiat Freemont BEZWYPADKOWY z gwarancja*full wersja*4x4*serwis*jak nowy	diesel	bezwypadkowy	2013.0	135000.0	43800.0
+1162	Fiat Freemont 2.0Multijet=170KM=Black Edition=RokGwarancji=AWD=Navi=DVD=Automat=Fu	diesel	bezwypadkowy	2014.0	142000.0	63900.0
+1163	Fiat Doblo II Kombi Maxi Dynamic L2H1 1.6 MJ 105KM Okazja 2018!	diesel	bezwypadkowy	2018.0	5.0	71217.0
+1164	Fiat Sedici 1.6 Benz-Suzuki SX4-2008.X Irok*IDEALNY-SUPER STAN	benzyna	bezwypadkowy	2008.0	121123.0	22800.0
+1165	Fiat Panda II 1.2 Benzyna+Gaz, Zadbana, Zarejestrowana, Ubezpieczona, Vat do odpis	benzyna	bezwypadkowy	2011.0	165000.0	8500.0
+1166	Fiat Punto IV Punto Evo 1.4 Benzyna+LPG 1 wł. krajowy serwisowany Bezwypadkowy FV2	benzyna	bezwypadkowy	2015.0	125000.0	23900.0
+1167	Fiat Doblo I 1.3 JTD moc 75Km ROK 2007 FAKTURA VAT!!	diesel	bezwypadkowy	2007.0	172066.0	8999.0
+1168	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 7 Osób Navi PL Klimatronic Skóry Alpine Aut.	diesel	bezwypadkowy	2014.0	126000.0	53700.0
+1169	Fiat Linea 1.4 Benzyna+GAZ* Klimatyzacja* Salon PL* I wł* Gwarancja	benzyna	bezwypadkowy	2007.0	189000.0	14400.0
+1170	Fiat Punto IV Salon PL Serwis ASO 1.3 multijet 16v na łańcuchu	diesel	sprawny	2014.0	160000.0	20418.0
+1171	Fiat Panda II VIN/Przebieg gwar/Kupiony z aukcji/Wspomaganie kier.	benzyna	bezwypadkowy	2007.0	150000.0	7700.0
+1172	Fiat Punto Evo Punto Evo 1.4 78 KM Start-Stop Zadbany Gwarancja 15 Miesięcy	benzyna	sprawny	2011.0	149000.0	19800.0
+1173	Fiat Bravo II 2009r. 1.4 Benzyna+LPG 90KM / Og.przebieg / 40 zdjęć	benzyna	bezwypadkowy	2009.0	243208.0	16800.0
+1174	Fiat Doblo I Salon PL I właściciel bezwypadkowy mod 2009 F vat 23%	benzyna	bezwypadkowy	2008.0	102000.0	14500.0
+1175	Fiat Ulysse II Opłacony Zadbany Serwisowany z Klimatronikem Alusami I Kolami Zimowy	benzyna	sprawny	2002.0	137000.0	9499.0
+1176	Fiat Freemont 2.0 mjt 16V 170 KM 4x4 7 Osób DVD Navi Szyberdach Skóry Alpine Aut.	diesel	bezwypadkowy	2015.0	137000.0	57700.0
+1177	Fiat Seicento 1.1 benz REJ PL Ważne Opłaty BDB GWARANCJA Transport	benzyna	bezwypadkowy	2001.0	113000.0	1999.0
+1178	Fiat Linea 1.4 benzyna Active/Salon Polska/1 Wł/serwis ASO	benzyna	bezwypadkowy	2011.0	159000.0	18900.0
+1179	Fiat Bravo II 1.9 JTD 16V * 150 KM * GWARANCJA serwis aso * klimatronic * warsza	diesel	bezwypadkowy	2007.0	190000.0	14900.0
+1180	Fiat Ducato III MAXI ! 3.0DIESEL ! 177KM ! SALON PL ! VAT1+VAT 23%	diesel	bezwypadkowy	2012.0	201000.0	49900.0
+1182	samochód	benzyna	sprawny	2009.0	173207.0	17500.0
+1188	Fiat Bravo II Fiat Bravo 1,4 kat	benzyna	sprawny	2007.0	195471.0	17900.0
+1189	Fiat Seicento	benzyna	sprawny	2002.0	138000.0	2700.0
+1192	Fiat 500	benzyna	uszkodzony	2011.0	156947.0	12500.0
+1193	Fiat Seicento	benzyna	bezwypadkowy	2001.0	206500.0	1900.0
+1194	Fiat 500	benzyna	sprawny	2016.0	26914.0	36900.0
+1195	Fiat Stilo	benzyna	bezwypadkowy	2003.0	145000.0	8500.0
+1196	Fiat 500L Fiat 500L 1,4 120KM	benzyna	bezwypadkowy	2014.0	30000.0	52200.0
+1198	Fiat Marea sprzedam fiat marea 1,9 jtd	diesel	sprawny	2000.0	251000.0	1750.0
+1199	Fiat Albea sprzedam fiat albea gaz	benzyna	sprawny	2002.0	208000.0	2499.0
+1200	Fiat Marea sprzedam fiat marea lpg klima	benzyna	sprawny	2000.0	183000.0	3200.0
+1201	Fiat 500	benzyna	bezwypadkowy	2009.0	140000.0	21000.0
+1202	Fiat Idea	diesel	bezwypadkowy	2006.0	202000.0	8200.0
+1205	Fiat Barchetta	benzyna	uszkodzony	1997.0	118437.0	3900.0
+1206	Fiat 125p	benzyna	sprawny	1986.0	86000.0	9900.0
+1207	Fiat Freemont	benzyna	sprawny	2014.0	27400.0	68900.0
+1208	Fiat Idea	benzyna	bezwypadkowy	2004.0	191000.0	8900.0
+1209	Fiat 500	benzyna	bezwypadkowy	2009.0	140000.0	21000.0
+1212	Fiat Sedici	benzyna	sprawny	2011.0	77000.0	30000.0
+1213	Fiat 500	benzyna	sprawny	2008.0	128900.0	17500.0
+1214	Fiat Multipla	diesel	bezwypadkowy	2004.0	170000.0	10999.0
+1215	Fiat Scudo Fiat Scudo izoterma	diesel	bezwypadkowy	2010.0	350000.0	15500.0
+1218	Fiat Seicento , Salon Polska	benzyna	bezwypadkowy	2003.0	143860.0	3500.0
+1227	Fiat Panda I sprzedam fiat panda 2 właściciel	benzyna	uszkodzony	2003.0	104000.0	1999.0
+1228	Fiat Seicento Actual	benzyna	sprawny	2003.0	168422.0	2990.0
+1229	Fiat Panda II , Klimatronic	benzyna	bezwypadkowy	2006.0	102834.0	11000.0
+1230	Fiat Panda II	benzyna	sprawny	2009.0	102000.0	11600.0
+1232	Fiat Punto Grande	benzyna	sprawny	2007.0	142550.0	16500.0
+1233	Fiat Punto II	benzyna	sprawny	2000.0	189000.0	39000.0
+1234	Fiat Punto II	benzyna	sprawny	2002.0	170000.0	2400.0
+1238	Fiat Seicento 1100	benzyna	bezwypadkowy	2003.0	160000.0	2999.0
+1239	Fiat Doblo II	diesel	sprawny	2011.0	136000.0	20850.0
+1240	Fiat Siena 75 HL	benzyna	bezwypadkowy	2001.0	71000.0	2900.0
+1241	Fiat 126 126 BIS	benzyna	sprawny	1984.0	75000.0	11900.0
+1243	Fiat Grande Punto Italia	diesel	bezwypadkowy	2016.0	42000.0	27900.0
+1245	Fiat Panda II	benzyna	sprawny	2009.0	128000.0	9900.0
+1246	Fiat Bravo II	benzyna	bezwypadkowy	2009.0	180000.0	19900.0
+1247	Fiat Seicento Actual	benzyna	bezwypadkowy	2003.0	155000.0	3400.0
+1250	Fiat Tipo Fiat Tipo Benzyna, FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2016.0	42048.0	34440.0
+1251	Fiat Punto III sprzedam fiat punto fl benzyna	benzyna	sprawny	2004.0	179000.0	5999.0
+1252	Fiat Punto Evo	benzyna	sprawny	2011.0	152022.0	14900.0
+1253	Fiat Bravo II	diesel	bezwypadkowy	2008.0	190000.0	14900.0
+1254	Fiat Grande Punto	benzyna	sprawny	2009.0	123300.0	13750.0
+1255	Fiat Doblo II	diesel	bezwypadkowy	2011.0	131198.0	25900.0
+1256	Fiat Punto IV	benzyna	sprawny	2012.0	95000.0	19000.0
+1257	Fiat Punto I Cabrio	benzyna	sprawny	1997.0	214000.0	2400.0
+1260	Fiat 500 Fiat 500 Panorama Limitowana Wersja MOD 2017 Przeb	benzyna	sprawny	2016.0	6100.0	34800.0
+1261	Fiat Punto Evo	benzyna	sprawny	2010.0	101000.0	16900.0
+1262	Fiat Panda II	benzyna	sprawny	2010.0	83000.0	12900.0
+1263	Fiat Grande Punto	benzyna	sprawny	2007.0	160000.0	12900.0
+1264	Fiat Grande Punto	diesel	sprawny	2006.0	197000.0	11400.0
+1265	Fiat Punto II SX70tys.km.BEZWYPADKOWYkrajowy	benzyna	bezwypadkowy	2001.0	72000.0	7600.0
+1266	Fiat Croma II	diesel	bezwypadkowy	2006.0	167000.0	14900.0
+1267	Fiat Panda II	benzyna	sprawny	2006.0	185000.0	8700.0
+1268	Fiat Punto III Klimatyzacja	diesel	sprawny	2004.0	132000.0	6900.0
+1269	Fiat Panda III	benzyna	sprawny	2012.0	141990.0	19900.0
+1270	Fiat Grande Punto	diesel	sprawny	2007.0	143000.0	15900.0
+1278	Fiat Panda II	benzyna	sprawny	2012.0	194500.0	11070.0
+1279	Fiat Punto Evo 1.3	benzyna	bezwypadkowy	2010.0	198000.0	15900.0
+1280	Fiat Siena KRAJOWY50tys.kmBEZWYPADKOWYserwisowany	benzyna	bezwypadkowy	2002.0	49000.0	8800.0
+1281	Fiat Panda II	benzyna	bezwypadkowy	2004.0	58000.0	6900.0
+1282	Fiat Doblo II	diesel	bezwypadkowy	2017.0	29917.0	74907.0
+1283	Fiat Stilo *Serwisowany*Klimatyzacja*	benzyna	sprawny	2003.0	95000.0	7900.0
+1284	Fiat Grande Punto	benzyna	sprawny	2007.0	137000.0	11900.0
+1285	Fiat Grande Punto	diesel	sprawny	2010.0	223000.0	11500.0
+1286	Fiat Scudo II	diesel	bezwypadkowy	2009.0	198300.0	22900.0
+1287	Fiat Bravo II	benzyna	bezwypadkowy	2007.0	103000.0	17900.0
+1288	Fiat Punto III	benzyna	sprawny	2007.0	144800.0	10900.0
+1326	Fiat Punto IV Fiat Punto 1.2, Benzyna, FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2013.0	210332.0	14637.0
+1327	Fiat 500 2014 Fiat 500 z napędem elektrycznym	nap	sprawny	2014.0	6555.0	55842.0
+1328	Fiat Ducato	diesel	sprawny	2017.0	44157.0	54489.0
+1329	Fiat Fiorino	diesel	bezwypadkowy	2011.0	200000.0	13900.0
+1330	Fiat Ducato	diesel	uszkodzony	1997.0	93454.0	17500.0
+1333	Fiat Ducato	diesel	bezwypadkowy	2013.0	229000.0	46617.0
+1334	Fiat Ducato	diesel	sprawny	2012.0	87600.0	29200.0
+1335	Fiat Grande Punto	benzyna	sprawny	2008.0	41000.0	14900.0
+1337	Fiat Panda II	diesel	bezwypadkowy	2010.0	156000.0	8900.0
+1338	Fiat Doblo II OSOBOWY	diesel	bezwypadkowy	2009.0	192000.0	14900.0
+1340	Fiat Ducato	diesel	sprawny	2017.0	126429.0	59040.0
+1341	Fiat Ducato	diesel	sprawny	2017.0	140769.0	78105.0
+1344	Fiat Ducato	diesel	sprawny	2015.0	360806.0	45141.0
+1345	Fiat Ducato	diesel	sprawny	2006.0	412000.0	26900.0
+1346	Fiat DUCATO	diesel	sprawny	1998.0	28000.0	15199.0
+1347	Fiat Ducato	diesel	sprawny	2015.0	82674.0	61300.0
+1349	Fiat Ducato	diesel	bezwypadkowy	2008.0	200110.0	31980.0
+1350	Fiat Panda	benzyna	sprawny	2005.0	202000.0	7257.0
+1352	Fiat Scudo	diesel	sprawny	2011.0	199000.0	23247.0
+1354	Fiat Doblo	diesel	sprawny	2010.0	63740.0	27900.0
+1355	Fiat Ducato	diesel	sprawny	2015.0	271169.0	61992.0
+1356	Fiat Ducato	diesel	sprawny	2006.0	229949.0	26900.0
+1357	Fiat Ducato	diesel	sprawny	2012.0	153000.0	38007.0
+1359	Fiat Ducato	diesel	sprawny	2017.0	140769.0	78105.0
+1361	Fiat Ducato	diesel	sprawny	2003.0	154012.0	5966.0
+1362	Fiat Ducato	diesel	bezwypadkowy	2011.0	228000.0	21500.0
+1363	Fiat Ducato	diesel	sprawny	2016.0	144413.0	69495.0
+1364	Fiat Ducato	diesel	sprawny	2012.0	117478.0	34194.0
+1366	Fiat Ducato	inne	bezwypadkowy	2016.0	2.0	192803.0
+1367	Fiat Doblo	diesel	sprawny	2012.0	157000.0	20999.0
+1369	Fiat Ducato	benzyna	bezwypadkowy	1998.0	98000.0	22900.0
+1382	Fiat Ducato	diesel	sprawny	2016.0	67035.0	78720.0
+1395	Fiat Punto Grande 1.3 75KM	diesel	sprawny	2006.0	105000.0	16900.0
+1397	Fiat Grande Punto 1,3 JTD	diesel	sprawny	2007.0	142000.0	10500.0
+1398	Fiat Panda II , Salon Polska	benzyna	bezwypadkowy	2009.0	102675.0	10500.0
+1399	Fiat Multipla 1.9 JTD Dynamic	diesel	bezwypadkowy	2005.0	325000.0	6900.0
+1400	Fiat Qubo 2008r Bogata wersja	benzyna	bezwypadkowy	2008.0	167700.0	12900.0
+1401	Fiat 126 KAŻDEGO 126 p	benzyna	sprawny	2000.0	100000.0	5000.0
+1402	Fiat Grande Punto 1,3 Multijet	diesel	sprawny	2006.0	177000.0	7900.0
+1403	Fiat 1964 rok ORYGINALNY STAN	benzyna	bezwypadkowy	1964.0	109000.0	29999.0
+1404	Fiat Idea 1.9 Multijet Emotion	diesel	uszkodzony	2005.0	189000.0	6300.0
+1405	Fiat Doblo I Niski przebieg!	benzyna	bezwypadkowy	2007.0	112376.0	14400.0
+1406	Fiat Tipo 1.4 16v Lounge	benzyna	nowy	2018.0	1.0	59700.0
+1407	Fiat Punto Evo Serwisowany ,opłacony	benzyna	sprawny	2011.0	116000.0	19900.0
+1408	Fiat Croma II * 2.2 Benzyna *	benzyna	sprawny	2006.0	153698.0	14800.0
+1409	Fiat Scudo II Osobowy Długi	diesel	sprawny	2009.0	186000.0	31900.0
+1410	Fiat 500 1.4 ABARTH 170KM	benzyna	sprawny	2012.0	44800.0	35900.0
+1411	Fiat Freemont 7 OSOBOWY , DIESEL	diesel	bezwypadkowy	2011.0	150673.0	42900.0
+1412	Fiat 500 Cabrio 1.4L 100KM	benzyna	sprawny	2011.0	62500.0	24354.0
+1413	Fiat Grande Punto Opłacony ,serwis	benzyna	bezwypadkowy	2009.0	143000.0	13900.0
+1414	Fiat Stilo 1.6 16V Dynamic	benzyna	sprawny	2005.0	175600.0	7600.0
+1416	Fiat 500L FZ8845J ! Jak nowy !	benzyna	sprawny	2017.0	7105.0	51699.0
+1417	Fiat Sedici 4X4 Krajowy32tys.km.GazBEZWYPADKOWY1-właść.	benzyna	bezwypadkowy	2013.0	32000.0	43800.0
+1418	Fiat Freemont 2.0 Multijet Lounge	diesel	bezwypadkowy	2014.0	111200.0	59900.0
+1420	Fiat 500 2012 - 1.4l - 100KM	benzyna	sprawny	2012.0	81650.0	21402.0
+1421	Fiat Panda II klimatyzacja, salonowy	diesel	sprawny	2010.0	117000.0	14900.0
+1422	Fiat Ducato II 15 JTD	diesel	sprawny	2006.0	370000.0	7999.0
+1423	Fiat Palio BEZWYPADKOWYkrajowy 85tys.km SERWISOWANY	benzyna	bezwypadkowy	2003.0	85000.0	11500.0
+1424	Fiat Punto III 1.3 JTD	diesel	bezwypadkowy	2003.0	220000.0	4900.0
+1502	Fiat Ducato 2.5 TDI	diesel	uszkodzony	1996.0	90000.0	5900.0
+1505	Fiat Fiorino multijet jtd	diesel	sprawny	2013.0	116000.0	15375.0
+1506	Fiat Ducato l1h1 jtd	diesel	bezwypadkowy	2008.0	356000.0	13407.0
+1577	Fiat Ducato 2.5 TDI	diesel	uszkodzony	1996.0	90000.0	5900.0
+1580	Fiat Fiorino multijet jtd	diesel	sprawny	2013.0	116000.0	15375.0
+1581	Fiat Ducato l1h1 jtd	diesel	bezwypadkowy	2008.0	356000.0	13407.0
+1603	Fiat Ducato Fiat Ducato 3.0 180KM /10 EP-Firana/ 4.9X2.2X2.25H	diesel	bezwypadkowy	2016.0	212384.0	92250.0
+1604	Fiat Ducato Fiat Ducato L3H2 2.3 120KM Gwarancja!	diesel	sprawny	2010.0	259043.0	22755.0
+1605	Fiat Fiorino Fiat Fiorino 1.4 Base FV 23%, Gwarancja!!	benzyna	sprawny	2016.0	22113.0	31734.0
+1632	Fiat Ducato Mroźnia/Chłodnia	diesel	sprawny	2007.0	386000.0	28900.0
+1634	Fiat Ducato FIAT Ducato 2.3MJ, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2014.0	74691.0	39975.0
+1674	Fiat Ducato FIAT Ducato 2.3MJ, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2014.0	74691.0	39975.0
+1704	Fiat Ducato Fiat Ducato 3.0 180KM /10 EP-Firana/ 4.9X2.2X2.25H	diesel	bezwypadkowy	2016.0	212384.0	92250.0
+1705	Fiat Ducato Fiat Ducato L3H2 2.3 120KM Gwarancja!	diesel	sprawny	2010.0	259043.0	22755.0
+1706	Fiat Fiorino Fiat Fiorino 1.4 Base FV 23%, Gwarancja!!	benzyna	sprawny	2016.0	22113.0	31734.0
+1778	Fiat Ducato Ducato L4H2	diesel	bezwypadkowy	2014.0	207000.0	42900.0
+1779	Fiat Ducato 11	diesel	bezwypadkowy	2006.0	188432.0	13900.0
+1780	Fiat Ducato L3H2	diesel	bezwypadkowy	2013.0	220000.0	38500.0
+1787	Fiat Ducato L2H2 Klimatyzacja	diesel	bezwypadkowy	2013.0	193437.0	38130.0
+1789	Fiat Ducato L2H2 Klimatyzacja	diesel	sprawny	2012.0	119900.0	31980.0
+1810	Fiat Seicento Van 1100	benzyna	sprawny	2007.0	250000.0	3998.0
+1811	Fiat Ducato Leasing! L3H2	diesel	bezwypadkowy	2018.0	1.0	1899.0
+1812	Fiat Ducato Chłodnia Izoterma	diesel	bezwypadkowy	2008.0	206000.0	21525.0
+1813	Fiat Doblo multijet jtd	diesel	bezwypadkowy	2010.0	237000.0	12177.0
+1814	Fiat Ducato L3H2	diesel	sprawny	2016.0	39000.0	57500.0
+1815	Fiat Ducato model L3H2	diesel	sprawny	2012.0	208000.0	32800.0
+1834	Fiat Ducato Mroźnia/Chłodnia	diesel	sprawny	2007.0	386000.0	28900.0
+1931	Fiat Doblo II 2011Rok*1.4Benzyna*PoOpłatach	benzyna	bezwypadkowy	2011.0	139000.0	25900.0
+1932	Fiat Grande Punto , Salon Polska, Parktronic	benzyna	bezwypadkowy	2006.0	81492.0	12500.0
+1934	Fiat Grande Punto , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2009.0	126411.0	12500.0
+1935	Fiat Stilo , Salon Polska, Klimatronic, El. szyby,	diesel	bezwypadkowy	2003.0	337608.0	3500.0
+1936	Fiat Grande Punto , Salon Polska ,Bezkolizyjny	benzyna	bezwypadkowy	2006.0	55702.0	14500.0
+1937	Fiat Punto IV 1,2 benz Klima Opłacony	benzyna	sprawny	2013.0	121000.0	18890.0
+1938	Fiat Doblo cargo maxi !	diesel	bezwypadkowy	2008.0	198147.0	11900.0
+1939	Fiat Ducato MAXI	diesel	sprawny	2011.0	555000.0	29900.0
+1942	Fiat Ducato Maxi 232.450.1	diesel	bezwypadkowy	2000.0	362000.0	16800.0
+1949	Fiat Ducato Maxi 2,3D	diesel	sprawny	2011.0	245000.0	29900.0
+1960	Fiat Doblo II 2011Rok*1.4Benzyna*PoOpłatach	benzyna	bezwypadkowy	2011.0	139000.0	25900.0
+1961	Fiat Grande Punto , Salon Polska, Parktronic	benzyna	bezwypadkowy	2006.0	81492.0	12500.0
+1963	Fiat Grande Punto , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2009.0	126411.0	12500.0
+1964	Fiat Stilo , Salon Polska, Klimatronic, El. szyby,	diesel	bezwypadkowy	2003.0	337608.0	3500.0
+1965	Fiat Grande Punto , Salon Polska ,Bezkolizyjny	benzyna	bezwypadkowy	2006.0	55702.0	14500.0
+1966	Fiat Punto IV 1,2 benz Klima Opłacony	benzyna	sprawny	2013.0	121000.0	18890.0
+1967	Fiat Seicento 1.1 LPG Salon Polska	benzyna	sprawny	2005.0	104000.0	4900.0
+1968	Fiat Punto Grande 1.4 77KM Energy	benzyna	sprawny	2006.0	121000.0	17900.0
+1969	Fiat Scudo I 1.9 TD EL 295.0	diesel	bezwypadkowy	1997.0	331000.0	3900.0
+1970	Fiat Bravo II , GAZ, Automat, Klima, Parktronic	benzyna	bezwypadkowy	2009.0	147307.0	21000.0
+1971	Fiat Bravo II , Salon Polska, GAZ	benzyna	bezwypadkowy	2010.0	148997.0	23000.0
+1972	Fiat Stilo , Klima, El. szyby, wspomaganie Kierownicy	diesel	bezwypadkowy	2003.0	196278.0	4000.0
+1973	Fiat Grande Punto , Klima, Podgrzewane siedzienia	benzyna	bezwypadkowy	2008.0	69111.0	13000.0
+1974	Fiat Panda II 1.3 Multijet Dynamic	diesel	bezwypadkowy	2006.0	130000.0	5900.0
+1975	Fiat 500 1.4 16V Pop 100KM	benzyna	uszkodzony	2009.0	97000.0	8900.0
+1976	Fiat Punto III Sport Climatronic Po serwisie!	benzyna	sprawny	2003.0	253000.0	8900.0
+1977	Fiat Punto II klima 5 drzwi	benzyna	bezwypadkowy	2001.0	148000.0	4400.0
+1978	Fiat Grande Punto Punto Klimatyzacja*City*Elektryka*	diesel	sprawny	2007.0	227000.0	9900.0
+1979	Fiat Punto I 1,1i 55S NA CZĘŚCI	benzyna	uszkodzony	1998.0	135000.0	1000.0
+1981	Fiat Punto I zarejestrowany,model 1998	benzyna	sprawny	1997.0	169000.0	3900.0
+1982	Fiat Doblo I 1.9 JTD Active	diesel	sprawny	2004.0	206000.0	8400.0
+1983	Fiat 500 1,4 benzyna 100KM zarejestrowany sport	benzyna	sprawny	2008.0	74200.0	19900.0
+1984	Fiat Freemont Fiat Freemont Black Code, 4x4 automat 7 osób 170KM	diesel	sprawny	2014.0	148000.0	61000.0
+1985	Fiat Panda III Fiat Panda 2014 Pierwszy WŁ SALON PL 1.2	benzyna	bezwypadkowy	2014.0	220000.0	22386.0
+1987	Fiat Punto III **VAN**FV/23%**CIĘŻAROWY	diesel	sprawny	2010.0	218000.0	10947.0
+1988	Fiat Grande Punto 1.3 Jtd,Zamiana,	diesel	sprawny	2006.0	127000.0	8900.0
+1989	Fiat Doblo II 1.6 Multijet 16V Active	diesel	bezwypadkowy	2012.0	175000.0	35000.0
+1990	Fiat 500 0.9 SGE Cabrio! Nowy Model!	benzyna	sprawny	2017.0	7200.0	41999.0
+1991	Fiat Punto Evo Evo 1.4 8V Active	benzyna	sprawny	2010.0	148000.0	18000.0
+1992	Fiat Bravo II 1.6 Multijet 16V Dynamic	diesel	bezwypadkowy	2008.0	128300.0	17500.0
+1993	Fiat Bravo II 1.9 Multijet Active	diesel	sprawny	2007.0	89300.0	21900.0
+1994	Fiat 500 , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2014.0	39495.0	27400.0
+1995	Fiat Linea , Salon Polska, Serwis ASO, GAZ	benzyna	bezwypadkowy	2011.0	83411.0	18000.0
+1997	Fiat Panda II Active 1.1 8V	benzyna	sprawny	2006.0	97000.0	10600.0
+1998	Fiat Scudo II 2.0 MJ L2H1 Confort	diesel	bezwypadkowy	2009.0	289600.0	19900.0
+1999	Fiat Multipla 1.6 16V 2005r. 100KM	benzyna	sprawny	2005.0	195395.0	7900.0
+2000	Fiat 500L WD9601J ! Niski przebieg ! Bluetooth !	benzyna	sprawny	2017.0	7203.0	49999.0
+2001	Fiat Sedici 1.6 16V 4x4 Emotion	benzyna	bezwypadkowy	2007.0	146000.0	20700.0
+2002	Fiat Grande Punto 1,4 klima bezwypadkowy Gwarancja	benzyna	bezwypadkowy	2008.0	180000.0	13900.0
+2003	Fiat Grande Punto 1.4*98KM*klimatronik*	benzyna	bezwypadkowy	2007.0	140000.0	14900.0
+2004	Fiat Panda III 22 tys. km	benzyna	sprawny	2015.0	22000.0	24900.0
+2005	Fiat 500 1.2-SKÓRA-PANORAMA-JAK NOWY	benzyna	bezwypadkowy	2008.0	157000.0	19600.0
+2006	Fiat Tipo LOUNGE GWARANCJA FABRYCZNA ! KAMERA ! NAWIGACJA !	diesel	sprawny	2016.0	17000.0	55900.0
+2007	Fiat 500X I 1.4 MultiAir Pop Star	benzyna	sprawny	2016.0	1.0	67600.0
+2008	Fiat Panda II raty bez banku	benzyna	bezwypadkowy	2011.0	63000.0	12999.0
+2009	Fiat Doblo II Fiat Doblo 1.4 T-JET LPG EASY 2017r., FV 23%, Gwarancja!!	benzyna	bezwypadkowy	2017.0	21845.0	52029.0
+2010	Fiat Idea 1.9 JTD 100 KM Klimatronik	diesel	bezwypadkowy	2008.0	199000.0	7900.0
+2011	Fiat 500 1.2i #KLIMATRONIC#PANORAMA#BIAŁY#CUKIEREK#	benzyna	sprawny	2009.0	135000.0	19999.0
+2012	Fiat Freemont 2.0 Multijet Black Code AWD	diesel	sprawny	2014.0	180000.0	56900.0
+2013	Fiat Ducato III 30 MJ CH1	diesel	bezwypadkowy	2010.0	140000.0	110000.0
+2014	Fiat Sedici = SALON POLSKA - BEZWYPADKOWY - KLIMATYZACJA =	benzyna	bezwypadkowy	2009.0	105650.0	24900.0
+2015	Fiat Doblo II 1.6 JTD 105KM Maxi	diesel	bezwypadkowy	2014.0	173000.0	39360.0
+2016	Fiat Doblo I Maxi 1.9 JTD Klimatyzacja !	diesel	sprawny	2008.0	320000.0	10900.0
+2017	Fiat Grande Punto 1.2 benzyna + Gaz	benzyna	sprawny	2011.0	100000.0	19800.0
+2018	Fiat Sedici 1,9 JTD 4x4 Serwis!!	diesel	bezwypadkowy	2008.0	155654.0	17900.0
+2019	Fiat 500 1.3 Multijet Pop Euro5	diesel	bezwypadkowy	2011.0	150000.0	24000.0
+2020	Fiat Panda II 1.1 Fresh Eco	benzyna	sprawny	2008.0	119800.0	9900.0
+2021	Fiat Seicento 100% bezwypadkowy, ekonomiczny, 86000 km	benzyna	bezwypadkowy	2004.0	86000.0	5750.0
+2022	Fiat 500X I 1.4 MultiAir Pop Star	benzyna	sprawny	2016.0	1.0	64900.0
+2024	Fiat Sedici 1.9 Multijet 4x4 Dynamic klimatyzacja	diesel	bezwypadkowy	2008.0	199000.0	20900.0
+2025	Fiat Scudo II ** 9 - Osób ** Klima ** Serwisowany	diesel	sprawny	2014.0	152000.0	51900.0
+2026	Fiat Freemont FULL OPCJA-BEZWYPADKOWY-GWARANCJA	diesel	bezwypadkowy	2013.0	192000.0	44500.0
+2027	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2012.0	239000.0	39900.0
+2028	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2012.0	250000.0	42900.0
+2029	Fiat Ducato Klimatyzacja Tempomat Bluetooth	diesel	sprawny	2011.0	117000.0	45500.0
+2031	Fiat Ducato L4H2 maxi brygadówka	diesel	sprawny	2016.0	163000.0	64900.0
+2034	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2012.0	127000.0	41900.0
+2057	Fiat Ducato Karetka Ambulans Ambula	diesel	sprawny	2010.0	3.0	43999.0
+2119	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2015.0	246000.0	59900.0
+2120	Fiat Doblo 1.3 MJ SX	diesel	bezwypadkowy	2013.0	160400.0	17900.0
+2121	Fiat Ducato l1h1 multijet jtd	diesel	bezwypadkowy	2013.0	207000.0	32595.0
+2122	Fiat Ducato maxi L4H2 brygadówka	diesel	sprawny	2016.0	192000.0	58900.0
+2123	Fiat Doblo maxi multijet jtd	diesel	sprawny	2017.0	19900.0	40467.0
+2124	Fiat Punto Natural power cng	cng	bezwypadkowy	2007.0	176500.0	9470.0
+2125	Fiat Knaus Sun Traveller 504	diesel	sprawny	2001.0	57080.0	81650.0
+2126	Fiat Ducato 9 osobowa brygadówka	diesel	sprawny	2017.0	165000.0	69900.0
+2127	Fiat Ducato L3H2 Nowy model.	diesel	bezwypadkowy	2014.0	203000.0	49077.0
+2129	Fiat Ducato NR 232 CHŁODNIA	diesel	uszkodzony	2008.0	193408.0	10900.0
+2136	Fiat Ducato Maxi MJ LH1	diesel	bezwypadkowy	2010.0	212356.0	61377.0
+2139	Fiat Ducato opłacony tel 600319988	diesel	bezwypadkowy	2007.0	235000.0	19800.0
+2160	Fiat Ducato klima tel 600319988	diesel	bezwypadkowy	2009.0	215000.0	19800.0
+2161	Fiat Doblo 1,3 JTD Cargo	diesel	sprawny	2008.0	113000.0	11900.0
+2188	Fiat Ducato 33 MJ L3H3	diesel	sprawny	2014.0	178000.0	35547.0
+2189	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2015.0	179000.0	58900.0
+2190	Fiat Punto Cng natural power	cng	bezwypadkowy	2007.0	176000.0	9471.0
+2191	Fiat Ducato 7-osobowa brygadówka	diesel	sprawny	2015.0	270000.0	59900.0
+2192	Fiat Ducato Maxi MJ L4	diesel	sprawny	2013.0	178000.0	47847.0
+2193	Fiat Doblo NR 257 CHŁODNIA	diesel	sprawny	2008.0	204000.0	15900.0
+2194	Fiat Ducato NR 245 CHŁODNIA	diesel	uszkodzony	2010.0	550000.0	9900.0
+2195	Fiat Fiorino 1.3 MJ Base	diesel	bezwypadkowy	2011.0	184566.0	12177.0
+2206	Fiat Ducato Maxi MJ LH1	diesel	bezwypadkowy	2010.0	212356.0	61377.0
+2209	Fiat Ducato opłacony tel 600319988	diesel	bezwypadkowy	2007.0	235000.0	19800.0
+2227	Fiat Ducato opłacony tel 600319988	diesel	bezwypadkowy	2007.0	198000.0	18800.0
+2229	Fiat Doblo 1.3 MJ Base	diesel	sprawny	2011.0	134000.0	19680.0
+2255	Fiat Doblo 1.6 MJ SX	diesel	sprawny	2010.0	191000.0	16800.0
+2270	Fiat Ducato 3.0 L4 H2	diesel	bezwypadkowy	2015.0	238000.0	51900.0
+2271	Fiat Ducato chłodnia /mroźnia kontener	benzyna	sprawny	2014.0	156000.0	64900.0
+2272	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2015.0	216000.0	69900.0
+2273	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2014.0	260000.0	49900.0
+2276	Fiat Doblo CHŁODNIA XARIOS 350	diesel	uszkodzony	2013.0	51000.0	21500.0
+2277	Fiat Doblo II 105KM MAXI	diesel	sprawny	2014.0	173000.0	42435.0
+2278	Fiat Ducato L1H1 Pack Clim	diesel	bezwypadkowy	2014.0	207930.0	41697.0
+2280	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2015.0	213000.0	46900.0
+2281	Fiat Ducato NR 242 NISKOPODŁOGOWY	diesel	uszkodzony	2008.0	263000.0	4490.0
+2283	Fiat Doblo Maxi 1.3 JTD	diesel	bezwypadkowy	2010.0	305970.0	13776.0
+2296	Fiat Ducato opłacony tel 600319988	diesel	bezwypadkowy	2007.0	198000.0	18800.0
+2298	Fiat Doblo 1.3 MJ Base	diesel	sprawny	2011.0	134000.0	19680.0
+2335	Fiat Doblo Maxi XL Klimatyzacja	diesel	bezwypadkowy	2013.0	155600.0	31980.0
+2362	Fiat 125p dla konesera i nie tylko	benzyna	sprawny	1989.0	43000.0	12500.0
+2365	Fiat Ducato 30 MJ L1H1	diesel	sprawny	2014.0	200177.0	36900.0
+2368	Fiat Ducato Karman Davis 590	diesel	sprawny	2015.0	8900.0	139900.0
+2369	Fiat Punto Cng natural power	cng	bezwypadkowy	2007.0	176000.0	7799.0
+2370	Fiat Ducato 7 osobowa brygadówka	diesel	sprawny	2012.0	268000.0	49900.0
+2371	Fiat Ducato 30 MJ L2H2	diesel	sprawny	2013.0	164000.0	36654.0
+2372	Fiat Ducato Maxi 180 KM	diesel	bezwypadkowy	2016.0	360674.0	59775.0
+2373	Fiat Doblo Zarejestrowany 1.6 benz.	benzyna	sprawny	2007.0	160000.0	8500.0
+2403	Fiat Scudo 2.0 JTD Chłodnia	diesel	sprawny	2000.0	392200.0	6900.0
+2451	Fiat Qubo , Salon Polska, Serwis ASO, Klima,ALU	diesel	bezwypadkowy	2011.0	225439.0	12500.0
+2452	Fiat Punto Punto Evo , Salon Polska, 1. Właściciel, Serwis ASO	benzyna	bezwypadkowy	2010.0	54036.0	22500.0
+2453	Fiat Punto Punto Evo , Salon Polska, 1. Właściciel, Klima ,Bezkolizyjny	benzyna	bezwypadkowy	2011.0	94797.0	21300.0
+2454	Fiat Panda II , Salon Polska, 1. Właściciel, Serwis ASO, Alarm	benzyna	bezwypadkowy	2004.0	92762.0	8500.0
+2455	Fiat 500L , Salon Polska, 1. Właściciel, Serwis ASO, Klima, Tempomat	benzyna	bezwypadkowy	2016.0	16657.0	46000.0
+2456	Fiat Bravo II , Salon Polska, 1. Właściciel, Klimatronic, Parktronic,	benzyna	bezwypadkowy	2009.0	107641.0	22000.0
+2457	Fiat Tipo , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%	benzyna	bezwypadkowy	2017.0	21603.0	45000.0
+2459	Fiat Bravo II 1.6 MultiJet 105 koni, zarejestrowany	diesel	sprawny	2008.0	172000.0	14900.0
+2460	Fiat Freemont ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2012.0	150000.0	54900.0
+2461	Fiat Brava ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2008.0	155000.0	15500.0
+2462	Fiat 500 1.2 70KM Panorama Dach + Klima + Ks. Serwisowa	benzyna	sprawny	2009.0	214000.0	16900.0
+2463	Fiat Bravo II , Salon Polska, Serwis ASO, Klima	benzyna	bezwypadkowy	2010.0	126894.0	20300.0
+2464	Fiat Tipo , Salon Polska, Serwis ASO, GAZ, Klima, Parktronic,	benzyna	bezwypadkowy	2017.0	35944.0	47500.0
+2465	Fiat Idea Super stan! Prosto z Niemiec! klima	diesel	bezwypadkowy	2005.0	215000.0	8800.0
+2467	Fiat Idea ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2005.0	96000.0	9900.0
+2468	Fiat Seicento 1,1 benzyna 54KM salon polska zarejestrowany	benzyna	sprawny	2009.0	12700.0	8500.0
+2469	Fiat Qubo ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2009.0	89000.0	21500.0
+2470	Fiat Sanitarny 1988r 1,5 Oryginalny lakier, 36 tyś km	benzyna	bezwypadkowy	1988.0	36700.0	36900.0
+2471	Fiat Punto Evo 1.3 Mj 75 KM 2 os. klima	diesel	sprawny	2011.0	122941.0	19188.0
+2472	Fiat Tipo , Salon Polska, Serwis ASO, VAT 23%, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	77994.0	36000.0
+2474	Fiat Bravo II , Salon Polska, Serwis ASO, Klimatronic, Parktronic	diesel	bezwypadkowy	2010.0	85862.0	21500.0
+2475	Fiat Punto IV , Salon Polska, Serwis ASO, Klima, Parktronic	benzyna	bezwypadkowy	2014.0	28167.0	28000.0
+2476	Fiat Tipo Salon Polska !! I Właściciel !! Faktura Vat 23% !!	benzyna	bezwypadkowy	2016.0	52771.0	37900.0
+2477	Fiat Tipo , Salon Polska, Serwis ASO, Automat, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	13006.0	43000.0
+2478	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2011.0	81728.0	23000.0
+2479	Fiat Sedici ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2008.0	159000.0	21500.0
+2480	Fiat 124 500 [11245] Silnik benzynowy 1.2 69 KM	benzyna	bezwypadkowy	2015.0	79433.0	28905.0
+2481	Fiat Ducato III 9 cio osobowy, 3.0MJ 180KM, KLIMATYZACJA	diesel	sprawny	2013.0	172000.0	53997.0
+2482	Fiat Tipo , Salon Polska, Serwis ASO, Automat, Klima, Parktronic	benzyna	bezwypadkowy	2016.0	13006.0	43000.0
+2483	Fiat 500 , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2011.0	81728.0	23000.0
+2484	Fiat Sedici ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2008.0	159000.0	21500.0
+2485	Fiat 124 500 [11245] Silnik benzynowy 1.2 69 KM	benzyna	bezwypadkowy	2015.0	79433.0	28905.0
+2486	Fiat Ducato III 9 cio osobowy, 3.0MJ 180KM, KLIMATYZACJA	diesel	sprawny	2013.0	172000.0	53997.0
+2487	Fiat Cinquecento Sprzedam Cinquecento CC 700 gaz LPG	benzyna	sprawny	1998.0	175000.0	1100.0
+2488	Fiat Punto Punto Evo , Salon Polska, Serwis ASO	benzyna	bezwypadkowy	2009.0	72691.0	21000.0
+2489	Fiat Croma II , Salon Polska, Klimatronic, Tempomat, Parktronic,ALU	diesel	bezwypadkowy	2007.0	144819.0	14000.0
+2490	Fiat Grande Punto , Salon Polska, 1. Właściciel, Serwis ASO,	benzyna	bezwypadkowy	2009.0	40591.0	21200.0
+2491	Fiat 500X , Salon Polska, 1. Właściciel, Serwis ASO, Automat, Navi,	benzyna	bezwypadkowy	2015.0	16480.0	60000.0
+2493	Fiat Grande Punto 1,3MJet 90KM 5drzwi Klima Bez rdzy!	diesel	sprawny	2006.0	187402.0	9300.0
+2494	Fiat Panda ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2012.0	8810.0	26900.0
+2495	Fiat Ducato Fiat Ducato 3.0 M-jet 177KM- unoszony dach, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2015.0	417718.0	55227.0
+2496	Fiat Ducato FIAT Ducato 2.3 M-jet 131KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2014.0	132091.0	42804.0
+2497	Fiat Ducato Fiat Ducato 2.3 M-jet 177 KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2016.0	271873.0	52644.0
+2499	Fiat Ducato Fiat Ducato 35 2.3 M-jet L2+ FV 23%, Gwarancja!!	diesel	sprawny	2016.0	274095.0	51168.0
+2500	Fiat Ducato FIAT DUCATO L2H2 średniak 2.3M-jet, 130KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2013.0	272596.0	39360.0
+2542	Fiat Punto Evo 1.3 M-JET 95KM.klimatronic!książka!OPŁACONY!	diesel	sprawny	2010.0	103700.0	16700.0
+2543	Fiat Doblo II bezwypadkowy-krajowy-Dynamic-1.6D-grzecznościowe	diesel	bezwypadkowy	2011.0	132500.0	26900.0
+2544	Fiat Linea 1.4 Benzyna- Klimatyzacja- Salon PL- Serwis- I właściciel	benzyna	bezwypadkowy	2008.0	143000.0	12900.0
+2545	Fiat Fullback 4x4-DEMO-LineX-krajowy-fv23%-odDealera	diesel	bezwypadkowy	2016.0	26800.0	109501.0
+2546	Fiat Bravo II 1.9 MultiJet KLIMA Gwarancja Przebiegu!!	diesel	bezwypadkowy	2007.0	132000.0	13900.0
+2547	Fiat Tipo 1.6 MultiJet 16v Pop-120KM-odDealera	diesel	bezwypadkowy	2016.0	11000.0	51800.0
+2548	Fiat Grande Punto EVO 1.2e KLIMA Multifunkcja Alufelgi	benzyna	sprawny	2011.0	76000.0	15900.0
+2549	Fiat Tipo 1.4 95KM, POP, Krajowy, Serwisowany, Faktura VAT	benzyna	bezwypadkowy	2017.0	30698.0	42900.0
+2550	Fiat Punto Evo Evo 1.4 8V Active Dualogic	benzyna	bezwypadkowy	2010.0	159000.0	19900.0
+2551	Fiat Doblo I 1.3 Mjet 84 Km Lift Bezwypadkowy Klima	diesel	bezwypadkowy	2007.0	195000.0	14400.0
+2552	Fiat Grande Punto serwisowane do końca * klimatronik * idealne !	benzyna	bezwypadkowy	2006.0	170000.0	12500.0
+2553	Fiat Croma II 1.9 JTD Emotion150km navi full	diesel	bezwypadkowy	2010.0	20000.0	17500.0
+2554	Fiat Ducato Fiat Ducato 2.3 M-jet 177KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2016.0	177632.0	76875.0
+2555	Fiat Ducato Fiat Ducato 2.3 M-jet 131 KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2017.0	31688.0	74538.0
+2556	Fiat Ducato Fiat Ducato 33 2.3 M-jet CHŁODNIA FV 23%, Gwarancja!!	diesel	sprawny	2011.0	164960.0	25338.0
+2557	Fiat Ducato Fiat Ducato L4H3 2.2HDi, 2018 r., FV 23%, Gwarancja!!	diesel	bezwypadkowy	2018.0	44417.0	116604.0
+2616	Fiat Ducato FIAT / ATS DUCATO MAXI L3 2.3, 2018r., FV 23%, Gwarancja!!	diesel	bezwypadkowy	2017.0	116627.0	82410.0
+2617	Fiat Ducato FIAT DUCATO L2H2 średniak 2.3M-jet 130KM, KLIMA, FV23%, GWARANCJA!	diesel	bezwypadkowy	2015.0	190366.0	51045.0
+2619	Fiat Ducato FIAT DUCATO L3H2 MAX 2.3M-jet 130 KM, Automat, FV 23%, Gwarancja!!!	diesel	sprawny	2014.0	200869.0	42435.0
+2621	Fiat Doblo Fiat Doblo 1.3 Mjet 75 KM Salon PL, FV 23%, Gwarancja!!	diesel	sprawny	2006.0	199576.0	8610.0
+2650	Fiat Ducato Fiat Ducato 3.0 180KM/PLANDEKA 10 EP-Firana/ Wynajem Długoterminowy	diesel	bezwypadkowy	2015.0	229000.0	3999.0
+2676	Fiat Ducato PLANDEKA+FIRANA + 10 EP + Salon PL + 1 WŁ.+ 100% Serwis FIAT-a !!!	diesel	bezwypadkowy	2015.0	184000.0	79827.0
+2678	Fiat Fiorino Fiat Fiorino 1.4 MR`16 E6 1.7t Base FV 23%, Gwarancja!!	benzyna	sprawny	2017.0	46794.0	32841.0
+2679	Fiat Ducato FIAT DUCATO 3.0 177 km 10 ep plandeka 8,9,10 ep	diesel	bezwypadkowy	2015.0	240000.0	76260.0
+2681	Fiat Ducato FIAT DUCATO 3.0 177 km 10 ep plandeka 8,9,10 ep	diesel	bezwypadkowy	2016.0	180000.0	81795.0
+2735	Fiat Punto IV salon Polska Gwarancja F. VAT Netto Cena	diesel	bezwypadkowy	2014.0	89000.0	16200.0
+2736	Fiat Tipo 1.4 95KM, POP, Krajowy, Faktura VAT	benzyna	bezwypadkowy	2017.0	23984.0	44900.0
+2737	Fiat Doblo II Easy 1.6 MJet 16V 120 KM Okazja !	diesel	bezwypadkowy	2017.0	5.0	71217.0
+2741	Fiat Bravo II Raty/Zamiana Gwarancja 1,9 MJ 150KM MOD2008	diesel	sprawny	2008.0	116000.0	12900.0
+2742	Fiat Grande Punto GRANDE PUNTO 2009r-1.2 BENZYNA	benzyna	bezwypadkowy	2009.0	118000.0	11900.0
+2743	Fiat Sedici 1.9JTD=120KM=Rok GWARANCJI w CENIE=Klima=Alu	diesel	bezwypadkowy	2008.0	219000.0	17900.0
+2744	Fiat Ducato II NR 200 PANORAMA 9 OSOBOWA	diesel	sprawny	2003.0	332000.0	16900.0
+2745	Fiat Bravo II GWARANCJA, RATA OD 402 zł!!!	benzyna	sprawny	2011.0	112000.0	22900.0
+2746	Fiat 500L Lounge, 1,4 Benz, Krajowy, Serwis, Bezwypadkowy, F	benzyna	bezwypadkowy	2016.0	37000.0	49700.0
+2747	Fiat Punto Evo Raty/Zamiana Gwarancja klima super stan zobacz	benzyna	sprawny	2011.0	120000.0	17500.0
+2748	Fiat Bravo II 1.4 16V Active .. AUTO Z GWARANCJĄ	benzyna	sprawny	2007.0	126000.0	13900.0
+2749	Fiat Stilo Opłacony Zadbany Serwisowany z Klimatronikem i Alusami	benzyna	sprawny	2003.0	162000.0	7499.0
+2750	Fiat Stilo 1.6 E 16 V105 KM Klima	benzyna	bezwypadkowy	2003.0	186000.0	6900.0
+2751	Fiat Panda III tylko 58tyśKM 1wł Salon PL Klima Serwisowana	benzyna	bezwypadkowy	2012.0	58000.0	16900.0
+2752	Fiat Bravo II Kredyt bez BIK.Gwarancja.Serwisowany.Klimatronic.120Ps.6-Biegów	benzyna	bezwypadkowy	2008.0	157143.0	19990.0
+2753	Fiat Punto III Klima 75KM City Komplet Kół Zimowych	benzyna	bezwypadkowy	2008.0	173000.0	10900.0
+2754	Fiat Grande Punto 1.4 +GAZ Salon.Pl, F.Vat 23%	benzyna	bezwypadkowy	2013.0	180000.0	15375.0
+2755	Fiat Ducato II Minibus 15 - Osobowy 2,8 JTD	diesel	bezwypadkowy	2001.0	204000.0	12177.0
+2757	Fiat Panda II SALON POLSKA*I WŁ* KS.SERWIS*WSPOMAGANIE CITY	benzyna	sprawny	2006.0	110000.0	8900.0
+2758	Fiat Tipo 1.4 16V 95KM, POP, Krajowy, Serwisowany, Faktura VAT	benzyna	bezwypadkowy	2017.0	36730.0	42900.0
+2759	Fiat Panda II 1,3 Multijet JTD 69KM Klimatronik Alufelgi Relingi	diesel	bezwypadkowy	2004.0	105479.0	9900.0
+2760	Fiat Punto IV Punto 2012 1.4 LPG fabryczny	benzyna	bezwypadkowy	2012.0	188000.0	15000.0
+2761	Fiat Tipo Station Wagon Easy 1,4 95KM Samochód Demonstracyjny	benzyna	bezwypadkowy	2017.0	240.0	58800.0
+2762	Fiat 500 automat I właś. serwis panorama klimatronik Gwarancja	benzyna	bezwypadkowy	2010.0	102000.0	22999.0
+2763	Fiat Tipo Sedan 1.4 16V 95 KM Wyprzedaż 2018!	benzyna	bezwypadkowy	2018.0	5.0	43800.0
+2764	Fiat 500L JAK NOWY-TYLKO 66 TYS.KM. F-VAT 23% !!!	diesel	bezwypadkowy	2014.0	66000.0	39999.0
+2766	Fiat Stilo 1.9 JTD * CITY * serwisowany * zadbany * kombi * alufelgi * warszawa	diesel	bezwypadkowy	2004.0	192000.0	8999.0
+2767	Fiat Panda II 1.2b elektr szyb,klimatyzacja,alu,kredyt,GWARANCJA	benzyna	sprawny	2012.0	151000.0	14900.0
+2768	Fiat Grande Punto 1.4 8V 77KM BEZWYPADKOWY Klimatyzacja OPŁACONY	benzyna	bezwypadkowy	2005.0	176000.0	9900.0
+2772	Fiat Ducato L3H2 130 MULTIJET -3 MIEJSCOWY	diesel	sprawny	2013.0	227542.0	43733.0
+2773	Fiat Fiorino 1.4 benzyna 77KM, SalonPL, FV23%	benzyna	sprawny	2015.0	74994.0	26691.0
+2774	FSO 125p oryginalny 46-letni FIAT 125P	benzyna	bezwypadkowy	1973.0	23000.0	33800.0
+2775	Fiat Ducato Maxi JTD Autolaweta zamiana !!	diesel	sprawny	2003.0	460600.0	25900.0
+2776	Fiat Scudo Panorama MJ L2H1 Family	diesel	sprawny	2015.0	225919.0	53900.0
+2777	Fiat Ducato L2H2 brygadówka 7 osobowa	diesel	sprawny	2012.0	198000.0	34900.0
+2778	Fiat Fiorino 1.3 DIESEL 75 KM	diesel	sprawny	2013.0	147000.0	15990.0
+2783	Fiat Doblo 1,3 multijet H1 L1	diesel	bezwypadkowy	2008.0	113000.0	9900.0
+2784	Fiat Doblo Cargo 1,9 JTD MultiJet	diesel	sprawny	2008.0	134000.0	11900.0
+2785	Fiat Panda LPG, FV-23%, gwarancja	benzyna	bezwypadkowy	2014.0	80500.0	23985.0
+2786	Fiat Ducato Camper kamper Camping 2.5TDI	diesel	sprawny	1999.0	104000.0	42900.0
+2788	Fiat Ducato L3H3 130KM KLIMA LED TEMPOMAT	diesel	bezwypadkowy	2015.0	196000.0	45000.0
+2790	Fiat Ducato 7 osobowa brygadówka HL	diesel	sprawny	2015.0	245000.0	69900.0
+2791	Fiat Doblo Jtd Klima 2x boczne drzwi	diesel	sprawny	2007.0	174000.0	15252.0
+2792	Fiat Doblo Cargo Klima 1.9 JTD	diesel	bezwypadkowy	2007.0	150000.0	17712.0
+2797	Fiat Ducato Maxi!Klima!Webasto!Poduszki	diesel	bezwypadkowy	2013.0	442400.0	42927.0
+2804	Fiat Ducato AUTO LAWETA 3OSOBOWY 1WŁAŚCICIEL i.d.TD	diesel	bezwypadkowy	1999.0	246000.0	10900.0
+2828	Fiat Ducato Rotec Motorcaravans 2.8 IDPD	diesel	sprawny	1999.0	128762.0	43900.0
+2991	Fiat Doblo multijet klima FV23% zamiana GWARANCJA	diesel	bezwypadkowy	2010.0	215.0	21525.0
+2992	Fiat Ducato Fiat Ducato 35 2.3 M-jet E6 3.5t L4 FV 23%, Gwarancja!	diesel	sprawny	2016.0	204298.0	75768.0
+2993	Fiat Ducato Fiat Ducato 2.3 M-jet 131KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2017.0	54929.0	66297.0
+2994	Fiat Ducato Klimatyzacja, FV-23%, gwarancja	diesel	bezwypadkowy	2015.0	103800.0	65067.0
+2995	Fiat Doblo Doblo, nowa turbina, Mały Przebieg	diesel	bezwypadkowy	2012.0	106430.0	14200.0
+2996	Fiat Doblo XL Klimatyzacja Oryginalny Przebieg	diesel	uszkodzony	2016.0	191000.0	12177.0
+2999	Fiat Ducato L1H1 ,FV-23%, gwarancja	diesel	bezwypadkowy	2014.0	97700.0	47847.0
+3002	Fiat Fiorino 1.3 MultiJet 2013r. Klimatyzacja GWARANCJA	diesel	sprawny	2012.0	130000.0	18425.0
+3003	Fiat Doblo 1.3 95KM Klimartonik Bezwypadkowy	diesel	bezwypadkowy	2011.0	167544.0	17900.0
+3004	Fiat Ducato 7-osobowy brygadówka Boxer Jumper	diesel	bezwypadkowy	2012.0	170000.0	32800.0
+3005	Fiat Doblo Po Opłatach,Kliamtyzacja,El.Szyby,El.Lusterka.	diesel	bezwypadkowy	2010.0	199877.0	14900.0
+3006	Fiat Ducato / KONTENER / 3,0 - 180KM / Klimatyzacja / Gwarancja	diesel	bezwypadkowy	2016.0	186000.0	78708.0
+3008	Fiat Doblo 1.3 Jtd-m Jak nowy !	diesel	bezwypadkowy	2015.0	72000.0	36759.0
+3009	Fiat Scudo 2.0 JTD 109ps. MAXI !!!!	diesel	sprawny	2006.0	213000.0	10500.0
+3011	Fiat Ducato 2,3 JTD 120 MultiJet L3H2	diesel	sprawny	2009.0	324000.0	17900.0
+3012	Fiat Ducato NR 213 2,0 JTD L3H2	diesel	uszkodzony	2013.0	98452.0	15900.0
+3013	Fiat Fiorino 1.3 16V 75KM MultiJet Base	diesel	bezwypadkowy	2014.0	113000.0	21900.0
+3014	Fiat Scudo Śliczny z małym przebiegiem!Zamiana	diesel	sprawny	2014.0	143000.0	35547.0
+3015	Fiat Ducato 2,2 MultiJet L2H1 Mod.2011	diesel	bezwypadkowy	2010.0	222282.0	21525.0
+3060	Fiat Fiorino 1.3 MultiJet 2013r. Klimatyzacja GWARANCJA	diesel	sprawny	2012.0	130000.0	18425.0
+3061	Fiat Doblo 1.3 95KM Klimartonik Bezwypadkowy	diesel	bezwypadkowy	2011.0	167544.0	17900.0
+3062	Fiat Ducato 7-osobowy brygadówka Boxer Jumper	diesel	bezwypadkowy	2012.0	170000.0	32800.0
+3063	Fiat Doblo Po Opłatach,Kliamtyzacja,El.Szyby,El.Lusterka.	diesel	bezwypadkowy	2010.0	199877.0	14900.0
+3064	Fiat Ducato / KONTENER / 3,0 - 180KM / Klimatyzacja / Gwarancja	diesel	bezwypadkowy	2016.0	186000.0	78708.0
+3066	Fiat Doblo 1.3 Jtd-m Jak nowy !	diesel	bezwypadkowy	2015.0	72000.0	36759.0
+3067	Fiat Scudo 2.0 JTD 109ps. MAXI !!!!	diesel	sprawny	2006.0	213000.0	10500.0
+3069	Fiat Ducato 2,3 JTD 120 MultiJet L3H2	diesel	sprawny	2009.0	324000.0	17900.0
+3070	Fiat Ducato NR 213 2,0 JTD L3H2	diesel	uszkodzony	2013.0	98452.0	15900.0
+3071	Fiat Fiorino 1.3 16V 75KM MultiJet Base	diesel	bezwypadkowy	2014.0	113000.0	21900.0
+3072	Fiat Scudo Śliczny z małym przebiegiem!Zamiana	diesel	sprawny	2014.0	143000.0	35547.0
+3073	Fiat Ducato 2,2 MultiJet L2H1 Mod.2011	diesel	bezwypadkowy	2010.0	222282.0	21525.0
+3181	Fiat Doblo 1.6 Multijet 16V Active	diesel	sprawny	2013.0	31000.0	25900.0
+3221	Fiat Ducato Fiat Ducato 35 2.3 M-jet E6 3.5t L4 FV 23%, Gwarancja!	diesel	sprawny	2016.0	204298.0	75768.0
+3222	Fiat Ducato Fiat Ducato 2.3 M-jet 131KM, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2017.0	54929.0	66297.0
+3223	Fiat Ducato FIAT Ducato 2.3 MJ 180 KM MAXI - 2 700 km, FV 23%, Gwarancja!!	diesel	bezwypadkowy	2018.0	2678.0	135423.0
+3225	Fiat Fiorino Fiat Fiorino 1.3 MultiJet 75 KM, Salon PL, FV23%, Gwarancja!!	diesel	bezwypadkowy	2015.0	116828.0	27921.0
+3226	Fiat Ducato FIAT DUCATO 3.0 180 km 8 ep plandeka 8,9,10 ep WEJKAMA	diesel	bezwypadkowy	2015.0	280000.0	67527.0
+3231	Fiat Ducato FIAT DUCATO 2.0 177 km 10 ep plandeka 8,9,10 ep	diesel	bezwypadkowy	2017.0	155000.0	81057.0
+3279	Fiat 500X , Salon Polska, 1. Właściciel, Serwis ASO, 4X4, Automat,	benzyna	bezwypadkowy	2015.0	15107.0	70000.0
+3280	Fiat Sedici 2,0 Diesel 135 KM Alu Klimatronik Stan bdb	diesel	bezwypadkowy	2011.0	140000.0	21900.0
+3281	Fiat 500 JAK NOWY KRAJOWY BEZWYPADEK 1WŁAŚCICIEL F-VAT 23%!	benzyna	bezwypadkowy	2015.0	108000.0	27999.0
+3282	Fiat Punto IV 1.4 Benzyna+LPG (77KM) / VAN (2os.) / FV23%	benzyna	sprawny	2014.0	136414.0	18900.0
+3284	Fiat Tipo HB Lounge 1.4 16V 120 KM Wyprzedaż 2018!	benzyna	bezwypadkowy	2018.0	5.0	68900.0
+3285	Fiat Tipo SW Lounge 1.4 16V 120 KM Wyprzedaż 2018!	benzyna	bezwypadkowy	2018.0	5.0	71900.0
+3286	Fiat Stilo 1.4~16v~95ps~6Biegów~Klima~Serwis~100%Oryginał	benzyna	bezwypadkowy	2005.0	146271.0	9800.0
+3287	Fiat Panda III 1.2 Benzyna Klimatyzacja Alufelgi 70 Tyś/km	benzyna	sprawny	2016.0	70000.0	29900.0
+3288	Fiat Panda II 1.1 Benzyna*Salon Polska*Możliwa Zamiana*	benzyna	sprawny	2003.0	144600.0	5900.0
+3289	Fiat Scudo II czujniki cofania, ESP, klima, tempomat, el. szyby	diesel	bezwypadkowy	2011.0	202000.0	28167.0
+3290	Fiat Stilo 1,6 Benzyna Klimatronik 2 Strefy * Zamiana *Gwarancja*Opłacony*	benzyna	bezwypadkowy	2004.0	160000.0	7900.0
+3292	Fiat Ducato 2.3 180PS - WEJKAMA Z SYPIALKĄ	diesel	bezwypadkowy	2016.0	117431.0	97170.0
+3293	Fiat Ducato Maxi, 1 własciciel, salon polska	diesel	bezwypadkowy	2012.0	90000.0	41000.0
+3294	Fiat Ducato Wspomaganie + 2,5 DIESEL + Zarejstrowany + OC !!!	diesel	bezwypadkowy	2001.0	187100.0	6666.0
+3295	Fiat Ducato FOOD TRUCK + Samochód Gastronomiczny !!!	diesel	bezwypadkowy	2001.0	195100.0	39999.0
+3296	Fiat Ducato 7 osób, skrzynia 3m	diesel	bezwypadkowy	2010.0	265650.0	36777.0
+3297	Fiat Panda VAN, FV-23%, gwarancja	benzyna	bezwypadkowy	2013.0	152400.0	18327.0
+3298	Fiat Ducato L4H2 Maxi 2.3 JTD 150KM	diesel	bezwypadkowy	2015.0	123000.0	68757.0
+3302	Fiat Ducato l1h1 jtd Pack klim	diesel	bezwypadkowy	2007.0	276000.0	17835.0
+3303	Fiat Doblo MAXI,I właściciel,GWARANCJA	diesel	bezwypadkowy	2007.0	243000.0	13300.0
+3305	Fiat Ducato L2H2 2.3 Jtd 150KM	diesel	sprawny	2012.0	226000.0	42435.0
+3308	Fiat Ducato Ducato 2,2 JTD wysoki średni	diesel	bezwypadkowy	2009.0	312000.0	14900.0
+3309	Fiat Ducato Klima boczne drzwi 6 biegów	diesel	bezwypadkowy	2009.0	160000.0	29274.0
+3310	Fiat Ducato plandeka 3.0jtd 180KM a.c. serwisowany	diesel	bezwypadkowy	2016.0	383000.0	60147.0
+3311	Fiat Doblo Maxi-tylko 67 tys km	diesel	sprawny	2016.0	67000.0	43665.0
+3312	Fiat Ducato KAŻDY MODEL 2010-2017R.	diesel	sprawny	2016.0	111111.0	55555.0
+3313	Fiat Ducato Salon Polska 1-wł. serwis	diesel	bezwypadkowy	2012.0	194000.0	39360.0
+3314	Fiat Ducato L4H3 Sta idealny 99.000 km !!!	diesel	bezwypadkowy	2016.0	101600.0	77957.0
+3315	Fiat Ducato 3.0 Cng 2013r. F.VAT L2h1Klimatyzacja	cng	uszkodzony	2013.0	82000.0	15006.0
+3316	Fiat Frankia I600 Integra Letnio/Zimowy	diesel	bezwypadkowy	2000.0	180100.0	78500.0
+3372	Fiat Ducato XLPlandeka ,vebasto ,sypialnia,Klima	diesel	bezwypadkowy	2011.0	550000.0	37884.0
+3374	Fiat Scudo MINI CAMPER MAXI LONG	diesel	bezwypadkowy	2000.0	220000.0	9102.0
+3534	Fiat Doblo 1.3 Multijet Klimatyzacja Bezwypadkowy	diesel	bezwypadkowy	2010.0	116000.0	17900.0
+3535	Fiat Ducato 2,2 Jtd 100KM l1h1	diesel	uszkodzony	2011.0	66000.0	2459.0
+3536	Fiat Doblo 1,3 JTD 90KM MultiJet	diesel	sprawny	2013.0	160000.0	18900.0
+3537	Fiat Panda VAN, FV-23%, gwarancja	benzyna	bezwypadkowy	2013.0	137400.0	18327.0
+3540	Fiat Fiorino 1,3 multijet H1 L1	diesel	bezwypadkowy	2011.0	165222.0	10600.0
+3541	Fiat Ducato 7 osobowa brygadówka L4H2	diesel	sprawny	2015.0	187000.0	65900.0
+3545	Fiat Ducato 2.3MJT 150-uszkodzony silnik	diesel	uszkodzony	2014.0	417000.0	20999.0
+3642	Fiat Ducato Klimatyzacja L3H2 Kamera Cofania	diesel	bezwypadkowy	2014.0	203000.0	36777.0
+3761	Fiat 500X , Salon Polska, 1. Właściciel, Serwis ASO, 4X4, Automat,	benzyna	bezwypadkowy	2015.0	15107.0	70000.0
+3773	Fiat Croma II 1 właściciel / Serwis ASO / Klimatronic	diesel	sprawny	2010.0	129000.0	24900.0
+3775	Fiat Fiorino 1.3 JTD DIESEL 75 KM	diesel	sprawny	2012.0	114000.0	14145.0
+3777	Fiat Fiorino L4H2 maxi multijet 2	diesel	sprawny	2017.0	160000.0	59900.0
+3778	Fiat Ducato L3H3 2,3 130KM KLIMA TEMPOMAT	diesel	bezwypadkowy	2014.0	172000.0	29500.0
+3780	Fiat Doblo Już wkrótce w ofercie	diesel	bezwypadkowy	2012.0	198000.0	16605.0
+3781	Fiat Ducato L2H2 2.3 Jtd 150KM	diesel	bezwypadkowy	2012.0	226000.0	34440.0
+3782	Fiat Doblo 1,3 multijet H1 L1	diesel	sprawny	2013.0	165000.0	17800.0
+3794	Fiat Ducato Klima boczne drzwi 6 biegów	diesel	bezwypadkowy	2009.0	160500.0	29273.0
+3795	Fiat Ducato L4H2 Brygadówka 7 os.	diesel	bezwypadkowy	2013.0	248000.0	49900.0
+3796	Fiat Doblo 1.3 Multijet 90KM Klima	diesel	sprawny	2014.0	158446.0	24477.0
+3800	Fiat Ducato NR 236 CHŁODNIA HAKOWA	diesel	uszkodzony	2009.0	302000.0	9900.0
+3802	Fiat Scudo 1,6 JTD 107000 km 2007	diesel	sprawny	2007.0	107000.0	10947.0
+3822	Fiat Scudo 2.0 128KM przedłużony,zarejestrowany	diesel	bezwypadkowy	2012.0	176802.0	27900.0
+3823	Fiat Doblo Maxi 1.3 MJ 16V Base	diesel	sprawny	2010.0	123000.0	16800.0
+3833	Fiat Doblo MAXI Blaszak / Furgon 1,3mJTD	diesel	sprawny	2008.0	337107.0	10947.0
+3862	Fiat Scudo 90KM LONG MAXI MINI CAMPER	diesel	bezwypadkowy	2000.0	220000.0	9102.0
+4021	Fiat Croma II 150KM Aut Chrom+Alu+Parktronic+Tempomat Org.Lak!	diesel	bezwypadkowy	2010.0	129000.0	22900.0
+4108	Fiat Punto Grande Punto 2012 5 drzwi Klima Bezplatna gwarancja techniczna Auto z Niemi	diesel	bezwypadkowy	2006.0	149300.0	12400.0
+4109	Fiat Doblo I ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2008.0	164000.0	11900.0
+4110	Fiat Doblo I 5-cio osobowy 1.3 MultiJet, 84 KM, Klimatyzacja!!!	diesel	sprawny	2007.0	228009.0	9900.0
+4111	Fiat Punto III 1.2 (80 kM, 59 kW), 16 V 16 V	benzyna	bezwypadkowy	2003.0	150854.0	6300.0
+4112	Fiat Punto Punto Evo , Salon Polska, 1. Właściciel, Serwis ASO, Klima	benzyna	bezwypadkowy	2011.0	96186.0	22500.0
+4113	Fiat Croma II 1.8MPI+Perfekcyjny Stan+Pełny Serwis+Gwarancja w Cenie!!	benzyna	bezwypadkowy	2008.0	190000.0	20999.0
+4114	Fiat Punto Evo ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2011.0	81100.0	17900.0
+4115	Fiat Fiorino III ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2009.0	92000.0	17900.0
+4117	Fiat 500L , Salon Polska, 1. Właściciel, Serwis ASO, VAT 23%, Klima,	benzyna	bezwypadkowy	2017.0	21293.0	46000.0
+4118	Fiat Ducato III 3.0 JTD Autolaweta Auto pomoc Klima Kat B	diesel	bezwypadkowy	2014.0	222122.0	75500.0
+4119	Fiat Ducato III 3.0JTD 180 Laweta Autolaweta Auto pomoc 3,5T Klima Kat. B Euro5	diesel	bezwypadkowy	2014.0	222112.0	75500.0
+4120	Fiat Scudo II 1.6 JTD I Właściciel w kraju 90ps Przebieg 208.000	diesel	bezwypadkowy	2007.0	208.0	12900.0
+4121	Fiat Panda II ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2005.0	149000.0	5900.0
+4122	Fiat Punto III ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2004.0	112000.0	6900.0
+4123	Fiat Sedici Sedici 4x4 1.6 Benz 93 Tys Alufelgi 6x AirBag Opłaty *GWARANCJA*	benzyna	bezwypadkowy	2006.0	93688.0	21900.0
+4128	Fiat Ducato 2,0 Jtd 115 KM l1h1 Lift	diesel	uszkodzony	2013.0	126051.0	21999.0
+4129	Fiat Ducato 3.0 MultiJet Skrzynia+Plandeka (10 palet) Klimatronik f.VAT	diesel	bezwypadkowy	2013.0	820000.0	33087.0
+4130	Fiat Ducato TAMHART Autosklep Gastronomiczny Foodtruck imbis Food truck Borco	diesel	bezwypadkowy	1995.0	59900.0	44280.0
+4131	Fiat Ducato L3H2 NOWY MODEL *Zawieszenie MAXI* 3500 kg NAWIGACJA	diesel	bezwypadkowy	2015.0	126000.0	68757.0
+4134	Fiat Scudo 2,0mtj 128KM L2H1 Navi Klima I.wł Serwis F.vat23%!	diesel	bezwypadkowy	2012.0	185000.0	30627.0
+4135	Fiat Ducato Maxi MultiJet Power Euro 6 2287ccm - 177KM 3,5t	diesel	sprawny	2016.0	236398.0	54707.0
+4139	Fiat Ducato L3H2 CHŁODNIA MROŹNIA IZOTERMA AGREGAT KLIMA	diesel	bezwypadkowy	2015.0	231579.0	70900.0
+4140	Fiat Ducato L3H2 CHŁODNIA MROŹNIA IZOTERMA AGREGAT KLIMA	diesel	bezwypadkowy	2015.0	231579.0	70900.0
+4155	Fiat Ducato 2.0 diesel 115KM Faktura VAT Super stan	diesel	bezwypadkowy	2014.0	170000.0	35547.0
+4156	Fiat Ducato / KONTENER / AUTOMAT HI-MATIC / Klimatyzacja / Gwarancja	diesel	bezwypadkowy	2014.0	213000.0	51168.0
+4157	Fiat Doblo 1.6 BENZYNA 92KM TYLKO 77000KM SALON POLSKA	benzyna	bezwypadkowy	2006.0	77000.0	11900.0
+4158	Fiat Fiorino Adventure Navi !Jedyny z full opcją!	diesel	bezwypadkowy	2016.0	43900.0	25900.0
+4159	Fiat Ducato L2H2 3300kg NOWY MODEL Professional MAXI ZAWIESZENIE	diesel	bezwypadkowy	2015.0	141000.0	65067.0
+4161	Fiat Ducato 2.3 diesel 138 tys.km 120KM Faktura VAT L2H2	diesel	bezwypadkowy	2008.0	138000.0	20787.0
+4162	Fiat Scudo 2.0 JTD 128 KM KLIMATYZACJA PARKTRONIK F.VAT 23%	diesel	bezwypadkowy	2014.0	205000.0	36777.0
+4163	Fiat Fiorino 1.3MultiJet 2014r Salon Polska 90 tys.km GWARACJA	diesel	sprawny	2014.0	90000.0	22115.0
+4164	Fiat Ducato L2H2/3,10m KLIMA TEMPOMAT EURO 5 *Gwarancja	diesel	bezwypadkowy	2012.0	170000.0	28900.0
+4165	Fiat Ducato L2H2 130KM NOWY MODEL Professional Nawigacja Tempomat	diesel	bezwypadkowy	2016.0	103000.0	71217.0
+4171	Fiat Ducato Izoterma Igloocar MAXI 35 2.3MJ II 150KM	diesel	bezwypadkowy	2018.0	2.0	122996.0
+4172	Fiat Ducato / SALON PL / CHŁODNIA - MROŹNIA / Klimatyzacja / Maxi - L4H2	diesel	bezwypadkowy	2013.0	239000.0	61488.0
+4173	Fiat Doblo MAXI CHŁODNIA MROŹNIA GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2015.0	22000.0	65900.0
+4176	Fiat Ducato L2H2 Furgon 30 2.3MJ II 130KM	diesel	bezwypadkowy	2018.0	2.0	86096.0
+4177	Fiat Ducato 2.8 JTD zarejestr. blaszak 3-osob.przedł.podwyższa	diesel	sprawny	2004.0	340000.0	7900.0
+4178	Fiat Scudo 2.0 JTD 120 kM w wersji LONG	diesel	sprawny	2007.0	258000.0	14990.0
+4180	Fiat Doblo 1.3 M-Jet Maxi 3 Miejsca Blu & Me	diesel	uszkodzony	2017.0	45800.0	39900.0
+4181	Fiat Ducato PAKA PLANDEKA 10EP 4,91x2,27x1,98 KLIMA TEMPOMAT	diesel	bezwypadkowy	2014.0	193723.0	64900.0
+4185	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2014.0	211000.0	43900.0
+4189	Fiat Ducato Maxi L3H2 130 Dealer Gwarancja Vat 23%	diesel	sprawny	2014.0	112881.0	58892.0
+4191	Fiat Ducato Autosklep pieczywa Gastronomiczny Food Truck Foodtruck imbis Borco20	diesel	bezwypadkowy	2004.0	378000.0	29900.0
+4193	Fiat Doblo 1,3 JTD MultiJet Maxi Pierwsza Rej. 2014	diesel	sprawny	2013.0	97000.0	21300.0
+4195	Fiat Doblo Doblo|1,4 95 KM |furgon | S |Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	47137.0
+4196	Fiat Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck 2003	diesel	bezwypadkowy	2003.0	282200.0	25500.0
+4197	Fiat Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck 2007	diesel	sprawny	2007.0	315000.0	48585.0
+4198	Fiat Ducato L4H2 KLIMA NAVI MAXI DŁUGI WYSOKI BLASZAK VAN	diesel	bezwypadkowy	2015.0	149031.0	59900.0
+4199	Fiat Doblo Gwarancja Techniczna, 1.6 Diesel 101KM, Serwisowany, Klimatyzacja	diesel	bezwypadkowy	2010.0	107000.0	16900.0
+4204	Fiat Fiorino 1,3 JTD MultiJet Pierwsza Rej. 2011	diesel	sprawny	2010.0	165000.0	12300.0
+4223	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2015.0	159273.0	56900.0
+4238	NSU 1939 NSU-FIAT SPIDER Weinsberg TYLKO 300SZT	benzyna	bezwypadkowy	1939.0	200.0	160000.0
+4260	Fiat Ducato Autobus 16+1os Szkolny Klimatyzacja Ogrzewanie Alkomat	diesel	bezwypadkowy	2012.0	186539.0	79950.0
+4274	Fiat Scudo MJT L1H1 Klima! Jedyne 72 tyś. Przebiegu! 2013!	diesel	bezwypadkowy	2013.0	72000.0	40467.0
+4278	Fiat Ducato 2.3 JTD 120KM L2H2 uszkodzony silnik	diesel	uszkodzony	2011.0	99000.0	21525.0
+4329	Fiat Panda II , Salon Polska, 1. Właściciel, Przejechał tylko 28876 KM	benzyna	bezwypadkowy	2007.0	28876.0	12300.0
+4330	Fiat Doblo II ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2010.0	175000.0	19900.0
+4331	Fiat Scudo II ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2008.0	167000.0	15900.0
+4332	Fiat Croma II 2.2i I Wł. Giugiaro Design Bogata Wersja Ks.Serwis	benzyna	bezwypadkowy	2005.0	177180.0	13900.0
+4333	Fiat Sedici 1.6 16V+LPG FABRYCZNY BRC Polski Salon idealny faktura VAT23%	benzyna	bezwypadkowy	2010.0	98000.0	34932.0
+4334	Fiat Ducato 2.3 M-JET 120KM L3H2 CHŁODNIA THERMOKING	diesel	bezwypadkowy	2008.0	182000.0	34500.0
+4335	Fiat Ducato 2,0 MJT 115KM L2H2 Blaszak Furgon MH2 Klimatyzacja	diesel	sprawny	2014.0	152000.0	29520.0
+4336	Fiat Doblo Gwarancja Techniczna, 1.6 Diesel 101KM, EURO 5	diesel	bezwypadkowy	2014.0	107000.0	16900.0
+4337	Fiat Doblo Z klimatyzacją, dobry serwis, świetnie utrzymany, VAT	diesel	bezwypadkowy	2012.0	240000.0	19900.0
+4338	Fiat Doblo / SALON PL / IZOTERMA / 1.6-105KM / Długi - L2 / GWARANCJA	diesel	bezwypadkowy	2014.0	169000.0	32718.0
+4339	Fiat Ducato L2H1 2.3 130KM LED NAVI KLIMA TEMPOMAT	diesel	bezwypadkowy	2015.0	171000.0	35000.0
+4341	Fiat Ducato L3, ładowność 1350kg, sypialnia, Webasto, klimatyzacja	diesel	bezwypadkowy	2011.0	412000.0	33210.0
+4342	Fiat Ducato L2H1 2.3 130KM LED NAVI KLIMA TEMPOMAT	diesel	bezwypadkowy	2015.0	173000.0	35000.0
+4345	Fiat Ducato ST7924F - 3,0 160KM*L2H2*Krajowy*Serwisowany*VAT23%	diesel	sprawny	2010.0	360300.0	28000.0
+4346	Fiat Ducato 2.3 JTD 130KM Klima, 6-osobowy	diesel	sprawny	2014.0	109000.0	51537.0
+4352	Fiat Seicento 1.1 Benzyna + GAZ 100% Bezwypadkowy, 100% gwarancji przebiegu	benzyna	bezwypadkowy	2011.0	172000.0	8487.0
+4353	Fiat Scudo 1.6 MJT 100% Bezwypadkowy, 100% przebieg udokumentowany,	diesel	bezwypadkowy	2007.0	190000.0	18327.0
+4354	Fiat Ducato Furgon L1H2| 2.3 130 M-Jet | 9,5 m3 |	diesel	bezwypadkowy	2018.0	3.0	82406.0
+4355	Fiat Scudo Chłodnia Izoterma Agregat Carrier Xarios 200	diesel	sprawny	2012.0	130000.0	43025.0
+4359	Fiat Ducato / SALON PL / L4H2 Maxi / Radio dotykowe / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2015.0	99000.0	66408.0
+4361	Fiat Ducato 2,3 JTD 120KM Rej. 2011 Kontener Chłodnia -20	diesel	sprawny	2010.0	174000.0	32900.0
+4362	Fiat Ducato L3H2 7-OSÓB BRYGADOWY Professional SALON POLSKA	diesel	bezwypadkowy	2017.0	105000.0	110577.0
+4363	Fiat Fiorino Jak nowy, 1,4 benzyna 77KM, Gwarancja ,Salon PL	benzyna	bezwypadkowy	2016.0	12100.0	34317.0
+4364	Fiat Doblo Parktronic Klima Maxi JTD 120 ps	diesel	bezwypadkowy	2008.0	166500.0	20663.0
+4366	Fiat Ducato 6-OSÓB BRYGADOWY L2H2 NOWY MODEL PROFESSIONAL	diesel	bezwypadkowy	2015.0	90000.0	73677.0
+4367	FSO 125p Fiat 125p oryginał stan kolekcjonerski wyjątkowy egzemplarz	benzyna	bezwypadkowy	1980.0	160000.0	29900.0
+4369	Fiat Ducato L3H2 CHŁODNIA IZOTERMA AGREGAT CARRIER KLIMA NAVI	diesel	bezwypadkowy	2015.0	187185.0	65900.0
+4372	Fiat Ducato / SALON PL / L3H3 Maxi / 143tys.km / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2015.0	143000.0	59028.0
+4374	Fiat Ducato 2.0 JTD 115 kM, klimatyzacja, tempomat	diesel	sprawny	2013.0	225000.0	34194.0
+4402	Fiat Ducato 2,2 JTD Skrzynia Dokka 7 osobowy Brygadówka	diesel	bezwypadkowy	2007.0	221774.0	26445.0
+4403	Fiat Ducato 35 M-jet,LIFTplandeka-Firana,Nawigacja,Klima,Euro5	diesel	sprawny	2014.0	329000.0	51906.0
+4404	Fiat Ducato Furgon | 2.0 M-Jet | 11,5 m3	diesel	bezwypadkowy	2018.0	5.0	85977.0
+4420	Fiat Ducato L4H2 KLIMA NAVI MAXI DŁUGI WYSOKI BLASZAK VAN	diesel	bezwypadkowy	2015.0	158687.0	59900.0
+4423	Fiat Ducato ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2008.0	225000.0	29900.0
+4424	Fiat Doblo Doblo|1,6 105 KM |MAXI | S |Wyprzedaż	diesel	bezwypadkowy	2018.0	5.0	68142.0
+4469	Fiat Fiorino Nowe Fiorino Cargo | Elegant | 1.4be 75KM | Euro 6	benzyna	bezwypadkowy	2018.0	3.0	41697.0
+4529	Fiat Ducato 2,3 Jtd 130KM Maxi Max L4H2	diesel	uszkodzony	2014.0	130000.0	36899.0
+4531	Fiat Ducato KRAJ I WŁ. SERWIS W ASO	diesel	bezwypadkowy	2014.0	393000.0	38745.0
+4532	Fiat Ducato L2H1/3,10m KLIMA DŁUGI LEDY 2016r *Gwarancja	diesel	bezwypadkowy	2016.0	155500.0	42900.0
+4533	Fiat Ducato L3H2 NOWY MODEL *Zawieszenie MAXI* 3500kg PROFESSIONAL	diesel	bezwypadkowy	2015.0	118000.0	69987.0
+4536	Fiat Doblo 1,3 multijet L2 H1 pierwsz rej. 2014	diesel	sprawny	2013.0	97000.0	19600.0
+4537	Fiat Punto Evo 1.3 Multijet 16V Active Euro5	diesel	sprawny	2011.0	190000.0	11500.0
+4538	Fiat Ducato 2.3 JTD Doka Navi Klima 3_tys.km f.VAT Gwarancja !!!	diesel	sprawny	2018.0	3000.0	89667.0
+4539	Fiat Ducato 2.0 JTD !! Klimatyzacja !! W Super STanie !! Od Niemca	inne	sprawny	2004.0	300000.0	8900.0
+4540	Fiat Ducato KONTENER WINDA KLIMA 130KM *150.600km EURO 5 Gwar	diesel	bezwypadkowy	2012.0	150600.0	43900.0
+4541	Fiat Doblo 1.6 MULTIJET Climatronic Maxi Serwis Idealny z Niemiec	diesel	bezwypadkowy	2014.0	216000.0	28167.0
+4547	Fiat Doblo 1,9 JTD MultiJet 101KM Cargo Rej. 2010	diesel	sprawny	2009.0	218000.0	12500.0
+4548	Fiat Ducato KONTENER 4.20m WINDA KLIMA PARKTRONIC BOCZNE DRZWI	diesel	bezwypadkowy	2013.0	188500.0	49900.0
+4550	Fiat Ducato Autosklep Gastronomiczny Foodtruck imbis wyposażony Food truck Borc	diesel	bezwypadkowy	2004.0	226237.0	44500.0
+4551	Fiat Ducato PLANDEKA + Salon PL + 1 WŁ + Navigacja + FULL OPCJA !!!	diesel	bezwypadkowy	2014.0	387000.0	56579.0
+4553	Fiat Ducato CHŁODNIA L2H2 PROFESSIONAL Salon Polska Maxi zawieszenia	diesel	bezwypadkowy	2013.0	108000.0	73677.0
+4554	Fiat Fiorino Krajowy, pierwszy właściciel, 12 m-cy gwarancji	diesel	bezwypadkowy	2016.0	62000.0	33193.0
+4559	Fiat Doblo 1,9 multijet L-1 H-1	diesel	bezwypadkowy	2008.0	132000.0	9900.0
+4561	Fiat Ducato 2.0 MultiJet 115KM Klima 2013r. FV23% GWARANCJA	diesel	sprawny	2013.0	110000.0	36875.0
+4562	Fiat Ducato Autosklep do Ryb Wędlin Gastronomiczny Food Truck Foodtruck	diesel	bezwypadkowy	2001.0	239000.0	33900.0
+4563	Fiat Ducato Kontener 22m3 Klimatyzacja 130KM 6 biegów FV23%	diesel	sprawny	2014.0	21000.0	54095.0
+4565	Fiat Ducato L2H2 2.3 MultiJET NOWY MODEL Professional Nawigacja LED	diesel	bezwypadkowy	2015.0	103000.0	66297.0
+4566	Fiat Ducato L2H2 130KM PROFESSIONAL * Euro5 * Ładowność 1525 kg *	diesel	bezwypadkowy	2014.0	179000.0	56457.0
+4568	Fiat Ducato L2H2 2.3 MultiJet Klima GWARANCJA Salon Polska	diesel	sprawny	2014.0	150000.0	44255.0
+4569	Fiat Doblo MAXI CHŁODNIA MROŹNIA GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2015.0	22000.0	65900.0
+4570	Fiat Ducato Furgon 33 | 2.3 130 M-Jet | 10,5 m3 |	diesel	bezwypadkowy	2018.0	5.0	84551.0
+4571	Fiat Fiorino Nowe Fiorino Cargo | BASE | 1.4be 75KM | Euro 6	benzyna	bezwypadkowy	2018.0	3.0	35916.0
+4574	Fiat Fiorino 1.3 Multi Jet - Chłodnia Izoterma 1 wł. serwis	diesel	sprawny	2013.0	90700.0	31000.0
+4575	Fiat Ducato L4H2 Maxi CHŁODNIA 2-komory WEBASTO DO LEKÓW	diesel	bezwypadkowy	2015.0	68000.0	97785.0
+4579	Fiat Scudo L2H1 L2 Max MAXI LONG Przedłużony Klima i	diesel	bezwypadkowy	2016.0	108000.0	44157.0
+4583	Fiat Ducato L3H2 CHŁODNIA 0*C Zabudowa WINTER GERMANY PROFESSIONAL	diesel	bezwypadkowy	2016.0	107000.0	109347.0
+4584	Fiat Ducato L2H2 KLIMA 134.000km TEMPOMAT BOXER JUMPER	diesel	sprawny	2008.0	134000.0	23000.0
+4585	Fiat Doblo Doblo|1,4 95 KM |furgon | S |Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	46739.0
+4587	Fiat Ducato / SALON PL / L4H3 Maxi / 76 tys.km / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2015.0	76000.0	70098.0
+4588	Fiat Ducato PAKA PLANDEKA 10EP 4,91x2,27x1,98 KLIMA TEMPOMAT	diesel	bezwypadkowy	2014.0	193723.0	64900.0
+4592	Fiat Ducato Autosklep Gastronomiczny Foodtruck Sklep Food truck do Lodów	diesel	bezwypadkowy	1997.0	271000.0	27800.0
+4593	Fiat Doblo Cargo 1,3MJTD, 75KM KLIMATYZACJA, Stan b.dobry	diesel	bezwypadkowy	2009.0	223215.0	14637.0
+4594	Fiat Ducato L2H2 2.3M-jet 130KM JAK NOWY-TYLKO 132TYS.KM.	diesel	bezwypadkowy	2014.0	132000.0	49199.0
+4595	Fiat Ducato Autosklep Wędlin Ryb Gastronomiczny Food Truck Foodtruck Borco	diesel	bezwypadkowy	2001.0	278500.0	29900.0
+4596	Fiat Ducato Ducato Brygadówka 7-osobowy dokka Klima 2010	diesel	sprawny	2010.0	262400.0	19900.0
+4597	Fiat Ducato L2H2 Furgon 33 2.3MJ II 130KM	diesel	bezwypadkowy	2018.0	2.0	89788.0
+4598	Fiat Ducato L4H2 KLIMA NAVI MAXI DŁUGI WYSOKI BLASZAK VAN	diesel	bezwypadkowy	2015.0	149031.0	73700.0
+4614	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2015.0	116685.0	63900.0
+4615	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2015.0	116685.0	63900.0
+4616	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2015.0	159273.0	56900.0
+4621	Fiat Ducato ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2014.0	7500.0	89900.0
+4622	Fiat Scudo Lang 2,0Jtd Dublokab 5 osób Vat marża	diesel	sprawny	2004.0	281000.0	15700.0
+4635	NSU 1938 NSU FIAT SPIDER Weinsberg TYLKO 300SZT.	benzyna	bezwypadkowy	1938.0	200.0	180000.0
+4637	Fiat Doblo Cargo SX L1H1 1.4 95KM DEMO	diesel	bezwypadkowy	2015.0	1.0	50307.0
+4664	Fiat Ducato Furgon L3H2 2.3 MJ 130KM Okazja 2018	diesel	bezwypadkowy	2018.0	5.0	103197.0
+4666	Fiat Ducato 3,0 JTD 180 MultiJet Klimatronic Automat Webasto	diesel	sprawny	2015.0	234000.0	52900.0
+4670	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2014.0	97000.0	46900.0
+4743	Fiat Ducato Klima-H2 L3-Auto z Gwarancją	diesel	sprawny	2015.0	180000.0	49077.0
+4744	Fiat Ducato SALON PL/ MAXI L4H2 / Klimatyzacja / Tempomat / GWARANCJA	diesel	bezwypadkowy	2017.0	86000.0	73788.0
+4745	Fiat Ducato L2H2, Serwis ASO Do Końca, FV VAT	diesel	bezwypadkowy	2016.0	469000.0	49199.0
+4746	Fiat Doblo CARGO KLIMA TEMPOMAT Parktronic *128.000km EURO 5	diesel	bezwypadkowy	2014.0	128000.0	19900.0
+4747	Fiat Ducato 3.0 JTD Kamper 6-osobowy Salon PL	diesel	bezwypadkowy	2008.0	155000.0	129000.0
+4748	Fiat Doblo CARGO 1.3JTD 75KM * Ks. Serwisowa * Niski Przebieg	diesel	sprawny	2006.0	117145.0	10900.0
+4749	Fiat Ducato Weinsberg Cara Loft 700MEH 4/6 osób	diesel	sprawny	2016.0	30000.0	183000.0
+4750	Fiat Ducato 2.0* 2015* L3H2* Klimatyzacja* Bluetooth*Gwarancja	diesel	bezwypadkowy	2015.0	197000.0	53997.0
+4754	Fiat Ducato 3.0HDI 160KM Skrzyniowy paka skrzynia 4.1m	diesel	bezwypadkowy	2010.0	197000.0	36777.0
+4755	Fiat Ducato / SALON PL / L3H2 Maxi / 149 tys.km / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2014.0	149000.0	55227.0
+4756	Fiat Ducato Kontener Klima Raty Możliwość Zamiany Wybór 120 aut	diesel	bezwypadkowy	2012.0	204000.0	36777.0
+4757	Fiat Ducato L2H2 KLIMA TEMPOMAT PARKTRONIC EURO 5 *Gwarancja	diesel	bezwypadkowy	2014.0	100000.0	34900.0
+4758	Fiat Ducato Maxi MultiJet Power Euro 6 2287ccm - 177KM 3,5t	diesel	sprawny	2016.0	215033.0	49211.0
+4762	Fiat Scudo FV23% 6osób PANORAMA NOWE SPRZĘGŁO+ROZRZĄD	diesel	sprawny	2008.0	155000.0	26445.0
+4763	Fiat Ducato L3H2 LIFT Super Stan Techniczny i Wizualny	diesel	bezwypadkowy	2016.0	156000.0	40467.0
+4764	Fiat Ducato / SALON PL / Maxi L3H2 / Klimatyzacja / TEMPOMAT / GWARANCJA	diesel	bezwypadkowy	2016.0	153000.0	67638.0
+4765	Fiat Ducato L2H2 3500kg NOWY MODEL 2018 Blaszak DEALER ANGELS	diesel	bezwypadkowy	2018.0	17000.0	79827.0
+4766	Fiat Ducato Autosklep Wędlin Gastronomiczny Food Truck Foodtruck sklep 2007	diesel	bezwypadkowy	2007.0	254000.0	91020.0
+4768	Fiat Ducato L2H2/ 3,10m KLIMA ład: 1560kg EURO 5 *Gwarancja	diesel	bezwypadkowy	2014.0	163600.0	32900.0
+4769	Fiat Scudo 2,0 MJT Chłodnia Mroźnia FRC Izoterma	diesel	sprawny	2012.0	255000.0	18450.0
+4774	Fiat Ducato / BOXER L3H2 KLIMA Ład:1540kg EURO 5 *Gwarancja	diesel	bezwypadkowy	2012.0	179800.0	31900.0
+4775	Fiat Ducato Firana NAWIGACJA + CLIMATRONIK 10-palet 3.0/180KM	diesel	bezwypadkowy	2015.0	282000.0	69987.0
+4776	Fiat Fiorino 1,3cdti Salon PL I.wł Serwis Klima Bezwypadkowy Gw	diesel	bezwypadkowy	2015.0	103000.0	24477.0
+4777	Fiat Ducato 2.0 JTD 115 kM, klimatyzacja, tempomat	diesel	sprawny	2013.0	139000.0	36654.0
+4778	Fiat Ducato 2,3 Jtd 150KM Maxi Klima Navi Max Dlugi	diesel	uszkodzony	2014.0	97148.0	41819.0
+4779	Fiat Ducato 3.0 Multijet 180KM Klima Kamera Navi Tempomat Hak	diesel	bezwypadkowy	2012.0	339182.0	44157.0
+4780	Fiat Ducato Autosklep pieczywa Gastronomiczny Food Truck Foodtruck Borco	diesel	bezwypadkowy	2004.0	251500.0	29900.0
+4781	Fiat Ducato 3.0 177KM 2013r. Maxi, klimatyzacja, PL Salon, FV23%	diesel	sprawny	2013.0	369000.0	53997.0
+4783	Fiat Doblo 1,9 multijet H1 L1 Pierwsza rej. 05.10	diesel	bezwypadkowy	2009.0	218000.0	10800.0
+4784	Fiat Ducato L2H2 2.3 MultiJET NOWY MODEL Professional Nawigacja Parktronic	diesel	bezwypadkowy	2015.0	90000.0	67527.0
+4785	Fiat Ducato L3H3 /2xWysoki BAGAŻNIK KLIMA 130KM Ład:1448kg Gwa	diesel	bezwypadkowy	2014.0	182400.0	39900.0
+4786	Fiat Ducato / Salon PL / KONTENER / MAXI / Klimatyzacja / Gwarancja	diesel	bezwypadkowy	2014.0	76000.0	61488.0
+4787	Fiat Ducato *MOCNY SILNIK 2.3* L2H2 PROFESSIONAL klima Gwarancja !	diesel	bezwypadkowy	2013.0	91000.0	51537.0
+4791	Fiat Doblo Doblo|1,6 105 KM |MAXI | Business PRO	diesel	bezwypadkowy	2018.0	4.0	62949.0
+4801	Fiat Ducato MAXI L4H2 3.0jtd 160KM a.c. pierwszy właściciel	diesel	bezwypadkowy	2010.0	242000.0	35547.0
+4804	Fiat Ducato 1.9 d. Rej. PL. Jeden wł.	diesel	bezwypadkowy	2000.0	210000.0	3900.0
+4806	Fiat Ducato 2.3 120KM 6-osobowy L2H2 średniak	diesel	bezwypadkowy	2007.0	248000.0	28500.0
+4811	Fiat Ducato Ducato 2,3 JTD Maxi 97153 km	diesel	bezwypadkowy	2002.0	97153.0	9500.0
+4812	Fiat Panda 1.3 d ABS Klimatyzacja F-ra Vat VAN	diesel	sprawny	2015.0	120000.0	16974.0
+4813	Fiat Ducato Kabina + Skrzynia 3,6x2,1m 2.3 130 KM Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	95694.0
+4824	Fiat Ducato L4H2 KLIMA NAVI MAXI DŁUGI WYSOKI BLASZAK VAN	diesel	bezwypadkowy	2015.0	158687.0	73700.0
+4826	Fiat Ducato ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2015.0	1.0	123000.0
+4864	Fiat Ducato, bardzo mały przebieg Rożen Kurczak Grill Kebab FOODTRUCK	diesel	bezwypadkowy	1992.0	129289.0	21900.0
+4896	Fiat Fiorino 1,3 JTDm Ciężarowy F-V Kredyt z BIK	diesel	sprawny	2013.0	65500.0	20500.0
+4934	Fiat Sedici 1.9 Multijet 120KM 4x4 Automatyczny Zadbany Klima Alu Opłacony	diesel	bezwypadkowy	2007.0	165000.0	16900.0
+4935	Fiat Grande Punto ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2007.0	142000.0	9500.0
+4936	Fiat Punto Evo ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2009.0	109000.0	16900.0
+4937	Fiat Punto IV ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	benzyna	sprawny	2012.0	26000.0	26900.0
+4944	Fiat Ducato Furgon L2H2 2.3 150KM DMC 3.0 Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	85977.0
+4945	Fiat Scudo 130 MultiJet* Klima* 3 osobowy* 6 biegów* Gwarancja	diesel	sprawny	2015.0	87041.0	43050.0
+4949	Fiat Ducato Furgon L2H2 2.3 150KM DMC 3.0 Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	85977.0
+4950	Fiat Scudo 130 MultiJet* Klima* 3 osobowy* 6 biegów* Gwarancja	diesel	sprawny	2015.0	87041.0	43050.0
+4951	Fiat Fiorino 1WŁ ASO Salon PL FV23% Klimatyzacja PDC Relingi	diesel	bezwypadkowy	2016.0	95000.0	22754.0
+4953	Fiat Fiorino 1.3TD,VAT-1,VAT-23,Klima,Salon Polska!	diesel	sprawny	2010.0	338000.0	10600.0
+4954	Fiat Doblo Doblo 1,3 JTD boczne 62600 km Model 2016	diesel	sprawny	2015.0	62600.0	27675.0
+4956	Fiat Ducato 2.3 Mjet-130 L3H2-MAXI Klima Zadbany 2014!	diesel	bezwypadkowy	2014.0	171000.0	57687.0
+4957	Fiat Ducato Camper McLouis 2.3 JTD Klima WC 6_osób 43_tys.km	diesel	sprawny	2011.0	43000.0	131900.0
+4958	Fiat Doblo Combo 1.3 MultiJet 90 PS Śliczny Klima	diesel	bezwypadkowy	2015.0	127000.0	30627.0
+4959	Fiat Ducato Furgon L2H2 2.3 MJ 130KM Okazja 2018	diesel	bezwypadkowy	2018.0	5.0	92127.0
+4960	Fiat Ducato Plandeka, Maxi, Ładowność 1500kg, sypialnia, webasto	diesel	bezwypadkowy	2008.0	237000.0	29900.0
+4962	Fiat Ducato Dokka, skrzynia, 7osób, klimatyzacja, FV-23%, gwarancja	diesel	sprawny	2014.0	144200.0	71217.0
+4968	Fiat Fiorino vat1 b. ładny klima drzwi boczne bagażnik	diesel	sprawny	2016.0	90877.0	27552.0
+4969	Fiat Ducato L2H2/3,10m KLIMA PARKTRONIC EURO 5 *Gwarancja	diesel	bezwypadkowy	2014.0	158600.0	32900.0
+4972	Fiat Ducato L3H2 KLIMA 2.3 MJT 130KM *HAK: 2,5t Gwarancja	diesel	bezwypadkowy	2013.0	132900.0	38900.0
+4975	Fiat Ducato 7-OSÓB BRYGADOWY L2H2 130KM *NOWY MODEL	diesel	bezwypadkowy	2015.0	82000.0	73677.0
+4978	Fiat Ducato L2H2 KLIMA TEMPOMAT *127.400km* EURO 5 Gwarancja	diesel	bezwypadkowy	2014.0	127400.0	34900.0
+4979	Fiat Ducato 2.3 MJet-130! L1H1 Klima! Cena Brutto! 2014!	diesel	bezwypadkowy	2014.0	148000.0	39900.0
+4980	Fiat Doblo maxi, l2h1, cargo, 2,0 cdti, klimatronik, navi, 135PS	diesel	bezwypadkowy	2010.0	195000.0	19900.0
+4983	Fiat Ducato SALON PL/ Supermaxi L4H2 / Klimatyzacja / Kamera / Tempomat /GWARANC	diesel	bezwypadkowy	2015.0	229000.0	59778.0
+4984	Fiat Ducato 2,3 Jtd 130 KM Maxi 6PK	diesel	uszkodzony	2013.0	163000.0	19999.0
+4985	Fiat Ducato L2H2 2.3 MultiJet Klima GWARANCJA Salon Polska	diesel	sprawny	2013.0	150000.0	40565.0
+4987	Fiat Doblo 1.6 MultiJet 105KM 2012r. Klimatyzacja GWARANCJA	diesel	sprawny	2012.0	150000.0	24575.0
+4989	Fiat Ducato L3H2 CHŁODNIA IZOTERMA AGREGAT CARRIER KLIMA NAVI	diesel	bezwypadkowy	2015.0	187185.0	65900.0
+4990	Fiat Ducato L3H2 *NOWY MODEL* kubatura 15m3 PROFESSIONAL Kamera GPS	diesel	bezwypadkowy	2016.0	120000.0	72447.0
+4992	Fiat Ducato / SALON PL / Maxi - L3H2 / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2013.0	264000.0	36888.0
+4993	Fiat Doblo Doblo|1,6 105 KM |MAXI | S |Wyprzedaż	diesel	bezwypadkowy	2018.0	5.0	62523.0
+4995	Fiat Doblo Maxi 1.6 JTD 105KM / Salon PL I-właściciel	diesel	bezwypadkowy	2011.0	133000.0	24477.0
+4996	Fiat Doblo 2.0 JTD 135 kM,klimatyzacja,tempomat czujniki parkowania	diesel	bezwypadkowy	2015.0	155900.0	30504.0
+4997	Fiat Ducato L2H2 CHŁODNIA 0*C Nowy Model PROFESSIONAL __Gwarancja__	diesel	bezwypadkowy	2014.0	81000.0	85977.0
+4998	Fiat Ducato Autosklep Gastronomiczny Foodtruck Sklep imbis Food truck 2011	diesel	bezwypadkowy	2011.0	122946.0	60270.0
+5001	Fiat Ducato MAXI 2.3MultiJet 130KM L4H2 JAK NOWY!!!	diesel	bezwypadkowy	2016.0	328000.0	66419.0
+5002	Fiat Fiorino 1,3MJ-FL-diesel 80KM-boczne drzwi-odDealera	diesel	bezwypadkowy	2016.0	30100.0	36900.0
+5003	Fiat Ducato Ducato Maxi Laweta DigiCross 2.3MJ II 180KM	diesel	bezwypadkowy	2018.0	6.0	147447.0
+5004	Fiat Ducato Autosklep wędlin ryb Gastronomiczny Food Truck Foodtruck	diesel	bezwypadkowy	2001.0	310000.0	31500.0
+5005	Fiat Ducato Autogril Autosklep Gastronomiczny Food Truck Foodtruck 2003	diesel	bezwypadkowy	2003.0	116000.0	22500.0
+5006	Fiat Scudo 2.0 120KM 6-osobowy LONG L2H1	diesel	bezwypadkowy	2008.0	245000.0	24800.0
+5007	Fiat Doblo Doblo|1,4 95 KM |furgon | S |Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	49186.0
+5008	Fiat Doblo SALON PL / Chłodnia / Klimatyzacja / Długi - L2 / GWARANCJA	diesel	bezwypadkowy	2013.0	212000.0	36888.0
+5009	Fiat Ducato ducato 3.0 180 km plandeka 8.9 ep SPOJKAR	diesel	bezwypadkowy	2015.0	260000.0	70110.0
+5010	Fiat Ducato Autogril Autosklep Gastronomiczny Food Truck Foodtruck 2003	diesel	bezwypadkowy	2003.0	116000.0	22500.0
+5011	Fiat Scudo 2.0 120KM 6-osobowy LONG L2H1	diesel	bezwypadkowy	2008.0	245000.0	24800.0
+5012	Fiat Doblo Doblo|1,4 95 KM |furgon | S |Wyprzedaż	benzyna	bezwypadkowy	2018.0	6.0	49186.0
+5013	Fiat Doblo SALON PL / Chłodnia / Klimatyzacja / Długi - L2 / GWARANCJA	diesel	bezwypadkowy	2013.0	212000.0	36888.0
+5014	Fiat Ducato ducato 3.0 180 km plandeka 8.9 ep SPOJKAR	diesel	bezwypadkowy	2015.0	260000.0	70110.0
+5015	Fiat Ducato Międzynarodówka 10 Europalet Carpol Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	134070.0
+5026	Fiat Ducato ZGUBILES MALY DUZY BRIEF LUBich BRAK WYROBIMY NOWE	diesel	sprawny	2011.0	49850.0	99000.0
+5071	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2014.0	97000.0	46900.0
+5076	Fiat Doblo MAXI CHŁODNIA MROŹNIA + GRZANIE IZOTERMA DŁUGI AC	diesel	bezwypadkowy	2014.0	97000.0	46900.0
+5103	Fiat Doblo MAXI Blaszak/Furgon, Salon Polska, JEDEN właścicie	diesel	sprawny	2008.0	297208.0	15867.0
+5127	Fiat Fiorino STAN BARDZO DOBRY ,FAKTURA VAT 23%	diesel	sprawny	2008.0	324730.0	9000.0
+5130	Fiat Scudo II / SALON PL / 9-OSÓB / DŁUGI L2 / 2,0 - 130KM / GWARANCJA	diesel	bezwypadkowy	2015.0	139000.0	55338.0
+5131	Fiat Croma II CROMA 2.4JTD automat 2006r kredyt bez bik i krd	diesel	bezwypadkowy	2006.0	205000.0	11500.0
+5132	Fiat Ducato III TRANSPORT POJAZDÓW AUTOLAWETĄ - z NIEMIEC, SZYBKO I SOLIDNIE	diesel	bezwypadkowy	2013.0	173113.0	1500.0
+5133	Fiat Grande Punto 1,4 16V 95 KM Bezwypadkowy b. bogate wyposażenie Gwarancja	benzyna	bezwypadkowy	2006.0	170000.0	14000.0
+5134	Fiat Bravo II 1.4 16 V 6 biegów, ks. serw ASO, stan idealny!Gwar	benzyna	bezwypadkowy	2008.0	154000.0	20500.0
+5135	Fiat Punto Evo 1,4b DUDKI 11 2 kpl.kół,klimatr,temp,elektr,radio,GWARANCJA	benzyna	sprawny	2011.0	180000.0	14900.0
+5136	Fiat Bravo II 1,4b DUDKI 11 2 kluczyki,klima,temp,elektr,radio,kredyt,GWARANCJA	benzyna	sprawny	2007.0	213000.0	12900.0
+5137	Fiat Bravo II Serwis - 6 Bieg - Pewne Auto - Auto z GWARANCJA	benzyna	bezwypadkowy	2007.0	183000.0	14900.0
+5138	Fiat 500L JAK NOWY-TYLKO 24 TYS.KM. NA GWARANCJI F-VAT23%!!!	benzyna	bezwypadkowy	2017.0	24000.0	49999.0
+5139	Fiat Freemont 2.0D Multijet Navi Skóra Automat Kamera 4x4 7 osób śliczny 2lata gwa	diesel	bezwypadkowy	2012.0	199000.0	49999.0
+5140	Fiat Croma II 1.9 JTD, full, skóra, GPS, panorama, ASO, ideał!	diesel	bezwypadkowy	2008.0	142000.0	22900.0
+5141	Fiat 500 1 REJ.2008 2-gi komplet nowych opon w podanej cenie	benzyna	bezwypadkowy	2007.0	100000.0	21900.0
+5142	Fiat Croma II Gwarancja Techniczna, Serwisowany, Klimatronik, 1,9 Multijet - 120 K	diesel	bezwypadkowy	2006.0	186000.0	12900.0
+5143	Fiat 500X I rej. kwiecień 2008, 1,4 benzyna, 100KM, skórzana tapicerka	benzyna	bezwypadkowy	2007.0	101000.0	18900.0
+5144	Fiat Bravo II 6biegów*Klimatyzacja*Asr*Abs*Serwis*1wł*Gwarancja VGS !!!	benzyna	sprawny	2009.0	167000.0	18990.0
+5145	Fiat Stilo 1,6b DUDKI 11 klima,radio CD,relingi,opłacony,kredyt,GWARANCJA	benzyna	sprawny	2003.0	167000.0	5900.0
+5146	Fiat Bravo II 150 KM,Gwarancja,Rata już od 351 zł !!!	diesel	sprawny	2007.0	179000.0	18900.0
+5147	Fiat Doblo II Multijet 16V 135KM EASY salon IT. FV 23%	diesel	bezwypadkowy	2015.0	189123.0	39900.0
+5148	Fiat Stilo 1.9 JTD 115KM Klima Komputer Alu El.Szyby Stan Tech.Bdb	diesel	sprawny	2002.0	215000.0	4900.0
+5149	Fiat Punto III Likwidacja komisu wyprzedaz 108845 km model multijet,orginalny laki	diesel	bezwypadkowy	2007.0	108000.0	13500.0
+5150	Fiat Croma II 1.9 JTD Multijet 120 KM 2006r. Automat Org.Przebieg Rejestracja 256z	diesel	bezwypadkowy	2006.0	282574.0	10800.0
+5151	Fiat Panda II 1.2 BENZYNA+GAZ,60 KM,WERSJA VAN,FAKTURA VAT	benzyna	sprawny	2007.0	234000.0	7300.0
+5152	Fiat Brava Brava 00r 1,2 benz. 80KM bez rdzy sprawna klima el	benzyna	bezwypadkowy	2001.0	259000.0	2600.0
+5153	Fiat Ducato III Transport samochodów osobowych z BERLINA/ESSEN, BOCHUM/CHEMNITZ/WIED	diesel	bezwypadkowy	2013.0	171556.0	1000.0
+5154	Fiat Doblo II 1.6 Multijet2 120KM MAXI JAK NOWY 15 TYS.KM. F-VAT	diesel	bezwypadkowy	2017.0	15000.0	67999.0
+5155	Fiat Bravo II 120km bixenon navi dvd alu komputer grzane siedzenia klimatronik pdc	diesel	bezwypadkowy	2015.0	117436.0	34000.0
+5156	Fiat Punto III 1.3 Multijet 69 KM VAN Zarejestr. w PL OPŁATY ! !	diesel	sprawny	2004.0	313417.0	3900.0
+5157	Fiat Doblo II MAXI-XL-2,0 MJ-135KM-krajowy-serwisowany-odDealera	diesel	bezwypadkowy	2015.0	136000.0	52900.0
+5158	Fiat Tipo 1.4 95 KM, Zarejestrowany, Serwis full, Mały przebieg, Długie Opłaty	benzyna	bezwypadkowy	2016.0	23000.0	39700.0
+5159	Fiat Bravo II Blue & Me 1.6 MTJ 120 KM,Zarejestrowany, Serwisowany, Stan Jak Nowy	diesel	sprawny	2014.0	45000.0	32900.0
+5214	Fiat Fiorino 1.3 MJET-75 Klima! Salon Polska! Full Serwis! 2014!	diesel	bezwypadkowy	2014.0	111000.0	23358.0
+5222	Fiat Ducato SALON POLSKA/ I WŁAŚCICIEL/ KSIĄŻKA SERWISOWA/ F-RA VAT 23%	diesel	sprawny	2012.0	80000.0	45977.0
+5226	Fiat Ducato / SALON PL / 9 OSÓB / Klimatronic / 2,0 163KM / Tempomat / GWARANCJA	diesel	bezwypadkowy	2017.0	119000.0	89667.0
+5227	Fiat Scudo 1.6HDI 90KM Ks. Serwis Bezwyp. Mały Oryg. Przebieg Klimatyzacja	diesel	bezwypadkowy	2015.0	108000.0	29900.0
+5231	Fiat Ducato 9-OSÓB L2H2 KLIMA WEBASTO DŁUGI WYSOKI 6-BIEGÓW	diesel	bezwypadkowy	2016.0	236000.0	60900.0
+5232	Fiat Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck sklep imbi	diesel	bezwypadkowy	2004.0	199520.0	36285.0
+5234	Fiat Ducato L1H1 2.3M-JET 130KM JAK NOWY TYLKO 137TYS.KM.F-VAT	diesel	bezwypadkowy	2016.0	137000.0	62729.0
+5235	Fiat Ducato / SALON PL / 7 - OSÓB - GRUAU / Maxi - L4H2 / Klimatronic / GWARANCJ	diesel	bezwypadkowy	2017.0	139000.0	88314.0
+5236	Fiat kamper Orange Camp Ducato 2.3JTD 2013' Garaż, TV, Łóżko centralne	diesel	sprawny	2013.0	55000.0	139500.0
+5237	Fiat Ducato L2H2 130KM CHŁODNIA 0*C Salon Polska DEALER ANGELS	diesel	bezwypadkowy	2013.0	128000.0	72447.0
+5238	Fiat Ducato L2H2 130KM CHŁODNIA 0*C Salon Polska DEALER ANGELS	diesel	bezwypadkowy	2013.0	121000.0	71955.0
+5239	Fiat Ducato 3.0M-JET 180KM 8EP SYPIALNIA GRUAU F-VAT 23%!!!	diesel	bezwypadkowy	2014.0	430000.0	61499.0
+5240	Fiat Panda Van 1.2 benzyna 70KM 2 osobowy klimatyzacja 23%VAT SalonPL	benzyna	bezwypadkowy	2013.0	162446.0	16500.0
+5241	Fiat Ducato Autosklep Sklep FoodTruck Gastronomiczny do wędlin Sera Ryb Food Tru	diesel	bezwypadkowy	1996.0	344350.0	27500.0
+5242	Fiat Fiorino 1.4 8V GAZ JAK NOWY TYLKO 111TYS.KM. F-VAT23%!!!	benzyna	bezwypadkowy	2015.0	111000.0	27059.0
+5243	Fiat Ducato Autosklep Sklep FoodTruck Gastronomiczny do wędlin Food Truck 2003	diesel	bezwypadkowy	2003.0	290000.0	37500.0
+5244	Fiat Ducato Autosklep Gastronomiczny Foodtruck Sklep wędlin imbis Food truck 201	diesel	bezwypadkowy	2011.0	172300.0	86500.0
+5245	Fiat Ducato Ducato Autosklep Wędlin Ryb Gastronomiczny Food Truck Foodtruck 2004	diesel	bezwypadkowy	2004.0	171200.0	49077.0
+5246	Fiat Doblo Skrzynia Work Up Maxi L2 1.6 MJ 105KM, Ład.1000 kg + 3 miejsca - 201	diesel	bezwypadkowy	2018.0	5.0	73677.0
+5248	Fiat Doblo Cargo Maxi SX L2H1 1.6 MJ 105KM 3 miejsca Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	66297.0
+5251	Fiat Grande Punto VAN*1.3 MULTIJET*KLIMA*Telefon*Tempomat*Odpis VAT*2	diesel	sprawny	2015.0	72783.0	25707.0
+5257	Fiat Ducato Podwójna Kabina 7 miejsc + skrzynia 2.4x2.0m 2.3 150 KM Okazja 2018	diesel	bezwypadkowy	2018.0	5.0	101967.0
+5258	Fiat Fiorino GWARANCJA I-wł Kraj Bezwypadkowy FV vat 23% KLIMA Multijet	diesel	bezwypadkowy	2015.0	159000.0	28289.0
+5259	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2014.0	206569.0	37300.0
+5267	Citroen Jumper I Fiat Palio 1.2 benzyna 5drzwi TECHNICZNIE BDB aktualne opłat	benzyna	bezwypadkowy	1999.0	151000.0	1090.0
+5275	Fiat Ducato L2H2 130KM parktronic bluetooth klima Salon Polska DEALER ANGELS	diesel	bezwypadkowy	2013.0	148000.0	50307.0
+5276	Fiat Ducato 3.0 moc 180KM Sypialka/Salon Polska/bezwypadkowy/serwisowany/F.VAT	diesel	bezwypadkowy	2013.0	178478.0	58999.0
+5278	Fiat Doblo Maxi SX L2H1 1.6 Multijet 105 KM / Salon Polska Bezwypadkowy !!!	diesel	bezwypadkowy	2015.0	83000.0	36777.0
+5279	Fiat Ducato MAXI L4H2 NOWY MODEL 2.3 euro5 PROFESSIONAL Niski Przebieg	diesel	bezwypadkowy	2015.0	93000.0	82287.0
+5283	Fiat Scudo krajowy*fv 23% * jeden właściciel * klima * wersja długa *bezwypadko	diesel	bezwypadkowy	2013.0	122000.0	33087.0
+5287	Fiat Ducato 2.3 Mjet L2h2 klimatyzacja salon PL F-ra Vat23%	diesel	bezwypadkowy	2013.0	187545.0	35547.0
+5289	Fiat Ducato 8-palet PLANDEKA *Salon Polska* SKRZYNIA 130 KM NISKI PRZEBIEG	diesel	bezwypadkowy	2015.0	77000.0	84255.0
+5293	Fiat Ducato 2,3 M-JET 130KM MAXI L4H2 A/C MOD 16r SALON NR 48	diesel	sprawny	2015.0	99000.0	67896.0
+5294	Fiat Scudo VAN 2,0HDI 128KM A/C NAVIGACJA DŁUGI L2H1 NR 1	diesel	sprawny	2014.0	144000.0	41697.0
+5295	Fiat Ducato L3H2 BRYGADOWY 7-OSÓB Professional Nowy Model EURO 5	diesel	bezwypadkowy	2016.0	52000.0	105657.0
+5296	Fiat Doblo 1,6 105km multijet Maxi L2H1 Salon PL F-Vat 23%	diesel	bezwypadkowy	2014.0	225042.0	26937.0
+5297	Fiat Scudo 2.0 JTDM L1H1 120 Multijet*Możliwa zamiana*Opłacony i zarejstrowany	diesel	sprawny	2010.0	269736.0	19900.0
+5298	Fiat Doblo Opel Combo 1,3 JTD chłodnia do przewozów leków model 2014	diesel	bezwypadkowy	2013.0	245000.0	24477.0
+5300	Fiat Fiorino Nowe Fiorino Cargo | BASE | 1.4be 75KM | Euro 6 Business PRO	benzyna	bezwypadkowy	2018.0	8.0	38009.0
+5301	Fiat Ducato L2H2 CHŁODNIA 0*C NOWA IZOTERMA 130KM Salon Polska klima bluetooth	diesel	bezwypadkowy	2013.0	143000.0	70356.0
+5302	Fiat Panda SalonPL 23% VAT VAN 1.2 benzyna 70KM 2011r Klimatyzacja Wspomaganie	benzyna	bezwypadkowy	2011.0	148711.0	11900.0
+5304	Fiat Ducato / SALON PL / 3.0 180 KM / 10 EP / Klimatyzacja / Gwarancja	diesel	bezwypadkowy	2016.0	228000.0	79938.0
+5305	Fiat Ducato Autosklep do Wędlin Gastronomiczny Foodtruck imbis Food truck 2004	diesel	bezwypadkowy	2004.0	220000.0	32500.0
+5306	Fiat Ducato / SALON PL / 3.0 180 KM / FIRANKA 10 EP / Klimatronic / Gwarancja	diesel	bezwypadkowy	2016.0	269000.0	73788.0
+5308	Fiat Ducato Autosklep wędlin Ryb Gastronomiczny Food Truck Foodtruck sklep 2010	diesel	bezwypadkowy	2009.0	205101.0	132840.0
+5309	Fiat Ducato Autosklep wędlin Smażalnia do Ryb Gastronomiczny Food Truck Foodtruc	diesel	bezwypadkowy	2005.0	105000.0	49900.0
+5310	Fiat Ducato Laweta / Pomoc Drogowa dł. 5,0 m 2.3 180KM DMC 3.5t Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	126567.0
+5311	Fiat Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck sklep 2008	diesel	bezwypadkowy	2007.0	297000.0	55965.0
+5312	Fiat Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck Borco 2004	diesel	bezwypadkowy	2004.0	351000.0	35055.0
+5313	Fiat Scudo 1.6 JTD I Właściciel w kraju 90ps Przebieg 208.000	diesel	bezwypadkowy	2007.0	208.0	12900.0
+5316	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	186183.0	36400.0
+5321	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	187145.0	36400.0
+5322	Fiat Doblo 1,4i 120KM Turbo Benz - GAZ MAXI Natu Kredyt z BIK	benzyna	sprawny	2013.0	68110.0	31000.0
+5331	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	184062.0	36400.0
+5337	Fiat Ducato Kabina L2 2.3 MJ 130KM DMC 3.3 zabudowa max dł. 3,6 m Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	76752.0
+5338	Fiat Ducato KONTENER 8-palet WINDA pakiet BlueMe klima bluetooth __Gwarancja KM_	diesel	bezwypadkowy	2014.0	161000.0	69495.0
+5339	Fiat Ducato 2.3 MultiJet. L3H2. Klima. Bezwypadkowy. Serwis. Gwarancja. 150 kM	diesel	bezwypadkowy	2014.0	289000.0	35500.0
+5340	Fiat Doblo Cargo 1.3 MJ Euro 5 1248ccm - 90KM 2.0t 11-15	diesel	sprawny	2012.0	303583.0	11926.0
+5341	Fiat Fiorino .4 Euro 6 1368ccm - 77KM 1,7t 16-, Fiorino 1.4 8V SX	benzyna	sprawny	2017.0	43041.0	30583.0
+5342	Fiat Ducato Ducato 2.3 Jtd 130KM Skrzynia Dokka doka 7-osob 2014	diesel	sprawny	2014.0	139729.0	47847.0
+5344	Fiat Doblo Cargo 1.3 MJ Euro 5 1248ccm - 90KM 2.0t 11-15	diesel	sprawny	2012.0	273476.0	11926.0
+5345	Fiat Ducato L3H2 Zawieszenie Maxi 22.000km Nowy Model Professional kamera cofani	diesel	bezwypadkowy	2014.0	22000.0	78105.0
+5346	Fiat Ducato L3H2 7-OSOBOWY 2.3 130KM TYLKO 114TYS.KM.F-VAT 23%	diesel	bezwypadkowy	2015.0	114000.0	79949.0
+5348	Fiat Ducato 2,0 mjt 115 KM L3H2 Blue Me Klima Tempomat Serwis	diesel	bezwypadkowy	2012.0	137000.0	33087.0
+5349	Fiat Ducato 2,3 MultiJet,130KM L2h2 ,salon PL, f-vat 23%	diesel	bezwypadkowy	2013.0	204614.0	34317.0
+5353	Fiat Doblo 1.3MJ 90KM Kraj -2-Wł -VAT 23% -FILM VIDEO -Zobacz	diesel	sprawny	2012.0	141000.0	24477.0
+5358	Fiat Ducato L4H2 Maxi NOWY MODEL 2.3 euro5 PROFESSIONAL WZOROWY STAN	diesel	bezwypadkowy	2015.0	108000.0	81795.0
+5359	Fiat Ducato L2H2 CHŁODNIA 0*C NOWY AGREGAT Salon Polska Nowa Zabudowa	diesel	bezwypadkowy	2013.0	146000.0	69987.0
+5360	Fiat Ducato L2H2 NOWY MODEL 2018 Blaszak DEALER ANGELS Ekran 5 cali Światła LED	diesel	bezwypadkowy	2018.0	36000.0	79827.0
+5361	Fiat Ducato 2,3 JTD 130 KM rok 2013 Euro 5 klima	diesel	uszkodzony	2013.0	275600.0	20787.0
+5362	Fiat Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck Borco 2007	diesel	bezwypadkowy	2007.0	361000.0	57810.0
+5363	Fiat Ducato L2H2 2018 *Zawieszenie maxi 3500kg* NOWY MODEL Salon Polska	diesel	bezwypadkowy	2018.0	42000.0	84747.0
+5364	Fiat Ducato MAXI L2H2 PANORAMA 9 OS 150KM Gwarancja, Salon PL,	diesel	bezwypadkowy	2015.0	95522.0	83025.0
+5365	Fiat Ducato MAXI CHŁODNIA 0*C 2.3 NOWY MODEL euro 5 PROFESSIONAL	diesel	bezwypadkowy	2015.0	189000.0	85977.0
+5366	Fiat Scudo L2H1 Maxi CHŁODNIA 0*C IZOTERMA Atest PZH Dealer ANGELS	diesel	bezwypadkowy	2014.0	92000.0	64575.0
+5368	Fiat Ducato 180KM Maxi L4H2 CHŁODNIA 0*C Salon Polska 2017r . Gwarancja	diesel	bezwypadkowy	2017.0	87000.0	121155.0
+5370	Fiat Ducato 2.3MJet 120 Ducato Skrzynia Dokka Doka Brygadówka 7-osob 2011	diesel	bezwypadkowy	2011.0	298900.0	33825.0
+5372	Fiat Ducato / SALON PL / 3.0 180 KM / 10 EP / Klimatyzacja / Gwarancja	diesel	bezwypadkowy	2015.0	218000.0	78708.0
+5373	Fiat Fiorino Cargo 1.4 77KM Seria specjalna Business + Pakiet Pro Wyprzedaż 2018	benzyna	bezwypadkowy	2018.0	5.0	37515.0
+5376	Fiat Ducato Ducato Autosklep do pieczywa Gastronomiczny Food Truck Foodtruck 200	diesel	bezwypadkowy	2005.0	310000.0	28500.0
+5377	Fiat Ducato Mxi L3H2 3,0 MultiJet 160km Full opcja Idealny sta	diesel	bezwypadkowy	2011.0	263000.0	36500.0
+5382	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	187145.0	44800.0
+5384	Fiat Fiorino GWARANCJA I-wł Kraj Bezwypadkowy FV vat 23% KLIMA Multijet	diesel	bezwypadkowy	2015.0	149000.0	29508.0
+5386	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	169490.0	38700.0
+5387	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	184505.0	36400.0
+5394	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	184062.0	44800.0
+5398	Fiat Panda VAN, Vat-1 Silnik IDEALNY POD GAZ 1,1 Benz. 54KM	benzyna	sprawny	2007.0	269704.0	6900.0
+5399	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	198019.0	34900.0
+5400	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	198019.0	42900.0
+5404	Fiat Ducato 1WŁ ASO Salon PL FV23% 9 osób 2.3 JTD Bezwypadkowy	diesel	bezwypadkowy	2015.0	330000.0	51998.0
+5405	Fiat Ducato 2.3MJ Izoterma Chłodnia -VAT 23% Brutto FILM VIDEO -1 Właściciel	diesel	bezwypadkowy	2014.0	109000.0	84200.0
+5406	Fiat Seicento 1.1 Gaz Polski Salon od pierwszej ręki full serwis w ASO bezwypadkow	benzyna	bezwypadkowy	2011.0	178000.0	8118.0
+5407	Fiat Fiorino 1.4 Euro 6 1368ccm - 77KM 1,7t 16-, Fiorino 1.4 8V SX	benzyna	sprawny	2017.0	36050.0	30228.0
+5412	Fiat Ducato 2.8 HDI*Brygadówka*Doka*Plandeka*Zadbany*VAT 23%*JUMPER*BOXER	diesel	bezwypadkowy	2001.0	278000.0	12177.0
+5414	Fiat Ducato AUTO LAWETA/2.3D/KLIMA/6 Biegów/Bezwyp/Serwis/Zarejestr/GWARANCJA/	diesel	bezwypadkowy	2007.0	233000.0	31999.0
+5417	Fiat Ducato KONTENER 4,42m + 3,0 177 KM + Salon PL + 1 Właściciel + Klimatyzacja	diesel	bezwypadkowy	2013.0	194500.0	61488.0
+5418	Fiat Ducato 3,0 JTD 180KM Dubel Autolaweta 1właściciel klima 7 osób	diesel	bezwypadkowy	2013.0	229914.0	61377.0
+5419	Fiat Doblo 1,6 o mocy 101KM,Klima,drzwi z lewej i prawej strony,ESP,ASR,Tempoma	diesel	bezwypadkowy	2013.0	154000.0	25707.0
+5421	Fiat Doblo 1,3jtd DUDKI 11 klima,elektr,radio,hak,oplacony,kredyt,GWARANCJA	diesel	sprawny	2012.0	178000.0	14900.0
+5422	Fiat Scudo 2.0 MAXI. Long. 2xBoczne drzwi. Klimatyzacja. Gwarancja.Zamiana. F-V	diesel	bezwypadkowy	2009.0	232000.0	20787.0
+5423	Fiat Scudo / SALON PL / DŁUGI - L2 / 37 tys. km / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2016.0	37000.0	52878.0
+5424	Fiat Fiorino Nowe Fiorino Cargo | BASE | 1.4be 75KM | Euro 6 Business PRO	benzyna	bezwypadkowy	2018.0	8.0	38009.0
+5428	Fiat Ducato 33 MJ L3H2 silnik diesla 2.3jtd miejsc od 3 do 7	diesel	sprawny	2010.0	196000.0	21900.0
+5429	Fiat Fiorino Cargo Base L1.4 77KM GAZ LPG E6D Promocja LPG Business 2019	benzyna	bezwypadkowy	2019.0	5.0	39225.0
+5430	Fiat Scudo Scudo 1,6 JTD Maxi Klima 163Tk Euro5 Professtonal 2016	diesel	sprawny	2016.0	163491.0	34500.0
+5432	Fiat Ducato ducato 180 autopomoc auto laweta Klimatyzacja 3,5T Kat B Stan idealn	diesel	sprawny	2014.0	222122.0	75500.0
+5433	Fiat Ducato Autosklep Gastronomiczny Foodtruck Sklep wędlin imbis Food truck W-z	diesel	bezwypadkowy	2000.0	295000.0	36900.0
+5437	Fiat Fiorino GWARANCJA I-wł Kraj Bezwypadkowy FV vat 23% KLIMA Multijet	diesel	bezwypadkowy	2015.0	99000.0	30627.0
+5441	Fiat Talento Kombi SX L2H1 1.6 145KM 9 Miejsc Wyprzedaż 2017 ! Okazja !	diesel	bezwypadkowy	2017.0	100.0	107871.0
+5446	Fiat Seicento GAZ GAZ 100% sprawny Po wymianie rozrządu i układu wydechowego	benzyna	sprawny	2003.0	186000.0	2000.0
+5448	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2014.0	206569.0	45900.0
+5455	Fiat Ducato Furgon L2H2 2.3 150KM DMC 3.3 Ładowność 1.3t Wyprzedaż 2018	diesel	bezwypadkowy	2018.0	5.0	87576.0
+5456	Fiat Fiorino 1WŁ ASO Salon PL FV23% Klima Czujniki 1.3 JTD	diesel	bezwypadkowy	2016.0	58000.0	22754.0
+5457	Fiat Ducato 2,3 MultiJet,130KM L2h2,Klima ,salon PL, f-vat 23%	diesel	bezwypadkowy	2013.0	182704.0	36285.0
+5458	Fiat Ducato DOKA 2,3 MJT moc 130km/skrzynia 2,9x2,0/ład.1313kg/F.VAT !	diesel	bezwypadkowy	2013.0	161625.0	36999.0
+5459	Fiat Ducato L2H2 WERSJA MAXI *Koła 16cali* NOWY MODEL Gwarancja techniczna	diesel	bezwypadkowy	2015.0	125000.0	70725.0
+5460	Fiat Grande Punto EURO 5/Ciężarowy/ Odlicz 100% VAT/ VAN/ VAT-1	diesel	bezwypadkowy	2009.0	201000.0	12177.0
+5461	Fiat Scudo II HDi-130 Długi! 9-Osób Klima! 2 x Drzwi Boczne! 2014!	diesel	bezwypadkowy	2014.0	217000.0	51537.0
+5462	Fiat Scudo PANORAMA 9-OSÓB long L2H1 climatronic nawiewy tył parktronic halogen	diesel	bezwypadkowy	2014.0	123000.0	59900.0
+5463	Fiat Ducato L2H2 CHŁODNIA 0*C 130KM Salon Polska Ładowność 1532 kg	diesel	bezwypadkowy	2013.0	162000.0	69495.0
+5466	Fiat Panda SalonPL 23% VAT VAN 1.2 benzyna 60KM 2006r Klimatyzacja Wspomaganie	benzyna	sprawny	2006.0	182625.0	6200.0
+5468	Fiat Ducato RAMA Rozstaw Osi:4,05m 130KM 2.3MJT EURO 5 *Gwaran	diesel	bezwypadkowy	2013.0	130700.0	35900.0
+5470	Fiat Ducato 2.3 MJT Navi dubel kabina 7osobowy wywrotka 3 strony klimatyzacja Ma	diesel	bezwypadkowy	2015.0	89040.0	93603.0
+5473	Fiat Ducato / SALON PL / 7-OSÓB DOKA / 77 tys.km / Klimatyzacja / GWARANCJA	diesel	bezwypadkowy	2014.0	77000.0	65178.0
+5474	Fiat Ducato KONTENER 8-palet MAXI Professional NOWY MODEL __Gwarancja KM__	diesel	bezwypadkowy	2015.0	185000.0	72447.0
+5475	Fiat Ducato 9-OSÓB L2H2 KLIMA WEBASTO DŁUGI WYSOKI 6-BIEGÓW	diesel	bezwypadkowy	2016.0	236000.0	60900.0
+5476	Fiat Ducato 3.0 177KM 2014r. 93tys. km. L4H2 max długi, klimatyzacja, PL Salon	diesel	sprawny	2014.0	93000.0	49900.0
+5477	Fiat Fiorino 1.3 MultiJet Polski Salon drzwi przesuwne serwisASO bezwypadkowy lad	diesel	bezwypadkowy	2011.0	167901.0	15375.0
+5478	Fiat Doblo VAN 1,3MULTIJET 90KM A/C SERWISOWANY 2 OSOBY NR 64	diesel	sprawny	2012.0	189000.0	24477.0
+5479	Fiat Doblo 1.6 MAXI CARGO L2H1 *NOWY MODEL* 3-OSOBOWY NAWIGACJA	diesel	bezwypadkowy	2015.0	181000.0	42927.0
+5481	Fiat Fiorino Nowe Fiorino Cargo | BASE | 1.4be 75KM | Euro 6 Business PRO	benzyna	bezwypadkowy	2018.0	5.0	38008.0
+5482	Fiat Ducato L4H3 MAXI Dach CHŁODNIA 0*C IZOTERMA Atest PZH *ANGELS*	diesel	bezwypadkowy	2015.0	114000.0	95817.0
+5483	Fiat Ducato L4H2 CHŁODNIA *MAXI* Climatronic 2017r. Nowy Model Euro 6	diesel	bezwypadkowy	2017.0	80000.0	122877.0
+5484	Fiat Ducato Autosklep wędlin Ryb Gastronomiczny Food Truck Foodtruck Borco 2002	diesel	bezwypadkowy	2002.0	395700.0	39975.0
+5485	Fiat Ducato / SALON PL / 3.0 180 KM / FIRANKA 10 EP / Klimatronic / Gwarancja	diesel	bezwypadkowy	2015.0	339000.0	61488.0
+5486	Fiat Doblo 1.6 105KM MAXI L2 TYLKO 134TYS.KM. F-VAT 23%!!!	diesel	bezwypadkowy	2015.0	134000.0	39359.0
+5487	Fiat Fiorino 1.3 d ABS Komputer Salon PL ład 610 kg F RA VAT	diesel	uszkodzony	2008.0	382000.0	7872.0
+5488	Fiat Ducato / SALON PL / 3.0 180 KM / FIRANKA 10 EP / Klimatronic / Gwarancja	diesel	bezwypadkowy	2016.0	244000.0	77367.0
+5489	Fiat Ducato Ducato Autosklep wędlin Ryb Gastronomiczny Food Truck Foodtruck imbi	diesel	bezwypadkowy	2004.0	214000.0	49077.0
+5493	Fiat Scudo 2,0 JTD Chłodnia Delphi Diavia frigo 2000 LG 2006 r	diesel	sprawny	2006.0	520000.0	5900.0
+5494	Fiat Punto van 1.4 77KM LPG. 2 wł, salon PL, fvat 23%	benzyna	bezwypadkowy	2010.0	200000.0	14883.0
+5498	Fiat Ducato DUCATO 3.0 180 km polski salon 8 paletowy plandeka SPOJTRAK	diesel	bezwypadkowy	2015.0	280000.0	65900.0
+5499	Fiat Scudo 1,9jtd DUDKI 11 2 kluczyki,radio,hak,oplacony,kredyt	diesel	sprawny	2001.0	243000.0	6900.0
+5501	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	186183.0	44800.0
+5502	Fiat Ducato Furgon L2H2 2.3 MJ 150KM DMC 3.5 Ładowność 1,5t Okazja 2018	diesel	bezwypadkowy	2018.0	5.0	99507.0
+5504	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	169490.0	47600.0
+5505	Fiat Ducato L2H2 KLIMA DŁUGI WYSOKI 6-BIEGÓW 2,3 MULTIJET 130	diesel	bezwypadkowy	2013.0	184505.0	44800.0
+5507	Fiat Fiorino GWARANCJA I-wł Kraj Bezwypadkowy FV vat 23% KLIMA Multijet	diesel	bezwypadkowy	2015.0	125000.0	29397.0
